@@ -1,0 +1,129 @@
+{% ckan_extends %}
+
+{% block header_site_search %}
+{% endblock %}
+
+{% block header_site_navigation %}
+      <nav class="section navigation">
+        <ul class="nav nav-pills">
+            <!-- <li>
+              <a href="#">Counts Datasets</a>
+            </li>
+            <li>
+              <a href="#">News</a>
+            </li>
+            <li>
+              <a href="/standard-date/esentiale">Data Standards</a>
+            </li> -->
+            <li>
+              <a href="/about">Tentang</a>
+            </li>
+            <li>
+              <a href="/group">Topik</a>
+            </li>
+            <li>
+              <a href="/organization">Organisasi</a>
+            </li>
+            <li>
+              <a href="/dataset">Data</a>
+            </li>
+
+        </ul>
+      </nav>
+<!--   
+  {% set current_lang = request.environ.CKAN_LANG %}
+  <div class="section language dropdown">
+    <a class="language-toggle" data-toggle="dropdown" href="#"><img src="/flags/{{ current_lang }}.svg"></a>
+      <ul class="dropdown-menu lang-dropdown">
+        <li>
+          <a href="{% url_for h.current_url(), locale='en' %}"><img src="/flags/en.svg"></a>
+        </li>
+        <li>
+          <a href="{% url_for h.current_url(), locale='ro' %}"><img src="/flags/ro.svg"></a>
+        </li>
+        <li>
+          <a href="{% url_for h.current_url(), locale='hu' %}"><img src="/flags/hu.svg"></a>
+        </li>
+      </ul>
+  </div> -->
+  {% block dropdown %}
+  <nav class="section partners clearfix">
+    <ul class="nav navbar-nav navbar-left">
+      {% if g.partner1_logo %}
+        <li>
+          <a href="{{g.partner1_link}}">
+              <img src="{{ h.url_for_static_or_external(g.partner1_logo) }}"  />
+          </a>
+        </li>
+      {% endif %}
+      {% if g.partner2_logo %}
+        <li>
+          <a href="{{g.partner2_link}}">
+              <img src="{{ h.url_for_static_or_external(g.partner2_logo) }}"  />
+          </a>
+        </li>
+      {% endif %}
+      {% if g.partner3_logo %}
+        <li>
+          <a href="{{g.partner3_link}}">
+              <img src="{{ h.url_for_static_or_external(g.partner3_logo) }}"  />
+          </a>
+        </li>
+      {% endif %}
+      {% if g.partner4_logo %}
+        <li>
+          <a href="{{g.partner4_link}}">
+              <img src="{{ h.url_for_static_or_external(g.partner4_logo) }}"  />
+          </a>
+        </li>
+      {% endif %}
+      {% if g.partner5_logo %}
+        <li>
+          <a href="{{g.partner5_link}}">
+              <img src="{{ h.url_for_static_or_external(g.partner5_logo) }}"  />
+          </a>
+        </li>
+      {% endif %}
+      {% if g.partner6_logo %}
+        <li>
+          <a href="{{g.partner6_link}}">
+              <img src="{{ h.url_for_static_or_external(g.partner6_logo) }}"  />
+          </a>
+        </li>
+      {% endif %}
+      {% if g.partner7_logo %}
+        <li>
+          <a href="{{g.partner7_link}}">
+              <img src="{{ h.url_for_static_or_external(g.partner7_logo) }}"  />
+          </a>
+        </li>
+      {% endif %}
+      {% if g.partner8_logo %}
+        <li>
+          <a href="{{g.partner8_link}}">
+              <img src="{{ h.url_for_static_or_external(g.partner8_logo) }}"  />
+          </a>
+        </li>
+      {% endif %}
+      
+      
+    </ul>
+    <!-- <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown">
+        <a href="#" class="partners-dropdown-toggle dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+          aria-expanded="false">
+          <span>Data Portal</span>
+          <div class="icon-wrapper">
+            <img src="/icons/drop-down-arrow.png" alt="">
+          </div>
+        </a>
+        <ul class="partners-dropdown-menu dropdown-menu">
+          <li><a href="#">Data Portal</a></li>
+          <li><a href="#">Data Portal Iași</a></li>
+          <li><a href="#">Data Portal Constanța</a></li>
+        </ul>
+      </li>
+    </ul> -->
+  </nav>
+  {% endblock %}
+{% endblock %}

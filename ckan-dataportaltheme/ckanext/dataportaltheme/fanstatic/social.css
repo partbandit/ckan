@@ -1,0 +1,77 @@
+
+
+
+.container-fluid {
+	padding: 0px !important;
+}
+
+.social-col {
+	height: 50px;
+	position: relative;
+}
+
+.social-col .input-group {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.social
+{
+	background: #F0F0F0;
+	height: 50px;
+}
+
+.social-icons
+{
+	font-size: 35px;
+	color:grey;
+}
+
+.social-icons  {
+	text-align: right;
+	float: right;
+}
+
+.social-icons a{
+	float: left;
+}
+
+.social-icons .social-button {
+  height: 50px;
+  width: 50px;
+  /* background-color: gray; */
+  display: inline-block;
+  text-align: center;
+  padding: 2px;
+  opacity: .6;
+  color: #fff;
+}
+
+
+
+.social-icons .social-button:first-child:hover{
+   background-color:#3b5998;
+}
+
+.social-icons .social-button:nth-child(2):hover{
+    background-color:#fa7e1e;
+}
+.social-icons .social-button:nth-child(3):hover{
+    background-color:#0077b5;
+}
+.social-icons .social-button:nth-child(4):hover {
+    background-color:#0084b4;
+}
+
+
+.social-icons .donate-button {
+	display: inline-block;
+	text-transform: uppercase;
+	background: #1FB94A;
+	color:#FFFFFF;
+	height: 50px;
+	font-size: 14px;
+	line-height: 50px;
+	padding: 0 20px;
+}

@@ -1,0 +1,33 @@
+#githubFeed {
+	padding: 35px 45px;
+}
+
+	#githubFeed h2 {
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+	ul.github-issues-list {
+		list-style-type: none;
+		padding-left: 0;
+	}
+
+		li.github-issue {
+			padding-top: 16px;
+			padding-bottom: 16px;
+		}
+
+			li.github-issue a {
+				font-size: 16px;
+				color: #000;
+			}
+
+				li.github-issue a img {
+					margin-right: 20px;
+				}
+
+		.github-logo {
+			width: 50px;
+			height: 50px;
+			margin-right: 7px;
+		}

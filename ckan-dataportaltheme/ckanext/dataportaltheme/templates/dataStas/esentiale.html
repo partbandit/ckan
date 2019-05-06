@@ -1,0 +1,90 @@
+{% extends "page.html" %}
+
+{% block subtitle %}{{ _('Data standards') }}{% endblock %}
+
+{% block styles %}
+	{{ super() }}
+	{% resource 'dataportaltheme/dataStas.css' %}
+{% endblock %}
+
+
+{% block breadcrumb_content %}
+	<li class="active">{% link_for _('Data standards'), named_route="stas-date-esentiale" %}</li>
+{% endblock %}
+
+{% block primary %}
+	<h1>Ghidul calității datelor pentru datele tabulare</h1>
+
+	<p id="antet">
+		All datasets must meet these data quality requirements before publishing them on dataportal.ro.
+	</p>
+
+	<ul id="innerNav">
+		<li class="active"><a href="/standard-date/esentiale">Essential principles</a></li>
+		<li><a href="/standard-date/structura">Structure for tabular data</a></li>
+		<li><a href="/standard-date/esentiale">Other resources</a></li>
+	</ul>
+
+	<h3>1. Electronic legibility</h3>
+	<p>
+		Computer-readable information is given in a format that can be understood by a computer. This means that all relevant fields can be extracted and analyzed without a human contribution. Just because a data set is digitally accessible does not necessarily mean that it is readable for the computer (more information here). In the spirit of open data, data sets must be provided in unprotected file formats. Tabular data is provided as CSV or JSON format. Metadata should be excluded from the data files. These will be included in a zip file with the data file (see Data Pack below).
+	</p>
+
+	<h3>2. Ordered data</h3>
+	<p>
+		The concept of ordered data is based on the suggestion of Hadley Wickham, author of the popular packets Rggotot2 and plyr.
+	</p>
+
+	<p>
+		Hadley proposes three principles:
+	</p>
+
+	<ul>
+		<li>Each column is a variable. This means that each column must have the same unit of measure</li>
+		<li>Each row is an observation. Note that this does not mean that there is only one variable observed for each row. There may be several variables observed for each row: "An observation contains all the values &#8203;&#8203;measured on the same unit (such as a person, a day or a race) for all attributes." (Wickham, p. 3)</li>
+		<li>One type of observation unit for each table. For example, observations on the fertility indices of the entire female population and that women of different age groups should be in two tables:</li>
+		<li class="hasChild">
+			<ul id="bordered">
+				<li>Total Fertility Index ", where the observation unit is the entire female population </li>
+				<li>Total fertility index by age group ", where the observation unit is a female population of different age groups</li>
+			</ul>
+		</li>
+	</ul>
+
+	<h3>3. Consistency</h3>
+	<p>
+		Each variable must be processed and documented in the same way for all datasets. Examples include:
+	</p>
+
+	<ul>
+		<li>Data formats </li>
+		<li>Null and negligible values </li>
+		<li>Unit of measurement</li>
+	</ul>
+
+	<p>
+		This makes it easy for users to compile and use more than one set of data, even from different agencies.
+	</p>
+
+	<h3>4. Granularity and accuracy</h3>
+	<p>
+		As far as possible, agencies should provide raw, granular data instead of aggregate and process data, such as percentages. Totals and subtotals should be in separate tables if necessary. For example, there are cases where aggregate numbers (e.g., totals, indices) can not be derived from granular data points.
+	</p>
+
+	<h3>5. Lizibilitatea umană</h3>
+	<p>
+		În final, seturile de date ar trebui prezentate, de asemenea, într-un mod în care are sens pentru utilizatorii umani.
+		Din acest motiv, am creat un set nou de specificații privind metadatele împreună cu acest Ghid de calitate a datelor, pentru a ne asigura că seturile de date sunt documentate în mod clar. De pildă, fiecare tabel trebuie să fie însoțit de o schemă, care precizează tipul de variabilă.
+		Ar trebui să se utilizeze un limbaj simplu pentru a denumi seturile de date și elementele din ele în măsura în care este posibil. Numele de coloane ar trebui să fie descriptive și semnificative. Tot jargonul trebuie explicat în mod clar și, după caz, trebuie furnizate linkuri de referință.
+	</p>
+
+	<h3>Pachete de date</h3>
+	<p>
+		We have adapted this concept from the Open Knowledge International Data Pack specification, which allows us to add metadata and data files to a package. We chose to provide metadata in the YAML format instead of the JSON format because YAML can be read both man and computer. When users download a data set from dataportal.ro, the zip file contains:
+	</p>
+
+	<ul>
+		<li>A text file (in YAML syntax)</li>
+		<li>The resource file (s)</li>
+	</ul>
+{% endblock %}

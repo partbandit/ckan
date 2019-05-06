@@ -1,0 +1,79 @@
+
+
+
+<div style="height:10px; background-image: linear-gradient(to right, #00b8f0 , #009d56, #ffcc29);"></div>
+
+
+{% ckan_extends %}
+<footer class="site-footer">
+  <div class="container">
+    {% block footer_content %}
+    <div class="row">
+      <div class="col-sm-4 footer-links">
+        {% block footer_nav %}
+            <strong>Useful Links</strong><br/>
+            <br/>
+            <ul class="list-unstyled">
+                {% block footer_links %}
+                <li>{% link_for _('Terms and conditions'), named_route="terms-and-conditions" %}</li>
+                <!-- <li><a href="{{ h.url_for(controller='home', action='about') }}">Privacy Policy</a></li>
+                <li><a href="{{ h.url_for(controller='home', action='about') }}">Code of Conduct</a></li> -->
+                <li>{% link_for _('The cookie policy'), named_route="cookie-policy" %}</li>
+                <li>{% link_for _('Code of Conduct'), named_route="code-of-conduct" %}</li>
+                <!-- <li><a href="https://www.code4.ro/">Code 4 Romania</a></li> -->
+                <li><a href="mailto:contact@mail.com">Contact</a></li>
+                {% endblock %}
+            </ul>
+        {% endblock %}
+        </div>
+        <div class="col-sm-4 logo">
+        <!-- <img src="{{ h.url_for_static('base/images/logo_open_data.png') }}" alt="Data Portal" id="data_portal_logo"> -->
+        </div>
+      <div class="col-sm-4 attribution">
+        {% block footer_attribution %}
+          
+          <div class="row">
+            <img src="{{ h.url_for_static('/base/images/jds_putih.png') }}" alt="Jabar Digital Service" id="code_4_logo" />
+          </div>
+          <div class="row">
+            <div class="social-icons">
+              {% if g.facebook_url %}
+                  <a class="social-button" href="{{g.facebook_url}}" target="_blank"><i class="fa fa-facebook"></i></a>
+              {% endif %}
+
+              {% if g.instagram_url %}
+                  <a class="social-button" href="{{g.instagram_url}}" target="_blank"><i class="fa fa-instagram"></i></a>
+              {% endif %}
+
+              {% if g.linkedIn_url %}
+                  <a class="social-button" href="{{g.linkedIn_url}}" target="_blank"><i class="fa fa-linkedin"></i></a>
+              {% endif %}
+
+              {% if g.twitter_url %}
+                  <a class="social-button" href="{{g.twitter_url}}" target="_blank"><i class="fa fa-twitter"></i></a>
+              {% endif %}
+            </div>
+          </div>
+          <div class="row">
+            <div>
+              &copy; 2019 {% if h.current_year != 2019 %}- {{h.current_year}}{% endif %} Jabar Digital Service.
+            </div>
+          </div>
+          <!-- <div id="copyDesc">
+            An independent, non-governmental and non-political organization.
+          </div> -->
+        {% endblock %}
+        {% block footer_lang %}
+          {# snippet "snippets/language_selector.html" #}
+        {% endblock %}
+      </div>
+    </div>
+    {% endblock %}
+  </div>
+
+  {% block footer_debug %}
+    {% if g.debug %}
+      {% include 'snippets/debug.html' %}
+    {% endif %}
+  {% endblock %}
+</footer>

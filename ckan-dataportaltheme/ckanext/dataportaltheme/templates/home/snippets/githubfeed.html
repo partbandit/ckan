@@ -1,0 +1,15 @@
+<div class="shadowbox clearAll" id="githubFeed">
+  <h2>Latest Tasks Added: </h2>
+  <ul class="github-issues-list">
+      {% for task in h.githubfeed_latest[:3] %}
+      <li class="github-issue">
+          <a target="_blank" href="{{task['html_url']}}">
+              <img src="logos/github_logo.png" class="github-logo">
+              {{task['title']}}
+          </a>
+      </li>
+      {% endfor %}
+  </ul>
+
+  <a class="seeAllLink" target="_blank" href="{{ h.githubfeed_getallissuesurl }}">SEE ALL THE TASKS</a>
+</div>
