@@ -1,0 +1,13 @@
+version: '3'
+services:
+  silkare-backend:
+    # build: .
+    image: registry.gitlab.com/jdsteam/open-data/ckan-jawa-barat:latest
+    container_name: "ckan-jawa-barat" 
+    ports: 
+      - "14061:5002"
+    volumes:
+      - /home/development/application/kan-jawa-barat/resources:/resources
+      - /home/development/application/kan-jawa-barat/storage:/storage
+      - /home/development/application/kan-jawa-barat/temp:/temp
+    restart: always
