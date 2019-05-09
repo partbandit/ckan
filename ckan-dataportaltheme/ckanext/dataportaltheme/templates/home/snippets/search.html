@@ -1,6 +1,28 @@
 
 {% set placeholder = _('Mau Cari Data Apa?') %}
 
+<style>
+    ::-webkit-input-placeholder {
+      color: black;
+      font-weight: 800;
+   }
+   
+   :-moz-placeholder { /* Firefox 18- */
+      color: black;  
+      font-weight: 800;
+   }
+   
+   ::-moz-placeholder {  /* Firefox 19+ */
+      color: black;  
+      font-weight: 800;
+   }
+   
+   :-ms-input-placeholder {  
+      color: black;  
+      font-weight: 800;
+   }
+</style>
+
 <div class="hero module module-search module-narrow module-shallow box" 
 style="background: url('/base/images/videobg.png') no-repeat center center;
   height: 550px;

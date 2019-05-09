@@ -20,59 +20,12 @@
       {{ self.flash() }}
     </div>
     {% block primary_content %}
-        {% snippet "home/snippets/stats.html" %}
+    
+
+
         {% snippet "home/layout.html" %}
         {% block medium_extension %}
-          <div class="container articles">
-            <div class="row equal">
-              <div class="col-md-4">
-                <article class="shadowbox">
-                  <h3>How to use open data to increase your quality of life</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod and vitality, so that long-Wirl some hard work and a great idea. Exlaborum up any nostrud exercitatn vitality. Lorem ipsum dolor sit amet, consectetur adipiscing elit,</p>
-                  <a href="#" class="readMore">Read more</a>
-                </article>
-              </div>
-
-
-              <div class="col-md-4">
-                <article class="shadowbox">
-                  <h3>Storytelling with open data. Case study: Madrid</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod and vitality, so that long-Wirl some hard work and a great idea. Exlaborum up any nostrud exercitatn vitality. Lorem ipsum dolor sit amet, consectetur ad</p>
-                  <a href="#" class="readMore">Read more</a>
-                </article>
-              </div>
-
-
-              <div class="col-md-4">
-                <article class="shadowbox">
-                  <h3>Analysis of road traffic data</h3>
-                  <p>
-                    <img src="/home-dummies/pie2.png" />
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod and vitality, so that long-Wirl some hard work and a 
-                  </p>
-                  <a href="#" class="readMore">Read more</a>
-                </article>
-              </div>
-            </div>
-          </div>
         {% endblock medium_extension %}
-          <div class="main">
-            <div class="container bottomSection">
-              <div class="row">
-                <div class="col-md-12">
-                  <h2>Get involved:</h2>
-                </div>
-                {% block github_extension %}
-                  <div class="col-md-6">
-                    {% snippet "home/snippets/githubfeed.html" %}
-                  </div>
-                {% endblock github_extension %}
-                <div class="col-md-6">
-                    {% snippet "home/snippets/contactForm.html" %}
-                </div>
-              </div>
-            </div>
-          </div>
     {% endblock %}
   </div>
 {% endblock %}

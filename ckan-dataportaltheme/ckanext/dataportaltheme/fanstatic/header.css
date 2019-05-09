@@ -5,8 +5,8 @@
 }
 
 .masthead .logo img {
-  height: 130px;
-  max-height: 130px;
+  height: 90px;
+  max-height: 90px;
 }
 
 @media (min-width: 992px) {
@@ -33,7 +33,15 @@
 }
 
 .masthead .navigation .nav-pills li {
-  float: right;
+}
+
+.masthead .navigation .nav-pills li:hover{
+ 
+  border-bottom: #00b8f0;
+  border-style: solid;
+  border-right: none;
+  border-left: none;
+  border-top: none;
 }
 
 
@@ -41,13 +49,15 @@
   color: #000;
   background-color: transparent;
   padding: 10px 0 10px 50px;
+  font-weight: bolder;
 }
 
 .masthead .navigation .nav-pills li a:hover,
 .masthead .navigation .nav-pills li a:focus,
 .masthead .navigation .nav-pills li.active a {
   background-color: transparent;
-  color: #000;
+  color: #333;
+  font-weight: bolder;
 }
 
 .masthead .section {

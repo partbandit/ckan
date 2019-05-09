@@ -9,32 +9,66 @@
   <div class="container">
     {% block footer_content %}
     <div class="row">
-      <div class="col-sm-4 footer-links">
+      <div class="col-sm-3 footer-links">
         {% block footer_nav %}
-            <strong>Useful Links</strong><br/>
+            <strong>Link Penting</strong><br/>
             <br/>
             <ul class="list-unstyled">
                 {% block footer_links %}
                 <li>{% link_for _('Terms and conditions'), named_route="terms-and-conditions" %}</li>
-                <!-- <li><a href="{{ h.url_for(controller='home', action='about') }}">Privacy Policy</a></li>
-                <li><a href="{{ h.url_for(controller='home', action='about') }}">Code of Conduct</a></li> -->
                 <li>{% link_for _('The cookie policy'), named_route="cookie-policy" %}</li>
                 <li>{% link_for _('Code of Conduct'), named_route="code-of-conduct" %}</li>
-                <!-- <li><a href="https://www.code4.ro/">Code 4 Romania</a></li> -->
                 <li><a href="mailto:contact@mail.com">Contact</a></li>
                 {% endblock %}
             </ul>
         {% endblock %}
         </div>
-        <div class="col-sm-4 logo">
-        <!-- <img src="{{ h.url_for_static('base/images/logo_open_data.png') }}" alt="Data Portal" id="data_portal_logo"> -->
-        </div>
-      <div class="col-sm-4 attribution">
-        {% block footer_attribution %}
-          
+        <div class="col-sm-6 logo">
           <div class="row">
-            <img src="{{ h.url_for_static('/base/images/jds_putih.png') }}" alt="Jabar Digital Service" id="code_4_logo" />
+              {% if g.partner1_logo %}
+                  <a class="" href="{{g.partner1_link}}" target="_blank">
+                      <img src="{{ h.url_for_static_or_external(g.partner1_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 10px;"/>
+                  </a>
+              {% endif %}
+              {% if g.partner2_logo %}
+                  <a class="" href="{{g.partner2_link}}" target="_blank">
+                      <img src="{{ h.url_for_static_or_external(g.partner2_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 10px;"/>
+                  </a>
+              {% endif %}
+              {% if g.partner3_logo %}
+                  <a class="" href="{{g.partner3_link}}" target="_blank">
+                      <img src="{{ h.url_for_static_or_external(g.partner3_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 10px;"/>
+                  </a>
+              {% endif %}
+              {% if g.partner4_logo %}
+                  <a class="" href="{{g.partner4_link}}" target="_blank">
+                      <img src="{{ h.url_for_static_or_external(g.partner4_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 10px;"/>
+                  </a>
+              {% endif %}
+              {% if g.partner5_logo %}
+                  <a class="" href="{{g.partner5_link}}" target="_blank">
+                      <img src="{{ h.url_for_static_or_external(g.partner5_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 10px;"/>
+                  </a>
+              {% endif %}
+              {% if g.partner6_logo %}
+                  <a class="" href="{{g.partner6_link}}" target="_blank">
+                      <img src="{{ h.url_for_static_or_external(g.partner6_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 10px;"/>
+                  </a>
+              {% endif %}
+              {% if g.partner7_logo %}
+                  <a class="" href="{{g.partner7_link}}" target="_blank">
+                      <img src="{{ h.url_for_static_or_external(g.partner7_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 10px;"/>
+                  </a>
+              {% endif %}
+              {% if g.partner8_logo %}
+                  <a class="" href="{{g.partner8_link}}" target="_blank">
+                      <img src="{{ h.url_for_static_or_external(g.partner8_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 10px;"/>
+                  </a>
+              {% endif %}
           </div>
+        </div>
+      <div class="col-sm-3 attribution">
+        {% block footer_attribution %} 
           <div class="row">
             <div class="social-icons">
               {% if g.facebook_url %}
@@ -59,12 +93,6 @@
               &copy; 2019 {% if h.current_year != 2019 %}- {{h.current_year}}{% endif %} Jabar Digital Service.
             </div>
           </div>
-          <!-- <div id="copyDesc">
-            An independent, non-governmental and non-political organization.
-          </div> -->
-        {% endblock %}
-        {% block footer_lang %}
-          {# snippet "snippets/language_selector.html" #}
         {% endblock %}
       </div>
     </div>
