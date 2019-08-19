@@ -1,36 +1,21 @@
-{% ckan_extends %}
+{% extends "page.html" %}
 
-{% block styles %}
-  {{ super() }}
-  {% resource 'dataportaltheme/about.css' %}
+{% block subtitle %}{{ _('Tentang') }}{% endblock %}
+
+{% block breadcrumb_content %}
+    <li class="active">{% link_for _('Tentang'), named_route="/about" %}</li>
 {% endblock %}
 
 {% block primary %}
-  <div id="aboutLogo">
-		<img style="width:50%; height:50%" src="{{ h.url_for_static_or_external(g.site_logo) }}" alt="{{ g.site_title }}" title="{{ g.site_title }}" />
-	</div>
-  <h2>What is Data Portal Timisoara</h2>
-  <p>
-    Computer-readable information is given in a format that can be understood by a computer. This means that all relevant fields can be extracted and analyzed without a human contribution. Just because a data set is digitally accessible does not necessarily mean that it is readable for the computer (more information here). In the spirit of open data, data sets must be provided in unprotected file formats. Tabular data is provided as CSV or JSON format. Metadata should be excluded from the data files. These will be included in a zip file with the data file (see Data Pack below).
-  </p>
 
-  <h2>About the Data Portal application</h2>
-  <p>
-    The purpose of the Data Portal platform is to respond to three issues related to open data in Romania. First, the portal will open to the public the data used in the Code for Romania projects. They can be accessed and viewed by anyone interested. Secondly, it will define standards and data protocols for data sets published by Code4Romania that can be implemented by any interested institution to provide public data. Thirdly, the platform will provide a starting point for developing an open data community in Romania. Through Data Portal we will provide support (infrastructure, procedures, know-how) to volunteers interested in opening and cleaning public data in Romania.
-  </p>
+    <h1>Tentang Open Data Jawa Barat</h1>
 
-  <div id="aboutCode4Ro">
-    <div id="aboutWrap">
-      <div id="logo">
-        <img src="base/images/jds.png" />
-      </div>
-
-      <div id="text">
-        <h2>About Jabar Digital Service </h2>
-        <p>
-          Upgrading Romania one app at a time. Code for Romania is an independent, non-governmental and non-political organization. More than 550 members of IT, communication, analysis and design specialists are developing digital solutions to solve society's problems. We build software tools to help increase transparency, open public data, help support education and access to services. We aim to help all communities through our projects by developing civic applications in all areas where technology can bring a beneficial change to everyone.
-        </p>
-      </div>
+    <br>
+    <div class="content"> 
+        <p>Open Data Jawa Barat adalah portal resmi data terbuka milik Pemerintah Provinsi Jawa Barat yang berisikan data-data dari Perangkat Daerah di lingkungan Pemerintah Provinsi Jawa Barat yang menghasilkan data terkait Provinsi Jawa Barat. </p>
+        <p>Open Data Jawa Barat ada untuk dapat memenuhi kebutuhan data publik bagi masyarakat. Data disajikan dengan akurat, akuntable, valid, mudah diakses dan berkelanjutan.  Open Data Jawa Barat diharapkan dapat memenuhi kebutuhan data dan informasi serta dapat mengoptimalkan pengawasan publik terhadap kinerja Pemerintah Provinsi Jawa Barat.</p>
+        <p>Data yang tersaji di Open Data Jawa Barat merupakan data publik yang sesuai dengan ketentuan Undang-Undang Nomor 14 Tentang Keterbukaan Informasi Publik. Data-data yang mengandung rahasia negara, rahasia pribadi dan data-data yang dapat merugikan banyak pihak tidak disajikan di Open Data Jawa Barat.</p>
+        
     </div>
-  </div>
+
 {% endblock %}

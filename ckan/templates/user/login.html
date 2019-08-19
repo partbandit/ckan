@@ -20,7 +20,7 @@
 {% block secondary_content %}
   {% if h.check_access('user_create') %}
   {% block help_register %}
-  <section class="module module-narrow module-shallow">
+  <!-- <section class="module module-narrow module-shallow">
     {% block help_register_inner %}
       <h2 class="module-heading">{{ _('Need an Account?') }}</h2>
       <div class="module-content">
@@ -32,12 +32,12 @@
         </p>
       </div>
     {% endblock %}
-  </section>
+  </section> -->
   {% endblock %}
   {% endif %}
 
   {% block help_forgotten %}
-  <section class="module module-narrow module-shallow">
+  <!-- <section class="module module-narrow module-shallow">
     {% block help_forgotten_inner %}
     <h2 class="module-heading">{{ _('Forgotten your password?') }}</h2>
     <div class="module-content">
@@ -49,6 +49,6 @@
       </p>
     </div>
     {% endblock %}
-  </section>
+  </section> -->
   {% endblock %}
 {% endblock %}

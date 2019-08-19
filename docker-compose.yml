@@ -1,8 +1,8 @@
 version: '3'
 services:
-  silkare-backend:
+  ckan-jawa-barat:
     # build: .
-    image: registry.gitlab.com/jdsteam/open-data/ckan-jawa-barat:latest
+    image: registry.gitlab.com/sirus-dev/open-data/ckan-jawa-barat:latest
     container_name: "ckan-jawa-barat" 
     ports: 
       - "14061:5002"

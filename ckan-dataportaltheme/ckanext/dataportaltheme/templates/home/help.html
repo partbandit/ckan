@@ -1,0 +1,28 @@
+{% extends "page.html" %}
+
+{% block subtitle %}{{ _('Bantuan') }}{% endblock %}
+
+{% block breadcrumb_content %}
+    <li class="active">{% link_for _('Bantuan'), named_route="help" %}</li>
+{% endblock %}
+
+{% block primary %}
+
+    <h1>Bantuan Open Data Jawa Barat</h1>
+    <br>
+    <div class="content">
+        <p> Hai! Selamat datang pusat bantuan Open Data Jawa Barat. <br>
+            Berikut merupakan beberapa pertanyaan yang sering ditanyakan terkait Open Data Jawa Barat:
+        </p>
+        <ul>
+            <li>Q : Apa itu Open Data? </li>
+            <li>A : Data terbuka adalah data yang dapat digunakan secara bebas, dimanfaatkan, dan didistribusikan kembali oleh siapapun tanpa syarat, kecuali dengan mengutip sumber dan pemilik data. Selain itu, seluruh data yang dipublikasikan harus mengikuti peraturan perundang-undangan yang berlaku.</li>
+        </ul>
+        <ul>
+            <li>Q : Dari manakah sumber data yang ada pada Open Data Jawa Barat? </li>
+            <li>A : Perangkat Daerah, Kabupaten/Kota dan Intansi Vertikal.</li>
+        </ul>
+        
+    </div>
+
+{% endblock %}

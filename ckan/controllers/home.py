@@ -79,11 +79,11 @@ class HomeController(base.BaseController):
 
         return base.render('home/index.html', cache_force=True)
 
-    def license(self):
-        return base.render('home/license.html')
+    # def help(self):
+    #     return base.render('home/help.html')
 
-    def about(self):
-        return base.render('home/about.html')
+    # def about(self):
+    #     return base.render('home/about.html')
 
     def cache(self, id):
         '''Manual way to clear the caches'''

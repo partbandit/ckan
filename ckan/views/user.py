@@ -705,8 +705,8 @@ _edit_view = EditView.as_view(str(u'edit'))
 user.add_url_rule(u'/edit', view_func=_edit_view)
 user.add_url_rule(u'/edit/<id>', view_func=_edit_view)
 
-user.add_url_rule(
-    u'/register', view_func=RegisterView.as_view(str(u'register')))
+# user.add_url_rule(
+#     u'/register', view_func=RegisterView.as_view(str(u'register')))
 
 user.add_url_rule(u'/login', view_func=login)
 user.add_url_rule(u'/logged_in', view_func=logged_in)

@@ -1,0 +1,37 @@
+id,kemendagri_provinsi_kode,kemendagri_kabupaten_kode,kemendagri_provinsi_nama,kemendagri_kabupaten_nama,bps_provinsi_kode,bps_kabupaten_kode,bps_provinsi_nama,bps_kabupaten_nama,latitude,longitude,polygon_json
+178,32,32.18,JAWA BARAT,KAB. PANGANDARAN,32,3218,JAWA BARAT,PANGANDARAN,-7.64892,108.6499,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              107.22656249999999,
+              -6.738258606353293
+            ],
+            [
+              107.193603515625,
+              -7.163575247345454
+            ],
+            [
+              107.77862548828125,
+              -7.256220643638173
+            ],
+            [
+              107.82806396484375,
+              -6.7737162387535
+            ],
+            [
+              107.22656249999999,
+              -6.738258606353293
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}"

@@ -21,16 +21,22 @@
             <h2 class="module-heading"><i class="fa fa-lock"></i> {{ _('License') }}</h2>
           {% endblock %}
           {% block license_content %}
-            <p class="module-content">
+            <!-- <p class="module-content"> --> 
+            <ul class="nav nav-simple" style="padding-left: 20px; background: #F0F0F0;">
               {% block license_content_inner %}
+                <li class="nav-item">
                 {{ license_string(pkg_dict) }}
+                </li>
                 {% if pkg_dict.isopen %}
+                <li class="nav-item">
                   <a href="http://opendefinition.org/okd/" title="{{ _('This dataset satisfies the Open Definition.') }}">
                       <img class="open-data" src="{{ h.url_for_static('/base/images/od_80x15_blue.png') }}" alt="[Open Data]" />
                   </a>
+                </li>
                 {% endif %}
               {% endblock %}
-            </p>
+            <!-- </p> -->
+            </ul>
           {% endblock %}
         </section>
       {% endblock %}

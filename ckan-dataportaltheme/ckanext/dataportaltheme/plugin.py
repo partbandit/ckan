@@ -18,6 +18,7 @@ from pprint import pprint
 
 c = base.c
 request = base.request
+count = 0
 
 @ttl_cache(ttl=60 * 60)
 def gettasks(params={'state': 'open'}):
@@ -126,17 +127,25 @@ class DataportalthemePlugin(plugins.SingletonPlugin):
 
     def before_map(self, route_map):
         with routes.mapper.SubMapper(route_map, controller='ckanext.dataportaltheme.plugin:PortalController') as map:
-            map.connect('stas-date-esentiale',
-                        '/standard-date/esentiale', action='dataStatsEsentiale')
-            map.connect('stas-date-struct',
-                        '/standard-date/structura', action='dataStatsStruct')
-            map.connect('terms-and-conditions',
-                        '/termsandconditions', action='termsandconditions')
-            map.connect('contact-form', '/contact-form', action='contactForm')
-            map.connect('cookie-policy', '/cookiepolicy',
-                        action='cookiePolicy')
-            map.connect('code-of-conduct', '/codeofconduct',
-                        action='codeOfConduct')
+            # map.connect('stas-date-esentiale',
+            #             '/standard-date/esentiale', action='dataStatsEsentiale')
+            # map.connect('stas-date-struct',
+            #             '/standard-date/structura', action='dataStatsStruct')
+            # map.connect('terms-and-conditions',
+            #             '/termsandconditions', action='termsandconditions')
+            # map.connect('contact-form', '/contact-form', action='contactForm')
+            # map.connect('cookie-policy', '/cookiepolicy',
+            #             action='cookiePolicy')
+            # map.connect('code-of-conduct', '/codeofconduct',
+            #             action='codeOfConduct')
+            # map.connect('visualization', '/visualization',
+            #             action='visualization')
+            # map.connect('infographic', '/infographic',
+            #             action='infographic')
+            map.connect('help', '/help',
+                        action='help')
+            map.connect('about', '/about',
+                        action='about')
             map.connect('admin.dataportal', '/ckan-admin/dataportal', action='dataportalAdmin')
         return route_map
 
@@ -195,33 +204,45 @@ class PortalController(base.BaseController):
         ]
         return items
 
-    def dataStatsEsentiale(self):
-        return base.render('dataStas/esentiale.html')
+    # def dataStatsEsentiale(self):
+    #     return base.render('dataStas/esentiale.html')
 
-    def dataStatsStruct(self):
-        return base.render('dataStas/struct.html')
+    # def dataStatsStruct(self):
+    #     return base.render('dataStas/struct.html')
 
-    def termsandconditions(self):
-        return base.render('home/termsandconditions.html')
+    # def termsandconditions(self):
+    #     return base.render('home/termsandconditions.html')
 
-    def contactForm(self):
-        request_params = plugins.toolkit.request.params
-        url = 'https://docs.google.com/forms/u/2/d/e/1FAIpQLSeGNW5FjBwauZLsf0Ar8P6SgbTdd0n5hRfCAJ-XKtzWQMSqRA/formResponse'
-        form_data = {'entry.268426185': request_params['email'],
-                     'entry.782078158': request_params['message'],
-                     'draftResponse': [],
-                     'fvv': 1,
-                     'pageHistory': 0}
-        user_agent = {'Referer': 'https://docs.google.com/forms/d/e/1FAIpQLSeGNW5FjBwauZLsf0Ar8P6SgbTdd0n5hRfCAJ-XKtzWQMSqRA/viewform',
-                      'User-Agent': "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.52 Safari/537.36"}
-        r = requests.post(url, data=form_data, headers=user_agent)
-        return base.render('home/contactform.html')
+    # def contactForm(self):
+    #     request_params = plugins.toolkit.request.params
+    #     url = 'https://docs.google.com/forms/u/2/d/e/1FAIpQLSeGNW5FjBwauZLsf0Ar8P6SgbTdd0n5hRfCAJ-XKtzWQMSqRA/formResponse'
+    #     form_data = {'entry.268426185': request_params['email'],
+    #                  'entry.782078158': request_params['message'],
+    #                  'draftResponse': [],
+    #                  'fvv': 1,
+    #                  'pageHistory': 0}
+    #     user_agent = {'Referer': 'https://docs.google.com/forms/d/e/1FAIpQLSeGNW5FjBwauZLsf0Ar8P6SgbTdd0n5hRfCAJ-XKtzWQMSqRA/viewform',
+    #                   'User-Agent': "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.52 Safari/537.36"}
+    #     r = requests.post(url, data=form_data, headers=user_agent)
+    #     return base.render('home/contactform.html')
 
-    def cookiePolicy(self):
-        return base.render('home/cookiepolicy.html')
+    # def cookiePolicy(self):
+    #     return base.render('home/cookiepolicy.html')
 
-    def codeOfConduct(self):
-        return base.render('home/codeofconduct.html')
+    # def codeOfConduct(self):
+    #     return base.render('home/codeofconduct.html')
+
+    def visualization(self):
+        return base.render('home/visualization.html')
+
+    def infographic(self):
+        return base.render('home/infographic.html')
+
+    def help(self):
+        return base.render('home/help.html')
+
+    def about(self):
+        return base.render('home/about.html')
 
     def dataportalAdmin(self):
         # items = self._get_config_form_items()

@@ -9,7 +9,7 @@ sandbox/*
 dist
 
 # pylons
-development.ini*
+# development.ini*
 sstore/*
 data/*
 pylons_data/*
@@ -22,7 +22,7 @@ build/*
 tmp/*
 solr_runtime/*
 fl_notes.txt
-*.ini
+# *.ini
 .noseids
 *~
 .idea

@@ -18,6 +18,7 @@ import copy
 import urlparse
 from urllib import urlencode
 import uuid
+from bs4 import BeautifulSoup
 
 from paste.deploy import converters
 from webhelpers.html import HTML, literal, tags, tools
@@ -49,8 +50,12 @@ import ckan.plugins as p
 import ckan
 
 from ckan.common import _, ungettext, c, g, request, session, json
-from markupsafe import Markup, escape
+from markupsafe import Markup, escape 
 
+import psycopg2
+import psycopg2.extras
+import configparser
+from sqlalchemy.engine.url import make_url
 
 log = logging.getLogger(__name__)
 
@@ -1195,13 +1200,42 @@ def group_name_to_title(name):
 
 
 @core_helper
-def markdown_extract(text, extract_length=190):
+def html_extract(text, extract_length=150):
+    soup = BeautifulSoup(text) # create a new bs4 object from the html data loaded
+    for script in soup(["script", "style"]): # remove all javascript and stylesheet code
+        script.extract()
+    # get text
+    plain = soup.get_text()
+    # break into lines and remove leading and trailing space on each
+    lines = (line.strip() for line in plain.splitlines())
+    # break multi-headlines into a line each
+    chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
+    # drop blank lines
+    plain = '\n'.join(chunk for chunk in chunks if chunk) 
+
+    return literal(
+        text_type(
+            whtext.truncate(
+                plain,
+                length=extract_length,
+                indicator='...',
+                whole_word=True
+            )
+        )
+    ) 
+
+@core_helper
+def markdown_extract(text, extract_length=30):
     ''' return the plain text representation of markdown encoded text.  That
     is the texted without any html tags.  If extract_length is 0 then it
     will not be truncated.'''
     if not text:
         return ''
     plain = RE_MD_HTML_TAGS.sub('', markdown(text))
+    #print(plain)
+
+    
+
     if not extract_length or len(plain) < extract_length:
         return literal(plain)
 
@@ -2463,7 +2497,37 @@ def featured_group_org(items, get_action, list_action, count):
 
 @core_helper
 def get_site_statistics():
+
+    config = configparser.ConfigParser()
+    config.read('development.ini') 
+    url = config['app:main']['sqlalchemy.url']  
+    url = make_url(url)
+    # print (url.username, url.password, url.host, url.port, url.database)
+
+
     stats = {}
+    try:
+        connection = psycopg2.connect(host=url.host,user=url.username, password=url.password, database=url.database, port=url.port, cursor_factory=psycopg2.extras.DictCursor)
+        
+        query1 = "SELECT COUNT(*) as count FROM public.ckanext_pages WHERE page_type = \'page\'"
+        query2 = "SELECT COUNT(*) as count FROM public.ckanext_pages WHERE page_type = \'blog\'"
+
+        cursor1 = connection.cursor()
+        cursor2 = connection.cursor()
+
+        cursor1.execute(query1) 
+        cursor2.execute(query2) 
+
+        result1 = cursor1.fetchone()
+        result2 = cursor2.fetchone()
+
+        stats['visualization_count'] = result1[0]
+        stats['infographic_count'] = result2[0]
+
+    except Exception as e:
+        print("something wrong in connection")
+        print(e)
+
     stats['dataset_count'] = logic.get_action('package_search')(
         {}, {"rows": 1})['count']
     stats['group_count'] = len(logic.get_action('group_list')({}, {}))
@@ -2642,3 +2706,131 @@ def sanitize_id(id_):
     ValueError.
     '''
     return str(uuid.UUID(id_))
+
+
+class HtmlParser(object):
+    """
+    Parser for HTML. 
+    """
+    
+    tagRegex = re.compile("(?i)<(\/?\w+)((\s+\w+(\s*=\s*(?:\".*?\"|'.*?'|[^'\">\s]+))?)+\s*|\s*)\/?>")
+    """
+    Group 0 = the whole tag from <... to >
+    Group 1 = the name of the tag
+    
+    Shamelessly taken from http://haacked.com/archive/2004/10/25/usingregularexpressionstomatchhtml.aspx
+    """
+    
+    def __init__(self, html):
+        """
+        Constructs the parser.
+        Pass the html you want to parse as a string.
+        """
+        self.rawhtml = html
+        self.links = {}      # Dictionary with all the html-tags. Index is the name of the tag in lowercase, value is a list of alle the html-tags
+        self.indices = []    # A sorted list of where all tags start in the html. 
+        self.tagPos = {}     # A map where the tags index is mapped to the tag itself. Key = index
+    
+    def parse(self, html=None):
+        """
+        Parses tags from the html.
+        """
+        if html == None: self.html = self.rawhtml
+        else: self.html = html
+    
+        self.parseTags()
+        self.balanceTags()
+        self.javascript = self.removeJavaScript()
+        self.parseTags()
+        
+    def parseTags(self):
+        """
+        Parses all tags from self.html.
+        """
+        tagPos = {}
+        indices = []
+        links = {}
+        for match in self.tagRegex.finditer(self.html):
+            name = match.group(1).lower()
+            value = (name, match.group(0), match.start(), match.end())
+            indices.append(match.start())
+            tagPos[match.start()] = value
+            if name not in links.keys(): links[name] = [value]
+            else: links[name].append(value)
+        
+        indices.sort()
+        self.links, self.tagPos, self.indices = links, tagPos, indices
+    def balanceTags(self):
+        """
+        Balances tags
+        """
+        if 'script' in self.links: self.balanceTag('script')
+    def balanceTag(self, tagname):
+        """
+        Tries to balance out the start and close tags of a specific tagname.
+        """
+        scriptStarts = self.links[tagname]
+        scriptStops = self.links['/{0}'.format(tagname)]
+        
+        startLen = len(scriptStarts)
+        stopLen = len(scriptStops)
+        
+        if startLen > stopLen:
+            # Something is amiss. i.e. a <script> is inside a <script>. Let's find it!
+            for i, v in enumerate(scriptStarts):
+                if i + 1 == len(scriptStarts): break
+                start = v[2]
+                nextStart = scriptStarts[i + 1][2]
+                stop = scriptStops[i][3]
+                if nextStart < stop:
+                    scriptStarts.remove(scriptStarts[i + 1])
+        
+        elif startLen < stopLen:
+            # There is too many close tags! let's find them and kill them!
+            for i, v in enumerate(scriptStops):
+                stop = v[3]
+                start = scriptStarts[i][2]
+                if stop < start:
+                    scriptStops.remove(v)
+    
+    def countStartTag(self, tagname):
+        """
+        Counts the number of start-tags with the specified name.
+        """
+        return len(self.links[tagname])
+    
+    def countEndTag(self, tagname):
+        """
+        Counts the number of closing-tags with the specified name. No '/' is needed in tagname.
+        """
+        return len(self.links["/{0}".format(tagname)])
+    
+    def reparse(self):
+        """
+        Reparses the html
+        """
+        self.parse(self.html)
+    
+    def getTags(self, tagname):
+        """
+        Returns a copy of the lists of all tags with the specified name.
+        """
+        return copy.copy(self.links[tagname])
+    def removeJavaScript(self):
+        """
+        Removes javascript from the html
+        """
+        html = ""
+        removed = ""
+        tagCount = self.countStartTag('script')
+        startTags = self.links['script']
+        stopTags = self.links['/script']
+        
+        lastStop = 0
+        for start, stop in zip(startTags, stopTags):
+            html += self.html[lastStop:start[2]]
+            removed += self.html[start[2]:stop[3]]
+            lastStop = stop[3]
+        html += self.html[lastStop:]
+        self.html = html
+        return removed

@@ -64,14 +64,14 @@ def index():
     return base.render(u'home/index.html', extra_vars={})
 
 
-def about():
-    u''' display about page'''
-    return base.render(u'home/about.html', extra_vars={})
+# def about():
+#     u''' display about page'''
+#     return base.render(u'home/about.html', extra_vars={})
 
 
 util_rules = [
     (u'/', index),
-    (u'/about', about)
+    # (u'/about', about)
 ]
 for rule, view_func in util_rules:
     home.add_url_rule(rule, view_func=view_func)

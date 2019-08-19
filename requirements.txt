@@ -61,6 +61,7 @@ WebOb==1.0.8              # via fanstatic, pylons, repoze.who, repoze.who-friend
 WebTest==1.4.3            # via pylons
 Werkzeug==0.14.1          # via flask
 zope.interface==4.3.2
+configparser==3.7.0
 
 # The following packages are commented out because they are
 # considered to be unsafe in a requirements file:

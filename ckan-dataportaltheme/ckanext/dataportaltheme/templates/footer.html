@@ -4,73 +4,84 @@
 <div style="height:10px; background-image: linear-gradient(to right, #00b8f0 , #009d56, #ffcc29);"></div>
 
 
+
 {% ckan_extends %}
 <footer class="site-footer">
   <div class="container">
     {% block footer_content %}
-    <div class="row">
-      <div class="col-sm-3 footer-links">
+    <div class="row" style="position: relative;">
+      <div class="col-md-3 col-sm-12 footer-links">
         {% block footer_nav %}
             <strong>Link Penting</strong><br/>
-            <br/>
-            <ul class="list-unstyled">
+            <ul class="list-unstyled" style="margin-top: 5px">
                 {% block footer_links %}
-                <li>{% link_for _('Terms and conditions'), named_route="terms-and-conditions" %}</li>
-                <li>{% link_for _('The cookie policy'), named_route="cookie-policy" %}</li>
-                <li>{% link_for _('Code of Conduct'), named_route="code-of-conduct" %}</li>
-                <li><a href="mailto:contact@mail.com">Contact</a></li>
+                <li>{% link_for _('Open Government Indonesia'), named_route="https://www.opengovindonesia.org/" %}</li>
+                <li>{% link_for _('Satu Data Indonesia'), named_route="http://data.go.id/" %}</li>
+                <li>{% link_for _('Satu Data Jawa Barat'), named_route="http://satudata.jabarprov.go.id/" %}</li>
+                <li>{% link_for _('CKAN Open Data'), named_route="https://ckan.org/" %}</li>
+                <li>{% link_for _('Tableau Public'), named_route="https://public.tableau.com/" %}</li> 
                 {% endblock %}
             </ul>
         {% endblock %}
         </div>
-        <div class="col-sm-6 logo">
-          <div class="row">
+        <!-- <div class="col-md-6 col-sm-12 logo" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%);"> -->
+        <div class="col-md-6 col-sm-12 logo" style="margin-top: 40px; text-align: center; display: block; margin-left: -50px; margin-right: 50px;">
+          <div class="row" style="text-align: center; display: flex;">
               {% if g.partner1_logo %}
                   <a class="" href="{{g.partner1_link}}" target="_blank">
-                      <img src="{{ h.url_for_static_or_external(g.partner1_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 10px;"/>
+                      <img src="{{ h.url_for_static_or_external(g.partner1_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 0;"/>
                   </a>
               {% endif %}
               {% if g.partner2_logo %}
                   <a class="" href="{{g.partner2_link}}" target="_blank">
-                      <img src="{{ h.url_for_static_or_external(g.partner2_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 10px;"/>
+                      <img src="{{ h.url_for_static_or_external(g.partner2_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 0;"/>
                   </a>
               {% endif %}
               {% if g.partner3_logo %}
                   <a class="" href="{{g.partner3_link}}" target="_blank">
-                      <img src="{{ h.url_for_static_or_external(g.partner3_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 10px;"/>
+                      <img src="{{ h.url_for_static_or_external(g.partner3_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 0;"/>
                   </a>
               {% endif %}
               {% if g.partner4_logo %}
                   <a class="" href="{{g.partner4_link}}" target="_blank">
-                      <img src="{{ h.url_for_static_or_external(g.partner4_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 10px;"/>
+                      <img src="{{ h.url_for_static_or_external(g.partner4_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 0;"/>
                   </a>
               {% endif %}
               {% if g.partner5_logo %}
                   <a class="" href="{{g.partner5_link}}" target="_blank">
-                      <img src="{{ h.url_for_static_or_external(g.partner5_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 10px;"/>
+                      <img src="{{ h.url_for_static_or_external(g.partner5_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 0;"/>
                   </a>
               {% endif %}
               {% if g.partner6_logo %}
                   <a class="" href="{{g.partner6_link}}" target="_blank">
-                      <img src="{{ h.url_for_static_or_external(g.partner6_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 10px;"/>
+                      <img src="{{ h.url_for_static_or_external(g.partner6_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 0;"/>
                   </a>
               {% endif %}
               {% if g.partner7_logo %}
                   <a class="" href="{{g.partner7_link}}" target="_blank">
-                      <img src="{{ h.url_for_static_or_external(g.partner7_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 10px;"/>
+                      <img src="{{ h.url_for_static_or_external(g.partner7_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 0;"/>
                   </a>
               {% endif %}
               {% if g.partner8_logo %}
                   <a class="" href="{{g.partner8_link}}" target="_blank">
-                      <img src="{{ h.url_for_static_or_external(g.partner8_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 10px;"/>
+                      <img src="{{ h.url_for_static_or_external(g.partner8_logo) }}"  style="max-height: 80px; width: auto; margin: 0 10px 0 0;"/>
                   </a>
               {% endif %}
           </div>
         </div>
-      <div class="col-sm-3 attribution">
+      <!-- <div class="col-md-3 col-sm-12 attribution" style="position: absolute; top: 50%; right: 0%; transform: translate(0%,-50%);"> -->
+      <div class="col-md-3 col-sm-12 attribution" style="text-align: center;"> 
+          <div class="footer-links" style="height: 70px"> 
+            <strong>Total Kunjungan</strong>
+            <!-- <div style="margin-top: 0px; color: #9fc2df; font-size: 25px !important; font-family: inherit; font-weight: 700; line-height: 1.5; " id="count">{{count}}</div> -->
+            <div style="margin-top: 5px; display: grid;">
+              <script type="text/javascript" src="https://freehitcounters.org/count/2do9"></script>
+              <a style="margin-top: 60px; color: #2a5976;" href='http://www.counter-zaehler.de'>counter skript</a> <script type='text/javascript' src='https://whomania.com/ctr?id=173fa85f4f94930d08e7a1ea6c7cde4a42d4c958'></script>
+            </div>
+          </div>
         {% block footer_attribution %} 
-          <div class="row">
-            <div class="social-icons">
+          <div class="row" style="text-align: center; margin-top: 30px;">
+            <div class="social-icons" style="display:inline-block; text-align: center; float: none;">
               {% if g.facebook_url %}
                   <a class="social-button" href="{{g.facebook_url}}" target="_blank"><i class="fa fa-facebook"></i></a>
               {% endif %}
