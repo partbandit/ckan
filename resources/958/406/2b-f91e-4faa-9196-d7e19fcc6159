@@ -1,0 +1,483 @@
+provinsi ,kode_kabupaten_kota ,nama_kabupaten_kota ,jenis_komoditi ,jumlah ,satuan 
+Jawa Barat ,3204,KAB. BANDUNG,Aren,43,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Aren,156,Ton
+Jawa Barat ,3216,KAB. BEKASI,Aren,0,Ton
+Jawa Barat ,3201,KAB. BOGOR,Aren,20,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Aren,326,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Aren,5293,Ton
+Jawa Barat ,3209,KAB. CIREBON,Aren,0,Ton
+Jawa Barat ,3205,KAB. GARUT,Aren,1215,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Aren,0,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Aren,0,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Aren,127,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Aren,212,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Aren,79,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Aren,119,Ton
+Jawa Barat ,3213,KAB. SUBANG,Aren,122,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Aren,2897,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Aren,462,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Aren,11392,Ton
+Jawa Barat ,3279,KOTA BANJAR,Aren,11,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Aren,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Aren,18,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Cengkeh ,125,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Cengkeh ,142,Ton
+Jawa Barat ,3216,KAB. BEKASI,Cengkeh ,0,Ton
+Jawa Barat ,3201,KAB. BOGOR,Cengkeh ,352,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Cengkeh ,58,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Cengkeh ,545,Ton
+Jawa Barat ,3209,KAB. CIREBON,Cengkeh ,3,Ton
+Jawa Barat ,3205,KAB. GARUT,Cengkeh ,717,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Cengkeh ,0,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Cengkeh ,7,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Cengkeh ,248,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Cengkeh ,343,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Cengkeh ,65,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Cengkeh ,465,Ton
+Jawa Barat ,3213,KAB. SUBANG,Cengkeh ,286,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Cengkeh ,1723,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Cengkeh ,775,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Cengkeh ,807,Ton
+Jawa Barat ,3279,KOTA BANJAR,Cengkeh ,1,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Cengkeh ,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Cengkeh ,1,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Jambu Mete ,0,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Jambu Mete ,0,Ton
+Jawa Barat ,3216,KAB. BEKASI,Jambu Mete ,0,Ton
+Jawa Barat ,3201,KAB. BOGOR,Jambu Mete ,0,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Jambu Mete ,0,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Jambu Mete ,0,Ton
+Jawa Barat ,3209,KAB. CIREBON,Jambu Mete ,0,Ton
+Jawa Barat ,3205,KAB. GARUT,Jambu Mete ,14,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Jambu Mete ,4,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Jambu Mete ,0,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Jambu Mete ,0,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Jambu Mete ,0,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Jambu Mete ,0,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Jambu Mete ,0,Ton
+Jawa Barat ,3213,KAB. SUBANG,Jambu Mete ,2,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Jambu Mete ,2,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Jambu Mete ,0,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Jambu Mete ,0,Ton
+Jawa Barat ,3279,KOTA BANJAR,Jambu Mete ,0,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Jambu Mete ,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Jambu Mete ,0,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Jarak ,0,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Jarak ,0,Ton
+Jawa Barat ,3216,KAB. BEKASI,Jarak ,0,Ton
+Jawa Barat ,3201,KAB. BOGOR,Jarak ,0,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Jarak ,0,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Jarak ,0,Ton
+Jawa Barat ,3209,KAB. CIREBON,Jarak ,0,Ton
+Jawa Barat ,3205,KAB. GARUT,Jarak ,0,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Jarak ,0,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Jarak ,0,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Jarak ,0,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Jarak ,0,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Jarak ,5,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Jarak ,0,Ton
+Jawa Barat ,3213,KAB. SUBANG,Jarak ,0,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Jarak ,0,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Jarak ,0,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Jarak ,315,Ton
+Jawa Barat ,3279,KOTA BANJAR,Jarak ,0,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Jarak ,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Jarak ,1,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Kakao,0,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Kakao,0,Ton
+Jawa Barat ,3216,KAB. BEKASI,Kakao,0,Ton
+Jawa Barat ,3201,KAB. BOGOR,Kakao,21,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Kakao,298,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Kakao,40,Ton
+Jawa Barat ,3209,KAB. CIREBON,Kakao,0,Ton
+Jawa Barat ,3205,KAB. GARUT,Kakao,1,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Kakao,40,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Kakao,3,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Kakao,0,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Kakao,450,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Kakao,0,Ton
+Jawa Barat ,3213,KAB. SUBANG,Kakao,0,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Kakao,51,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Kakao,8,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Kakao,170,Ton
+Jawa Barat ,3279,KOTA BANJAR,Kakao,6,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Kakao,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Kakao,17,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Kapok ,1,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Kapok ,10,Ton
+Jawa Barat ,3216,KAB. BEKASI,Kapok ,1,Ton
+Jawa Barat ,3201,KAB. BOGOR,Kapok ,0,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Kapok ,2,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Kapok ,48,Ton
+Jawa Barat ,3209,KAB. CIREBON,Kapok ,57,Ton
+Jawa Barat ,3205,KAB. GARUT,Kapok ,19,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Kapok ,106,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Kapok ,0,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Kapok ,52,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Kapok ,25,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Kapok ,2,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Kapok ,9,Ton
+Jawa Barat ,3213,KAB. SUBANG,Kapok ,12,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Kapok ,7,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Kapok ,20,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Kapok ,23,Ton
+Jawa Barat ,3279,KOTA BANJAR,Kapok ,0,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Kapok ,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Kapok ,0,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Karet ,0,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Karet ,262,Ton
+Jawa Barat ,3216,KAB. BEKASI,Karet ,0,Ton
+Jawa Barat ,3201,KAB. BOGOR,Karet ,969,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Karet ,119,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Karet ,864,Ton
+Jawa Barat ,3209,KAB. CIREBON,Karet ,0,Ton
+Jawa Barat ,3205,KAB. GARUT,Karet ,205,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Karet ,0,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Karet ,0,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Karet ,0,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Karet ,0,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Karet ,288,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Karet ,787,Ton
+Jawa Barat ,3213,KAB. SUBANG,Karet ,87,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Karet ,1157,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Karet ,0,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Karet ,219,Ton
+Jawa Barat ,3279,KOTA BANJAR,Karet ,32,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Karet ,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Karet ,0,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Kayu Manis ,0,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Kayu Manis ,0,Ton
+Jawa Barat ,3216,KAB. BEKASI,Kayu Manis ,0,Ton
+Jawa Barat ,3201,KAB. BOGOR,Kayu Manis ,0,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Kayu Manis ,0,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Kayu Manis ,0,Ton
+Jawa Barat ,3209,KAB. CIREBON,Kayu Manis ,0,Ton
+Jawa Barat ,3205,KAB. GARUT,Kayu Manis ,4,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Kayu Manis ,0,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Kayu Manis ,0,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Kayu Manis ,0,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Kayu Manis ,0,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Kayu Manis ,0,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Kayu Manis ,0,Ton
+Jawa Barat ,3213,KAB. SUBANG,Kayu Manis ,0,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Kayu Manis ,0,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Kayu Manis ,0,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Kayu Manis ,5,Ton
+Jawa Barat ,3279,KOTA BANJAR,Kayu Manis ,0,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Kayu Manis ,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Kayu Manis ,0,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Kelapa Dalam ,338,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Kelapa Dalam ,1012,Ton
+Jawa Barat ,3216,KAB. BEKASI,Kelapa Dalam ,551,Ton
+Jawa Barat ,3201,KAB. BOGOR,Kelapa Dalam ,5044,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Kelapa Dalam ,19719,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Kelapa Dalam ,4106,Ton
+Jawa Barat ,3209,KAB. CIREBON,Kelapa Dalam ,1945,Ton
+Jawa Barat ,3205,KAB. GARUT,Kelapa Dalam ,2871,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Kelapa Dalam ,4279,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Kelapa Dalam ,2373,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Kelapa Dalam ,2712,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Kelapa Dalam ,777,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Kelapa Dalam ,19000,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Kelapa Dalam ,882,Ton
+Jawa Barat ,3213,KAB. SUBANG,Kelapa Dalam ,2470,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Kelapa Dalam ,2074,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Kelapa Dalam ,2241,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Kelapa Dalam ,27380,Ton
+Jawa Barat ,3279,KOTA BANJAR,Kelapa Dalam ,1690,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Kelapa Dalam ,2,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Kelapa Dalam ,1193,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Kelapa Hibrida ,0,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Kelapa Hibrida ,0,Ton
+Jawa Barat ,3216,KAB. BEKASI,Kelapa Hibrida ,0,Ton
+Jawa Barat ,3201,KAB. BOGOR,Kelapa Hibrida ,0,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Kelapa Hibrida ,0,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Kelapa Hibrida ,457,Ton
+Jawa Barat ,3209,KAB. CIREBON,Kelapa Hibrida ,0,Ton
+Jawa Barat ,3205,KAB. GARUT,Kelapa Hibrida ,0,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Kelapa Hibrida ,0,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Kelapa Hibrida ,0,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Kelapa Hibrida ,0,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Kelapa Hibrida ,17,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Kelapa Hibrida ,0,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Kelapa Hibrida ,0,Ton
+Jawa Barat ,3213,KAB. SUBANG,Kelapa Hibrida ,0,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Kelapa Hibrida ,2424,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Kelapa Hibrida ,88,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Kelapa Hibrida ,312,Ton
+Jawa Barat ,3279,KOTA BANJAR,Kelapa Hibrida ,0,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Kelapa Hibrida ,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Kelapa Hibrida ,0,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Kelapa Sawit ,0,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Kelapa Sawit ,0,Ton
+Jawa Barat ,3216,KAB. BEKASI,Kelapa Sawit ,0,Ton
+Jawa Barat ,3201,KAB. BOGOR,Kelapa Sawit ,0,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Kelapa Sawit ,0,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Kelapa Sawit ,0,Ton
+Jawa Barat ,3209,KAB. CIREBON,Kelapa Sawit ,0,Ton
+Jawa Barat ,3205,KAB. GARUT,Kelapa Sawit ,0,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Kelapa Sawit ,0,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Kelapa Sawit ,0,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Kelapa Sawit ,0,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Kelapa Sawit ,0,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Kelapa Sawit ,0,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Kelapa Sawit ,0,Ton
+Jawa Barat ,3213,KAB. SUBANG,Kelapa Sawit ,879,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Kelapa Sawit ,0,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Kelapa Sawit ,0,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Kelapa Sawit ,56,Ton
+Jawa Barat ,3279,KOTA BANJAR,Kelapa Sawit ,0,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Kelapa Sawit ,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Kelapa Sawit ,0,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Kemiri Sunan ,0,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Kemiri Sunan ,0,Ton
+Jawa Barat ,3216,KAB. BEKASI,Kemiri Sunan ,0,Ton
+Jawa Barat ,3201,KAB. BOGOR,Kemiri Sunan ,0,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Kemiri Sunan ,0,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Kemiri Sunan ,0,Ton
+Jawa Barat ,3209,KAB. CIREBON,Kemiri Sunan ,0,Ton
+Jawa Barat ,3205,KAB. GARUT,Kemiri Sunan ,0,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Kemiri Sunan ,0,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Kemiri Sunan ,0,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Kemiri Sunan ,0,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Kemiri Sunan ,0,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Kemiri Sunan ,3,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Kemiri Sunan ,0,Ton
+Jawa Barat ,3213,KAB. SUBANG,Kemiri Sunan ,0,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Kemiri Sunan ,0,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Kemiri Sunan ,0,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Kemiri Sunan ,0,Ton
+Jawa Barat ,3279,KOTA BANJAR,Kemiri Sunan ,0,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Kemiri Sunan ,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Kemiri Sunan ,0,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Kenanga ,0,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Kenanga ,0,Ton
+Jawa Barat ,3216,KAB. BEKASI,Kenanga ,0,Ton
+Jawa Barat ,3201,KAB. BOGOR,Kenanga ,0,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Kenanga ,0,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Kenanga ,0,Ton
+Jawa Barat ,3209,KAB. CIREBON,Kenanga ,0,Ton
+Jawa Barat ,3205,KAB. GARUT,Kenanga ,0,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Kenanga ,0,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Kenanga ,0,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Kenanga ,0,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Kenanga ,10,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Kenanga ,0,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Kenanga ,0,Ton
+Jawa Barat ,3213,KAB. SUBANG,Kenanga ,0,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Kenanga ,0,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Kenanga ,0,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Kenanga ,0,Ton
+Jawa Barat ,3279,KOTA BANJAR,Kenanga ,0,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Kenanga ,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Kenanga ,0,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Kina ,0,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Kina ,0,Ton
+Jawa Barat ,3216,KAB. BEKASI,Kina ,0,Ton
+Jawa Barat ,3201,KAB. BOGOR,Kina ,0,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Kina ,0,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Kina ,1,Ton
+Jawa Barat ,3209,KAB. CIREBON,Kina ,0,Ton
+Jawa Barat ,3205,KAB. GARUT,Kina ,28,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Kina ,0,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Kina ,0,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Kina ,0,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Kina ,0,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Kina ,0,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Kina ,0,Ton
+Jawa Barat ,3213,KAB. SUBANG,Kina ,0,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Kina ,0,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Kina ,0,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Kina ,0,Ton
+Jawa Barat ,3279,KOTA BANJAR,Kina ,0,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Kina ,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Kina ,0,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Kopi Arabika ,6872,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Kopi Arabika ,741,Ton
+Jawa Barat ,3216,KAB. BEKASI,Kopi Arabika ,0,Ton
+Jawa Barat ,3201,KAB. BOGOR,Kopi Arabika ,122,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Kopi Arabika ,0,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Kopi Arabika ,102,Ton
+Jawa Barat ,3209,KAB. CIREBON,Kopi Arabika ,0,Ton
+Jawa Barat ,3205,KAB. GARUT,Kopi Arabika ,1321,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Kopi Arabika ,0,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Kopi Arabika ,0,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Kopi Arabika ,0,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Kopi Arabika ,1,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Kopi Arabika ,0,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Kopi Arabika ,0,Ton
+Jawa Barat ,3213,KAB. SUBANG,Kopi Arabika ,66,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Kopi Arabika ,110,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Kopi Arabika ,0,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Kopi Arabika ,0,Ton
+Jawa Barat ,3279,KOTA BANJAR,Kopi Arabika ,0,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Kopi Arabika ,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Kopi Arabika ,4,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Kopi Robusta,165,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Kopi Robusta,336,Ton
+Jawa Barat ,3216,KAB. BEKASI,Kopi Robusta,2,Ton
+Jawa Barat ,3201,KAB. BOGOR,Kopi Robusta,2329,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Kopi Robusta,646,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Kopi Robusta,164,Ton
+Jawa Barat ,3209,KAB. CIREBON,Kopi Robusta,0,Ton
+Jawa Barat ,3205,KAB. GARUT,Kopi Robusta,467,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Kopi Robusta,0,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Kopi Robusta,215,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Kopi Robusta,617,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Kopi Robusta,210,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Kopi Robusta,281,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Kopi Robusta,176,Ton
+Jawa Barat ,3213,KAB. SUBANG,Kopi Robusta,410,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Kopi Robusta,0,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Kopi Robusta,673,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Kopi Robusta,1363,Ton
+Jawa Barat ,3279,KOTA BANJAR,Kopi Robusta,5,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Kopi Robusta,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Kopi Robusta,0,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Kumis Kucing ,0,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Kumis Kucing ,0,Ton
+Jawa Barat ,3216,KAB. BEKASI,Kumis Kucing ,0,Ton
+Jawa Barat ,3201,KAB. BOGOR,Kumis Kucing ,0,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Kumis Kucing ,0,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Kumis Kucing ,0,Ton
+Jawa Barat ,3209,KAB. CIREBON,Kumis Kucing ,0,Ton
+Jawa Barat ,3205,KAB. GARUT,Kumis Kucing ,0,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Kumis Kucing ,0,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Kumis Kucing ,0,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Kumis Kucing ,0,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Kumis Kucing ,0,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Kumis Kucing ,0,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Kumis Kucing ,0,Ton
+Jawa Barat ,3213,KAB. SUBANG,Kumis Kucing ,0,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Kumis Kucing ,54,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Kumis Kucing ,0,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Kumis Kucing ,0,Ton
+Jawa Barat ,3279,KOTA BANJAR,Kumis Kucing ,0,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Kumis Kucing ,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Kumis Kucing ,0,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Lada ,0,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Lada ,15,Ton
+Jawa Barat ,3216,KAB. BEKASI,Lada ,0,Ton
+Jawa Barat ,3201,KAB. BOGOR,Lada ,5,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Lada ,55,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Lada ,13,Ton
+Jawa Barat ,3209,KAB. CIREBON,Lada ,0,Ton
+Jawa Barat ,3205,KAB. GARUT,Lada ,30,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Lada ,0,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Lada ,0,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Lada ,14,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Lada ,16,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Lada ,31,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Lada ,42,Ton
+Jawa Barat ,3213,KAB. SUBANG,Lada ,38,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Lada ,22,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Lada ,169,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Lada ,352,Ton
+Jawa Barat ,3279,KOTA BANJAR,Lada ,5,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Lada ,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Lada ,10,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Pala ,0,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Pala ,1,Ton
+Jawa Barat ,3216,KAB. BEKASI,Pala ,0,Ton
+Jawa Barat ,3201,KAB. BOGOR,Pala ,438,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Pala ,16,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Pala ,84,Ton
+Jawa Barat ,3209,KAB. CIREBON,Pala ,0,Ton
+Jawa Barat ,3205,KAB. GARUT,Pala ,12,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Pala ,0,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Pala ,0,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Pala ,58,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Pala ,0,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Pala ,7,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Pala ,36,Ton
+Jawa Barat ,3213,KAB. SUBANG,Pala ,1,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Pala ,311,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Pala ,0,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Pala ,88,Ton
+Jawa Barat ,3279,KOTA BANJAR,Pala ,0,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Pala ,1,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Pala ,3,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Pandan ,0,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Pandan ,0,Ton
+Jawa Barat ,3216,KAB. BEKASI,Pandan ,5,Ton
+Jawa Barat ,3201,KAB. BOGOR,Pandan ,0,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Pandan ,1,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Pandan ,0,Ton
+Jawa Barat ,3209,KAB. CIREBON,Pandan ,0,Ton
+Jawa Barat ,3205,KAB. GARUT,Pandan ,0,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Pandan ,0,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Pandan ,0,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Pandan ,5,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Pandan ,0,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Pandan ,0,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Pandan ,0,Ton
+Jawa Barat ,3213,KAB. SUBANG,Pandan ,0,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Pandan ,0,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Pandan ,0,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Pandan ,193,Ton
+Jawa Barat ,3279,KOTA BANJAR,Pandan ,0,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Pandan ,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Pandan ,0,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Panili ,0,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Panili ,2,Ton
+Jawa Barat ,3216,KAB. BEKASI,Panili ,0,Ton
+Jawa Barat ,3201,KAB. BOGOR,Panili ,0,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Panili ,0,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Panili ,22,Ton
+Jawa Barat ,3209,KAB. CIREBON,Panili ,0,Ton
+Jawa Barat ,3205,KAB. GARUT,Panili ,44,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Panili ,0,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Panili ,0,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Panili ,1,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Panili ,7,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Panili ,0,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Panili ,3,Ton
+Jawa Barat ,3213,KAB. SUBANG,Panili ,0,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Panili ,10,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Panili ,14,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Panili ,48,Ton
+Jawa Barat ,3279,KOTA BANJAR,Panili ,0,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Panili ,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Panili ,0,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Pinang ,1,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Pinang ,0,Ton
+Jawa Barat ,3216,KAB. BEKASI,Pinang ,0,Ton
+Jawa Barat ,3201,KAB. BOGOR,Pinang ,0,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Pinang ,0,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Pinang ,0,Ton
+Jawa Barat ,3209,KAB. CIREBON,Pinang ,0,Ton
+Jawa Barat ,3205,KAB. GARUT,Pinang ,1,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Pinang ,0,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Pinang ,0,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Pinang ,2,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Pinang ,0,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Pinang ,1,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Pinang ,0,Ton
+Jawa Barat ,3213,KAB. SUBANG,Pinang ,32,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Pinang ,10,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Pinang ,38,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Pinang ,62,Ton
+Jawa Barat ,3279,KOTA BANJAR,Pinang ,0,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Pinang ,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Pinang ,4,Ton
+Jawa Barat ,3204,KAB. BANDUNG,Teh ,3547,Ton
+Jawa Barat ,3217,KAB. BANDUNG BARAT,Teh ,2113,Ton
+Jawa Barat ,3216,KAB. BEKASI,Teh ,0,Ton
+Jawa Barat ,3201,KAB. BOGOR,Teh ,23,Ton
+Jawa Barat ,3207,KAB. CIAMIS,Teh ,63,Ton
+Jawa Barat ,3203,KAB. CIANJUR,Teh ,7428,Ton
+Jawa Barat ,3209,KAB. CIREBON,Teh ,0,Ton
+Jawa Barat ,3205,KAB. GARUT,Teh ,4939,Ton
+Jawa Barat ,3212,KAB. INDRAMAYU,Teh ,0,Ton
+Jawa Barat ,3215,KAB. KARAWANG,Teh ,0,Ton
+Jawa Barat ,3208,KAB. KUNINGAN,Teh ,0,Ton
+Jawa Barat ,3210,KAB. MAJALENGKA,Teh ,350,Ton
+Jawa Barat ,3218,KAB. PANGANDARAN,Teh ,0,Ton
+Jawa Barat ,3214,KAB. PURWAKARTA,Teh ,5483,Ton
+Jawa Barat ,3213,KAB. SUBANG,Teh ,589,Ton
+Jawa Barat ,3202,KAB. SUKABUMI,Teh ,2098,Ton
+Jawa Barat ,3211,KAB. SUMEDANG,Teh ,255,Ton
+Jawa Barat ,3206,KAB. TASIKMALAYA,Teh ,13238,Ton
+Jawa Barat ,3279,KOTA BANJAR,Teh ,0,Ton
+Jawa Barat ,3272,KOTA SUKABUMI,Teh ,0,Ton
+Jawa Barat ,3278,KOTA TASIKMALAYA,Teh ,0,Ton

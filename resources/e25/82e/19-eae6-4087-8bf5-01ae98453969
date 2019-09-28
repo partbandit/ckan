@@ -1,0 +1,27 @@
+umur,jenis_kelamin,jumlah_kepala_keluarga,satuan
+15-19,laki-laki,18,kepala keluarga
+15-19,perempuan,485,kepala keluarga
+20-24,laki-laki,1042,kepala keluarga
+20-24,perempuan,9473,kepala keluarga
+25-29,laki-laki,6708,kepala keluarga
+25-29,perempuan,27090,kepala keluarga
+30-34,laki-laki,15011,kepala keluarga
+30-34,perempuan,42489,kepala keluarga
+35-39,laki-laki,24254,kepala keluarga
+35-39,perempuan,61564,kepala keluarga
+40-44,laki-laki,26445,kepala keluarga
+40-44,perempuan,65055,kepala keluarga
+45-49,laki-laki,26001,kepala keluarga
+45-49,perempuan,63160,kepala keluarga
+50-54,laki-laki,20605,kepala keluarga
+50-54,perempuan,51640,kepala keluarga
+55-59,laki-laki,14640,kepala keluarga
+55-59,perempuan,41389,kepala keluarga
+60-64,laki-laki,10056,kepala keluarga
+60-64,perempuan,28859,kepala keluarga
+65-69,laki-laki,6330,kepala keluarga
+65-69,perempuan,19209,kepala keluarga
+70-74,laki-laki,3555,kepala keluarga
+70-74,perempuan,12133,kepala keluarga
+> 75,laki-laki,4800,kepala keluarga
+> 75,perempuan,15103,kepala keluarga

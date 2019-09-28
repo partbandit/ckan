@@ -1,0 +1,29 @@
+kelompok_pekerjaan,jenis_kelamin,jumlah_penduduk,satuan
+Tidak/Belum Bekerja,laki-laki,5473290,jiwa
+Tidak/Belum Bekerja,perempuan,4740432,jiwa
+Mengurus Rumah Tangga,laki-laki,9537,jiwa
+Mengurus Rumah Tangga,perempuan,10999986,jiwa
+Pelajar/Mahasiswa ,laki-laki,4199547,jiwa
+Pelajar/Mahasiswa ,perempuan,3716698,jiwa
+Pensiunan,laki-laki,218404,jiwa
+Pensiunan,perempuan,84187,jiwa
+PNS/TNI/POLRI,laki-laki,425931,jiwa
+PNS/TNI/POLRI,perempuan,217640,jiwa
+Karyawan,laki-laki,3098488,jiwa
+Karyawan,perempuan,1228964,jiwa
+Buruh/Tukang/industri/Konstruksi,laki-laki,3525950,jiwa
+Buruh/Tukang/industri/Konstruksi,perempuan,260921,jiwa
+Kelompok Profesi,laki-laki,698392,jiwa
+Kelompok Profesi,perempuan,135805,jiwa
+Bidang Pendidikan dan Kesehatan,laki-laki,111322,jiwa
+Bidang Pendidikan dan Kesehatan,perempuan,215001,jiwa
+Rohaniawan,laki-laki,16052,jiwa
+Rohaniawan,perempuan,1454,jiwa
+Pertania/Perikanan/Perternakan,laki-laki,1096805,jiwa
+Pertania/Perikanan/Perternakan,perempuan,204836,jiwa
+Pejabat Negra/Daerah/Dewan/Pemerintahan,laki-laki,32529,jiwa
+Pejabat Negra/Daerah/Dewan/Pemerintahan,perempuan,3870,jiwa
+Wiraswasta,laki-laki,3989418,jiwa
+Wiraswasta,perempuan,422582,jiwa
+Lainnya,laki-laki,20321,jiwa
+Lainnya,perempuan,12963,jiwa

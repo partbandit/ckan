@@ -1,0 +1,217 @@
+kode_kota_kabupaten,kota_kabupaten,jenis_kelamin,kelompok_usia,jumlah,satuan
+3201,BOGOR,laki-laki,7-12 tahun,226302,jiwa
+3201,BOGOR,perempuan,7-12 tahun,211327,jiwa
+3202,SUKABUMI,laki-laki,7-12 tahun,144180,jiwa
+3202,SUKABUMI,perempuan,7-12 tahun,136415,jiwa
+3203,CIANJUR,laki-laki,7-12 tahun,121462,jiwa
+3203,CIANJUR,perempuan,7-12 tahun,114031,jiwa
+3204,BANDUNG,laki-laki,7-12 tahun,215299,jiwa
+3204,BANDUNG,perempuan,7-12 tahun,202234,jiwa
+3205,GARUT,laki-laki,7-12 tahun,115881,jiwa
+3205,GARUT,perempuan,7-12 tahun,109299,jiwa
+3206,TASIKMALAYA,laki-laki,7-12 tahun,87861,jiwa
+3206,TASIKMALAYA,perempuan,7-12 tahun,83379,jiwa
+3207,CIAMIS,laki-laki,7-12 tahun,61742,jiwa
+3207,CIAMIS,perempuan,7-12 tahun,57752,jiwa
+3208,KUNINGAN,laki-laki,7-12 tahun,56982,jiwa
+3208,KUNINGAN,perempuan,7-12 tahun,52550,jiwa
+3209,CIREBON,laki-laki,7-12 tahun,100096,jiwa
+3209,CIREBON,perempuan,7-12 tahun,94032,jiwa
+3210,MAJALENGKA,laki-laki,7-12 tahun,61279,jiwa
+3210,MAJALENGKA,perempuan,7-12 tahun,57441,jiwa
+3211,SUMEDANG,laki-laki,7-12 tahun,59325,jiwa
+3211,SUMEDANG,perempuan,7-12 tahun,55691,jiwa
+3212,INDRAMAYU,laki-laki,7-12 tahun,91984,jiwa
+3212,INDRAMAYU,perempuan,7-12 tahun,87090,jiwa
+3213,SUBANG,laki-laki,7-12 tahun,77948,jiwa
+3213,SUBANG,perempuan,7-12 tahun,73424,jiwa
+3214,PURWAKARTA,laki-laki,7-12 tahun,49939,jiwa
+3214,PURWAKARTA,perempuan,7-12 tahun,47170,jiwa
+3215,KARAWANG,laki-laki,7-12 tahun,119365,jiwa
+3215,KARAWANG,perempuan,7-12 tahun,112256,jiwa
+3216,BEKASI,laki-laki,7-12 tahun,145125,jiwa
+3216,BEKASI,perempuan,7-12 tahun,136124,jiwa
+3217,BANDUNG BARAT,laki-laki,7-12 tahun,94848,jiwa
+3217,BANDUNG BARAT,perempuan,7-12 tahun,89683,jiwa
+3218,PANGANDARAN,laki-laki,7-12 tahun,20740,jiwa
+3218,PANGANDARAN,perempuan,7-12 tahun,19341,jiwa
+3271,KOTA BOGOR,laki-laki,7-12 tahun,56052,jiwa
+3271,KOTA BOGOR,perempuan,7-12 tahun,52196,jiwa
+3272,KOTA SUKABUMI,laki-laki,7-12 tahun,19116,jiwa
+3272,KOTA SUKABUMI,perempuan,7-12 tahun,17829,jiwa
+3273,KOTA BANDUNG,laki-laki,7-12 tahun,132021,jiwa
+3273,KOTA BANDUNG,perempuan,7-12 tahun,124107,jiwa
+3274,KOTA CIREBON,laki-laki,7-12 tahun,18509,jiwa
+3274,KOTA CIREBON,perempuan,7-12 tahun,17416,jiwa
+3275,KOTA BEKASI,laki-laki,7-12 tahun,127094,jiwa
+3275,KOTA BEKASI,perempuan,7-12 tahun,118967,jiwa
+3276,KOTA DEPOK,laki-laki,7-12 tahun,104496,jiwa
+3276,KOTA DEPOK,perempuan,7-12 tahun,97316,jiwa
+3277,KOTA CIMAHI,laki-laki,7-12 tahun,30162,jiwa
+3277,KOTA CIMAHI,perempuan,7-12 tahun,28279,jiwa
+3278,KOTA TASIKMALAYA,laki-laki,7-12 tahun,39667,jiwa
+3278,KOTA TASIKMALAYA,perempuan,7-12 tahun,37328,jiwa
+3279,KOTA BANJAR,laki-laki,7-12 tahun,10285,jiwa
+3279,KOTA BANJAR,perempuan,7-12 tahun,9499,jiwa
+3201,BOGOR,laki-laki,13-15 tahun,107794,jiwa
+3201,BOGOR,perempuan,13-15 tahun,101582,jiwa
+3202,SUKABUMI,laki-laki,13-15 tahun,69527,jiwa
+3202,SUKABUMI,perempuan,13-15 tahun,65329,jiwa
+3203,CIANJUR,laki-laki,13-15 tahun,61392,jiwa
+3203,CIANJUR,perempuan,13-15 tahun,57766,jiwa
+3204,BANDUNG,laki-laki,13-15 tahun,110036,jiwa
+3204,BANDUNG,perempuan,13-15 tahun,103132,jiwa
+3205,GARUT,laki-laki,13-15 tahun,64711,jiwa
+3205,GARUT,perempuan,13-15 tahun,60694,jiwa
+3206,TASIKMALAYA,laki-laki,13-15 tahun,48071,jiwa
+3206,TASIKMALAYA,perempuan,13-15 tahun,45639,jiwa
+3207,CIAMIS,laki-laki,13-15 tahun,32594,jiwa
+3207,CIAMIS,perempuan,13-15 tahun,30505,jiwa
+3208,KUNINGAN,laki-laki,13-15 tahun,27947,jiwa
+3208,KUNINGAN,perempuan,13-15 tahun,26500,jiwa
+3209,CIREBON,laki-laki,13-15 tahun,49281,jiwa
+3209,CIREBON,perempuan,13-15 tahun,45531,jiwa
+3210,MAJALENGKA,laki-laki,13-15 tahun,31314,jiwa
+3210,MAJALENGKA,perempuan,13-15 tahun,29761,jiwa
+3211,SUMEDANG,laki-laki,13-15 tahun,31256,jiwa
+3211,SUMEDANG,perempuan,13-15 tahun,29243,jiwa
+3212,INDRAMAYU,laki-laki,13-15 tahun,46840,jiwa
+3212,INDRAMAYU,perempuan,13-15 tahun,44157,jiwa
+3213,SUBANG,laki-laki,13-15 tahun,41289,jiwa
+3213,SUBANG,perempuan,13-15 tahun,39116,jiwa
+3214,PURWAKARTA,laki-laki,13-15 tahun,24925,jiwa
+3214,PURWAKARTA,perempuan,13-15 tahun,23390,jiwa
+3215,KARAWANG,laki-laki,13-15 tahun,58452,jiwa
+3215,KARAWANG,perempuan,13-15 tahun,54956,jiwa
+3216,BEKASI,laki-laki,13-15 tahun,61081,jiwa
+3216,BEKASI,perempuan,13-15 tahun,57554,jiwa
+3217,BANDUNG BARAT,laki-laki,13-15 tahun,47149,jiwa
+3217,BANDUNG BARAT,perempuan,13-15 tahun,44557,jiwa
+3218,PANGANDARAN,laki-laki,13-15 tahun,10436,jiwa
+3218,PANGANDARAN,perempuan,13-15 tahun,9832,jiwa
+3271,KOTA BOGOR,laki-laki,13-15 tahun,26236,jiwa
+3271,KOTA BOGOR,perempuan,13-15 tahun,24596,jiwa
+3272,KOTA SUKABUMI,laki-laki,13-15 tahun,9663,jiwa
+3272,KOTA SUKABUMI,perempuan,13-15 tahun,9133,jiwa
+3273,KOTA BANDUNG,laki-laki,13-15 tahun,64084,jiwa
+3273,KOTA BANDUNG,perempuan,13-15 tahun,61066,jiwa
+3274,KOTA CIREBON,laki-laki,13-15 tahun,9307,jiwa
+3274,KOTA CIREBON,perempuan,13-15 tahun,8826,jiwa
+3275,KOTA BEKASI,laki-laki,13-15 tahun,61761,jiwa
+3275,KOTA BEKASI,perempuan,13-15 tahun,57776,jiwa
+3276,KOTA DEPOK,laki-laki,13-15 tahun,49605,jiwa
+3276,KOTA DEPOK,perempuan,13-15 tahun,47067,jiwa
+3277,KOTA CIMAHI,laki-laki,13-15 tahun,15391,jiwa
+3277,KOTA CIMAHI,perempuan,13-15 tahun,14810,jiwa
+3278,KOTA TASIKMALAYA,laki-laki,13-15 tahun,20062,jiwa
+3278,KOTA TASIKMALAYA,perempuan,13-15 tahun,18770,jiwa
+3279,KOTA BANJAR,laki-laki,13-15 tahun,5073,jiwa
+3279,KOTA BANJAR,perempuan,13-15 tahun,4743,jiwa
+3201,BOGOR,laki-laki,16-18 tahun,107973,jiwa
+3201,BOGOR,perempuan,16-18 tahun,105778,jiwa
+3202,SUKABUMI,laki-laki,16-18 tahun,53103,jiwa
+3202,SUKABUMI,perempuan,16-18 tahun,53983,jiwa
+3203,CIANJUR,laki-laki,16-18 tahun,48889,jiwa
+3203,CIANJUR,perempuan,16-18 tahun,47549,jiwa
+3204,BANDUNG,laki-laki,16-18 tahun,91484,jiwa
+3204,BANDUNG,perempuan,16-18 tahun,89398,jiwa
+3205,GARUT,laki-laki,16-18 tahun,51199,jiwa
+3205,GARUT,perempuan,16-18 tahun,49674,jiwa
+3206,TASIKMALAYA,laki-laki,16-18 tahun,38081,jiwa
+3206,TASIKMALAYA,perempuan,16-18 tahun,36730,jiwa
+3207,CIAMIS,laki-laki,16-18 tahun,26566,jiwa
+3207,CIAMIS,perempuan,16-18 tahun,25663,jiwa
+3208,KUNINGAN,laki-laki,16-18 tahun,25417,jiwa
+3208,KUNINGAN,perempuan,16-18 tahun,24247,jiwa
+3209,CIREBON,laki-laki,16-18 tahun,43667,jiwa
+3209,CIREBON,perempuan,16-18 tahun,43984,jiwa
+3210,MAJALENGKA,laki-laki,16-18 tahun,25168,jiwa
+3210,MAJALENGKA,perempuan,16-18 tahun,25808,jiwa
+3211,SUMEDANG,laki-laki,16-18 tahun,29807,jiwa
+3211,SUMEDANG,perempuan,16-18 tahun,28528,jiwa
+3212,INDRAMAYU,laki-laki,16-18 tahun,50546,jiwa
+3212,INDRAMAYU,perempuan,16-18 tahun,48197,jiwa
+3213,SUBANG,laki-laki,16-18 tahun,36446,jiwa
+3213,SUBANG,perempuan,16-18 tahun,35452,jiwa
+3214,PURWAKARTA,laki-laki,16-18 tahun,20374,jiwa
+3214,PURWAKARTA,perempuan,16-18 tahun,19872,jiwa
+3215,KARAWANG,laki-laki,16-18 tahun,48808,jiwa
+3215,KARAWANG,perempuan,16-18 tahun,48632,jiwa
+3216,BEKASI,laki-laki,16-18 tahun,62636,jiwa
+3216,BEKASI,perempuan,16-18 tahun,60563,jiwa
+3217,BANDUNG BARAT,laki-laki,16-18 tahun,38674,jiwa
+3217,BANDUNG BARAT,perempuan,16-18 tahun,37579,jiwa
+3218,PANGANDARAN,laki-laki,16-18 tahun,9295,jiwa
+3218,PANGANDARAN,perempuan,16-18 tahun,9113,jiwa
+3271,KOTA BOGOR,laki-laki,16-18 tahun,23001,jiwa
+3271,KOTA BOGOR,perempuan,16-18 tahun,22328,jiwa
+3272,KOTA SUKABUMI,laki-laki,16-18 tahun,8867,jiwa
+3272,KOTA SUKABUMI,perempuan,16-18 tahun,8367,jiwa
+3273,KOTA BANDUNG,laki-laki,16-18 tahun,57802,jiwa
+3273,KOTA BANDUNG,perempuan,16-18 tahun,54791,jiwa
+3274,KOTA CIREBON,laki-laki,16-18 tahun,9053,jiwa
+3274,KOTA CIREBON,perempuan,16-18 tahun,8407,jiwa
+3275,KOTA BEKASI,laki-laki,16-18 tahun,63325,jiwa
+3275,KOTA BEKASI,perempuan,16-18 tahun,59782,jiwa
+3276,KOTA DEPOK,laki-laki,16-18 tahun,47635,jiwa
+3276,KOTA DEPOK,perempuan,16-18 tahun,44903,jiwa
+3277,KOTA CIMAHI,laki-laki,16-18 tahun,14305,jiwa
+3277,KOTA CIMAHI,perempuan,16-18 tahun,13722,jiwa
+3278,KOTA TASIKMALAYA,laki-laki,16-18 tahun,17287,jiwa
+3278,KOTA TASIKMALAYA,perempuan,16-18 tahun,16917,jiwa
+3279,KOTA BANJAR,laki-laki,16-18 tahun,5565,jiwa
+3279,KOTA BANJAR,perempuan,16-18 tahun,5283,jiwa
+3201,BOGOR,laki-laki,19-24 tahun,268455,jiwa
+3201,BOGOR,perempuan,19-24 tahun,252496,jiwa
+3202,SUKABUMI,laki-laki,19-24 tahun,130922,jiwa
+3202,SUKABUMI,perempuan,19-24 tahun,126120,jiwa
+3203,CIANJUR,laki-laki,19-24 tahun,119297,jiwa
+3203,CIANJUR,perempuan,19-24 tahun,108980,jiwa
+3204,BANDUNG,laki-laki,19-24 tahun,189072,jiwa
+3204,BANDUNG,perempuan,19-24 tahun,181102,jiwa
+3205,GARUT,laki-laki,19-24 tahun,126458,jiwa
+3205,GARUT,perempuan,19-24 tahun,119157,jiwa
+3206,TASIKMALAYA,laki-laki,19-24 tahun,88680,jiwa
+3206,TASIKMALAYA,perempuan,19-24 tahun,82383,jiwa
+3207,CIAMIS,laki-laki,19-24 tahun,60922,jiwa
+3207,CIAMIS,perempuan,19-24 tahun,57334,jiwa
+3208,KUNINGAN,laki-laki,19-24 tahun,55730,jiwa
+3208,KUNINGAN,perempuan,19-24 tahun,53623,jiwa
+3209,CIREBON,laki-laki,19-24 tahun,116812,jiwa
+3209,CIREBON,perempuan,19-24 tahun,115030,jiwa
+3210,MAJALENGKA,laki-laki,19-24 tahun,57864,jiwa
+3210,MAJALENGKA,perempuan,19-24 tahun,55910,jiwa
+3210,SUMEDANG,laki-laki,19-24 tahun,57656,jiwa
+3210,SUMEDANG,perempuan,19-24 tahun,54237,jiwa
+3212,INDRAMAYU,laki-laki,19-24 tahun,100780,jiwa
+3212,INDRAMAYU,perempuan,19-24 tahun,93714,jiwa
+3213,SUBANG,laki-laki,19-24 tahun,77707,jiwa
+3213,SUBANG,perempuan,19-24 tahun,76244,jiwa
+3214,PURWAKARTA,laki-laki,19-24 tahun,47892,jiwa
+3214,PURWAKARTA,perempuan,19-24 tahun,47142,jiwa
+3215,KARAWANG,laki-laki,19-24 tahun,116723,jiwa
+3215,KARAWANG,perempuan,19-24 tahun,112583,jiwa
+3216,BEKASI,laki-laki,19-24 tahun,131267,jiwa
+3216,BEKASI,perempuan,19-24 tahun,126695,jiwa
+3217,BANDUNG BARAT,laki-laki,19-24 tahun,82405,jiwa
+3217,BANDUNG BARAT,perempuan,19-24 tahun,77681,jiwa
+3218,PANGANDARAN,laki-laki,19-24 tahun,19702,jiwa
+3218,PANGANDARAN,perempuan,19-24 tahun,19058,jiwa
+3271,KOTA BOGOR,laki-laki,19-24 tahun,50142,jiwa
+3271,KOTA BOGOR,perempuan,19-24 tahun,49724,jiwa
+3272,KOTA SUKABUMI,laki-laki,19-24 tahun,16975,jiwa
+3272,KOTA SUKABUMI,perempuan,19-24 tahun,16831,jiwa
+3273,KOTA BANDUNG,laki-laki,19-24 tahun,112442,jiwa
+3273,KOTA BANDUNG,perempuan,19-24 tahun,110324,jiwa
+3274,KOTA CIREBON,laki-laki,19-24 tahun,17238,jiwa
+3274,KOTA CIREBON,perempuan,19-24 tahun,16720,jiwa
+3275,KOTA BEKASI,laki-laki,19-24 tahun,123884,jiwa
+3275,KOTA BEKASI,perempuan,19-24 tahun,120093,jiwa
+3276,KOTA DEPOK,laki-laki,19-24 tahun,89644,jiwa
+3276,KOTA DEPOK,perempuan,19-24 tahun,85401,jiwa
+3277,KOTA CIMAHI,laki-laki,19-24 tahun,27574,jiwa
+3277,KOTA CIMAHI,perempuan,19-24 tahun,26512,jiwa
+3278,KOTA TASIKMALAYA,laki-laki,19-24 tahun,36552,jiwa
+3278,KOTA TASIKMALAYA,perempuan,19-24 tahun,35514,jiwa
+3279,KOTA BANJAR,laki-laki,19-24 tahun,10697,jiwa
+3279,KOTA BANJAR,perempuan,19-24 tahun,10220,jiwa

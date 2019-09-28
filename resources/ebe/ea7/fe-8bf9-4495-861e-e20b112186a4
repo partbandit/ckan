@@ -1,0 +1,82 @@
+kode_kota_kabupaten,kota_kabupaten, jumlah_penduduk_2018 ,cakupan_layanan,jumlah, satuan 
+3204,Kab. Bandung, 3.717.291 , sanitasi_layak , 2.644.130 ,orang
+3204,Kab. Bandung, 3.717.291 , layanan_dasar ,12.486,orang
+3204,Kab. Bandung, 3.717.291 , buang_air_besar_sembarangan , 1.060.615 ,orang
+3217,Kab. Bandung Barat, 1.683.711 , sanitasi_layak , 1.494.184 ,orang
+3217,Kab. Bandung Barat, 1.683.711 , layanan_dasar ,6.192,orang
+3217,Kab. Bandung Barat, 1.683.711 , buang_air_besar_sembarangan ,183.282,orang
+3216,Kab. Bekasi, 3.630.907 , sanitasi_layak , 2.511.405 ,orang
+3216,Kab. Bekasi, 3.630.907 , layanan_dasar ,15.753,orang
+3216,Kab. Bekasi, 3.630.907 , buang_air_besar_sembarangan , 1.103.796 ,orang
+3201,Kab. Bogor, 5.840.907 , sanitasi_layak , 1.479.190 ,orang
+3201,Kab. Bogor, 5.840.907 , layanan_dasar ,26.742,orang
+3201,Kab. Bogor, 5.840.907 , buang_air_besar_sembarangan , 4.334.917 ,orang
+3207,Kab. Ciamis, 1.188.629 , sanitasi_layak ,823.784,orang
+3207,Kab. Ciamis, 1.188.629 , layanan_dasar ,9.031,orang
+3207,Kab. Ciamis, 1.188.629 , buang_air_besar_sembarangan ,355.814,orang
+3203,Kab. Cianjur, 2.260.620 , sanitasi_layak , 1.632.078 ,orang
+3203,Kab. Cianjur, 2.260.620 , layanan_dasar ,13.505,orang
+3203,Kab. Cianjur, 2.260.620 , buang_air_besar_sembarangan ,615.016,orang
+3209,Kab. Cirebon, 2.176.213 , sanitasi_layak , 1.847.856 ,orang
+3209,Kab. Cirebon, 2.176.213 , layanan_dasar ,4.134,orang
+3209,Kab. Cirebon, 2.176.213 , buang_air_besar_sembarangan ,324.212,orang
+3205,Kab. Garut, 2.606.399 , sanitasi_layak , 1.801.212 ,orang
+3205,Kab. Garut, 2.606.399 , layanan_dasar ,32.712,orang
+3205,Kab. Garut, 2.606.399 , buang_air_besar_sembarangan ,772.456,orang
+3212,Kab. Indramayu, 1.719.187 , sanitasi_layak , 1.287.127 ,orang
+3212,Kab. Indramayu, 1.719.187 , layanan_dasar ,5.591,orang
+3212,Kab. Indramayu, 1.719.187 , buang_air_besar_sembarangan ,426.491,orang
+3215,Kab. Karawang, 2.336.009 , sanitasi_layak , 1.920.424 ,orang
+3215,Kab. Karawang, 2.336.009 , layanan_dasar ,2.618,orang
+3215,Kab. Karawang, 2.336.009 , buang_air_besar_sembarangan ,412.936,orang
+3208,Kab. Kuningan, 1.074.497 , sanitasi_layak ,950.015,orang
+3208,Kab. Kuningan, 1.074.497 , layanan_dasar ,22,orang
+3208,Kab. Kuningan, 1.074.497 , buang_air_besar_sembarangan ,124.457,orang
+3210,Kab. Majalengka, 1.199.300 , sanitasi_layak ,767.604,orang
+3210,Kab. Majalengka, 1.199.300 , layanan_dasar ,5.649,orang
+3210,Kab. Majalengka, 1.199.300 , buang_air_besar_sembarangan ,426.051,orang
+3218,Kab. Pangandaran,397.187, sanitasi_layak ,299.451,orang
+3218,Kab. Pangandaran,397.187, layanan_dasar ,4.969,orang
+3218,Kab. Pangandaran,397.187, buang_air_besar_sembarangan ,92.759,orang
+3214,Kab. Purwakarta,953.414, sanitasi_layak ,854.426,orang
+3214,Kab. Purwakarta,953.414, layanan_dasar ,2.334,orang
+3214,Kab. Purwakarta,953.414, buang_air_besar_sembarangan ,96.637,orang
+3213,Kab. Subang, 1.579.018 , sanitasi_layak , 1.409.311 ,orang
+3213,Kab. Subang, 1.579.018 , layanan_dasar ,1.452,orang
+3213,Kab. Subang, 1.579.018 , buang_air_besar_sembarangan ,168.25,orang
+3202,Kab. Sukabumi, 2.460.693 , sanitasi_layak , 1.918.262 ,orang
+3202,Kab. Sukabumi, 2.460.693 , layanan_dasar ,14.497,orang
+3202,Kab. Sukabumi, 2.460.693 , buang_air_besar_sembarangan ,527.939,orang
+3211,Kab. Sumedang, 1.149.906 , sanitasi_layak , 1.069.596 ,orang
+3211,Kab. Sumedang, 1.149.906 , layanan_dasar ,6.106,orang
+3211,Kab. Sumedang, 1.149.906 , buang_air_besar_sembarangan ,74.222,orang
+3206,Kab. Tasikmalaya, 1.751.295 , sanitasi_layak ,939.034,orang
+3206,Kab. Tasikmalaya, 1.751.295 , layanan_dasar ,5.853,orang
+3206,Kab. Tasikmalaya, 1.751.295 , buang_air_besar_sembarangan ,806.422,orang
+3273,Kota Bandung, 2.503.708 , sanitasi_layak , 1.573.251 ,orang
+3273,Kota Bandung, 2.503.708 , layanan_dasar ,2.966,orang
+3273,Kota Bandung, 2.503.708 , buang_air_besar_sembarangan ,927.457,orang
+3279,Kota Banjar,182.819, sanitasi_layak ,179.38,orang
+3279,Kota Banjar,182.819, layanan_dasar ,610,orang
+3279,Kota Banjar,182.819, buang_air_besar_sembarangan ,2.834,orang
+3275,Kota Bekasi, 2.931.897 , sanitasi_layak , 2.845.150 ,orang
+3275,Kota Bekasi, 2.931.897 , layanan_dasar ,2.528,orang
+3275,Kota Bekasi, 2.931.897 , buang_air_besar_sembarangan ,84.219,orang
+3271,Kota Bogor, 1.096.828 , sanitasi_layak ,730.326,orang
+3271,Kota Bogor, 1.096.828 , layanan_dasar ,1.039,orang
+3271,Kota Bogor, 1.096.828 , buang_air_besar_sembarangan ,365.463,orang
+3277,Kota Cimahi,607.811, sanitasi_layak ,433.222,orang
+3277,Kota Cimahi,607.811, layanan_dasar ,269,orang
+3277,Kota Cimahi,607.811, buang_air_besar_sembarangan ,174.34,orang
+3274,Kota Cirebon,316.277, sanitasi_layak ,264.036,orang
+3274,Kota Cirebon,316.277, layanan_dasar ,75,orang
+3274,Kota Cirebon,316.277, buang_air_besar_sembarangan ,52.167,orang
+3276,Kota Depok, 2.330.333 , sanitasi_layak , 2.239.507 ,orang
+3276,Kota Depok, 2.330.333 , layanan_dasar ,4.519,orang
+3276,Kota Depok, 2.330.333 , buang_air_besar_sembarangan ,86.349,orang
+3272,Kota Sukabumi,326.282, sanitasi_layak ,139.768,orang
+3272,Kota Sukabumi,326.282, layanan_dasar ,1.14,orang
+3272,Kota Sukabumi,326.282, buang_air_besar_sembarangan ,185.37,orang
+3278,Kota Tasikmalaya,662.723, sanitasi_layak ,384.864,orang
+3278,Kota Tasikmalaya,662.723, layanan_dasar ,2.008,orang
+3278,Kota Tasikmalaya,662.723, buang_air_besar_sembarangan ,275.852,orang

@@ -1,0 +1,163 @@
+kode_kota_kaupaten,kota_kabupaten,jenis_disabilitas,jumlah_penduduk,satuan
+3201,BOGOR,fisik,518,jiwa
+3201,BOGOR,netra,186,jiwa
+3201,BOGOR,rungu,209,jiwa
+3201,BOGOR,mental,151,jiwa
+3201,BOGOR,fisik dan mental,63,jiwa
+3201,BOGOR,lainnya,229,jiwa
+3202,SUKABUMI,fisik,230,jiwa
+3202,SUKABUMI,netra,121,jiwa
+3202,SUKABUMI,rungu,129,jiwa
+3202,SUKABUMI,mental,49,jiwa
+3202,SUKABUMI,fisik dan mental,12,jiwa
+3202,SUKABUMI,lainnya,103,jiwa
+3203,CIANJUR,fisik,401,jiwa
+3203,CIANJUR,netra,95,jiwa
+3203,CIANJUR,rungu,111,jiwa
+3203,CIANJUR,mental,57,jiwa
+3203,CIANJUR,fisik dan mental,28,jiwa
+3203,CIANJUR,lainnya,96,jiwa
+3204,BANDUNG,fisik,616,jiwa
+3204,BANDUNG,netra,159,jiwa
+3204,BANDUNG,rungu,170,jiwa
+3204,BANDUNG,mental,145,jiwa
+3204,BANDUNG,fisik dan mental,62,jiwa
+3204,BANDUNG,lainnya,379,jiwa
+3205,GARUT,fisik,294,jiwa
+3205,GARUT,netra,152,jiwa
+3205,GARUT,rungu,203,jiwa
+3205,GARUT,mental,97,jiwa
+3205,GARUT,fisik dan mental,50,jiwa
+3205,GARUT,lainnya,99,jiwa
+3206,TASIKMALAYA,fisik,264,jiwa
+3206,TASIKMALAYA,netra,117,jiwa
+3206,TASIKMALAYA,rungu,140,jiwa
+3206,TASIKMALAYA,mental,108,jiwa
+3206,TASIKMALAYA,fisik dan mental,24,jiwa
+3206,TASIKMALAYA,lainnya,45,jiwa
+3207,CIAMIS,fisik,6633,jiwa
+3207,CIAMIS,netra,1135,jiwa
+3207,CIAMIS,rungu,634,jiwa
+3207,CIAMIS,mental,527,jiwa
+3207,CIAMIS,fisik dan mental,153,jiwa
+3207,CIAMIS,lainnya,302,jiwa
+3208,KUNINGAN,fisik,146,jiwa
+3208,KUNINGAN,netra,93,jiwa
+3208,KUNINGAN,rungu,135,jiwa
+3208,KUNINGAN,mental,132,jiwa
+3208,KUNINGAN,fisik dan mental,25,jiwa
+3208,KUNINGAN,lainnya,50,jiwa
+3209,CIREBON,fisik,91,jiwa
+3209,CIREBON,netra,18,jiwa
+3209,CIREBON,rungu,52,jiwa
+3209,CIREBON,mental,20,jiwa
+3209,CIREBON,fisik dan mental,14,jiwa
+3209,CIREBON,lainnya,30,jiwa
+3210,MAJALENGKA,fisik,282,jiwa
+3210,MAJALENGKA,netra,80,jiwa
+3210,MAJALENGKA,rungu,144,jiwa
+3210,MAJALENGKA,mental,75,jiwa
+3210,MAJALENGKA,fisik dan mental,30,jiwa
+3210,MAJALENGKA,lainnya,55,jiwa
+3211,SUMEDANG,fisik,209,jiwa
+3211,SUMEDANG,netra,115,jiwa
+3211,SUMEDANG,rungu,170,jiwa
+3211,SUMEDANG,mental,141,jiwa
+3211,SUMEDANG,fisik dan mental,38,jiwa
+3211,SUMEDANG,lainnya,71,jiwa
+3212,INDRAMAYU,fisik,358,jiwa
+3212,INDRAMAYU,netra,156,jiwa
+3212,INDRAMAYU,rungu,261,jiwa
+3212,INDRAMAYU,mental,232,jiwa
+3212,INDRAMAYU,fisik dan mental,96,jiwa
+3212,INDRAMAYU,lainnya,78,jiwa
+3213,SUBANG,fisik,88,jiwa
+3213,SUBANG,netra,53,jiwa
+3213,SUBANG,rungu,54,jiwa
+3213,SUBANG,mental,44,jiwa
+3213,SUBANG,fisik dan mental,23,jiwa
+3213,SUBANG,lainnya,37,jiwa
+3214,PURWAKARTA,fisik,95,jiwa
+3214,PURWAKARTA,netra,50,jiwa
+3214,PURWAKARTA,rungu,70,jiwa
+3214,PURWAKARTA,mental,75,jiwa
+3214,PURWAKARTA,fisik dan mental,15,jiwa
+3214,PURWAKARTA,lainnya,45,jiwa
+3215,KARAWANG,fisik,241,jiwa
+3215,KARAWANG,netra,111,jiwa
+3215,KARAWANG,rungu,129,jiwa
+3215,KARAWANG,mental,111,jiwa
+3215,KARAWANG,fisik dan mental,37,jiwa
+3215,KARAWANG,lainnya,62,jiwa
+3216,BEKASI,fisik,210,jiwa
+3216,BEKASI,netra,163,jiwa
+3216,BEKASI,rungu,162,jiwa
+3216,BEKASI,mental,111,jiwa
+3216,BEKASI,fisik dan mental,79,jiwa
+3216,BEKASI,lainnya,224,jiwa
+3217,BANDUNG BARAT,fisik,87,jiwa
+3217,BANDUNG BARAT,netra,37,jiwa
+3217,BANDUNG BARAT,rungu,44,jiwa
+3217,BANDUNG BARAT,mental,29,jiwa
+3217,BANDUNG BARAT,fisik dan mental,6,jiwa
+3217,BANDUNG BARAT,lainnya,31,jiwa
+3218,PANGANDARAN,fisik,2979,jiwa
+3218,PANGANDARAN,netra,271,jiwa
+3218,PANGANDARAN,rungu,165,jiwa
+3218,PANGANDARAN,mental,95,jiwa
+3218,PANGANDARAN,fisik dan mental,34,jiwa
+3218,PANGANDARAN,lainnya,71,jiwa
+3271,KOTA BOGOR,fisik,12,jiwa
+3271,KOTA BOGOR,netra,79,jiwa
+3271,KOTA BOGOR,rungu,60,jiwa
+3271,KOTA BOGOR,mental,24,jiwa
+3271,KOTA BOGOR,fisik dan mental,10,jiwa
+3271,KOTA BOGOR,lainnya,50,jiwa
+3272,KOTA SUKABUMI,fisik,53,jiwa
+3272,KOTA SUKABUMI,netra,21,jiwa
+3272,KOTA SUKABUMI,rungu,43,jiwa
+3272,KOTA SUKABUMI,mental,15,jiwa
+3272,KOTA SUKABUMI,fisik dan mental,8,jiwa
+3272,KOTA SUKABUMI,lainnya,21,jiwa
+3273,KOTA BANDUNG,fisik,390,jiwa
+3273,KOTA BANDUNG,netra,258,jiwa
+3273,KOTA BANDUNG,rungu,283,jiwa
+3273,KOTA BANDUNG,mental,238,jiwa
+3273,KOTA BANDUNG,fisik dan mental,100,jiwa
+3273,KOTA BANDUNG,lainnya,302,jiwa
+3274,KOTA CIREBON,fisik,112,jiwa
+3274,KOTA CIREBON,netra,52,jiwa
+3274,KOTA CIREBON,rungu,99,jiwa
+3274,KOTA CIREBON,mental,62,jiwa
+3274,KOTA CIREBON,fisik dan mental,28,jiwa
+3274,KOTA CIREBON,lainnya,36,jiwa
+3275,KOTA BEKASI,fisik,205,jiwa
+3275,KOTA BEKASI,netra,150,jiwa
+3275,KOTA BEKASI,rungu,234,jiwa
+3275,KOTA BEKASI,mental,199,jiwa
+3275,KOTA BEKASI,fisik dan mental,75,jiwa
+3275,KOTA BEKASI,lainnya,7274,jiwa
+3276,KOTA DEPOK,fisik,331,jiwa
+3276,KOTA DEPOK,netra,86,jiwa
+3276,KOTA DEPOK,rungu,200,jiwa
+3276,KOTA DEPOK,mental,166,jiwa
+3276,KOTA DEPOK,fisik dan mental,54,jiwa
+3276,KOTA DEPOK,lainnya,168,jiwa
+3277,KOTA CIMAHI,fisik,327,jiwa
+3277,KOTA CIMAHI,netra,106,jiwa
+3277,KOTA CIMAHI,rungu,145,jiwa
+3277,KOTA CIMAHI,mental,204,jiwa
+3277,KOTA CIMAHI,fisik dan mental,28,jiwa
+3277,KOTA CIMAHI,lainnya,104,jiwa
+3278,KOTA TASIKMALAYA,fisik,161,jiwa
+3278,KOTA TASIKMALAYA,netra,57,jiwa
+3278,KOTA TASIKMALAYA,rungu,79,jiwa
+3278,KOTA TASIKMALAYA,mental,58,jiwa
+3278,KOTA TASIKMALAYA,fisik dan mental,21,jiwa
+3278,KOTA TASIKMALAYA,lainnya,64,jiwa
+3279,KOTA BANJAR,fisik,143,jiwa
+3279,KOTA BANJAR,netra,58,jiwa
+3279,KOTA BANJAR,rungu,62,jiwa
+3279,KOTA BANJAR,mental,99,jiwa
+3279,KOTA BANJAR,fisik dan mental,15,jiwa
+3279,KOTA BANJAR,lainnya,13,jiwa

@@ -1,0 +1,82 @@
+provinsi,kode_kota_kabupaten,nama_kota_kabupaten,jenis_komoditi,jumlah_produksi,satuan
+jawa barat,3201,kab. bogor,Kacang Hijau,132,ton
+jawa barat,3201,kab. bogor,Kacang Tanah,1243,ton
+jawa barat,3201,kab. bogor,Kedelai,544,ton
+jawa barat,3202,kab. sukabumi,Kacang Hijau,631,ton
+jawa barat,3202,kab. sukabumi,Kacang Tanah,6560,ton
+jawa barat,3202,kab. sukabumi,Kedelai,6220,ton
+jawa barat,3203,kab. cianjur,Kacang Hijau,217,ton
+jawa barat,3203,kab. cianjur,Kacang Tanah,10918,ton
+jawa barat,3203,kab. cianjur,Kedelai,10390,ton
+jawa barat,3204,kab. bandung,Kacang Hijau,0,ton
+jawa barat,3204,kab. bandung,Kacang Tanah,1077,ton
+jawa barat,3204,kab. bandung,Kedelai,1393,ton
+jawa barat,3205,kab. garut,Kacang Hijau,1775,ton
+jawa barat,3205,kab. garut,Kacang Tanah,33508,ton
+jawa barat,3205,kab. garut,Kedelai,13569,ton
+jawa barat,3206,kab. tasikmalaya,Kacang Hijau,16,ton
+jawa barat,3206,kab. tasikmalaya,Kacang Tanah,3935,ton
+jawa barat,3206,kab. tasikmalaya,Kedelai,9480,ton
+jawa barat,3207,kab. ciamis,Kacang Hijau,16,ton
+jawa barat,3207,kab. ciamis,Kacang Tanah,3072,ton
+jawa barat,3207,kab. ciamis,Kedelai,1420,ton
+jawa barat,3208,kab. kuningan,Kacang Hijau,84,ton
+jawa barat,3208,kab. kuningan,Kacang Tanah,1248,ton
+jawa barat,3208,kab. kuningan,Kedelai,329,ton
+jawa barat,3209,kab. cirebon,Kacang Hijau,3412,ton
+jawa barat,3209,kab. cirebon,Kacang Tanah,47,ton
+jawa barat,3209,kab. cirebon,Kedelai,495,ton
+jawa barat,3210,kab. majalengka,Kacang Hijau,2090,ton
+jawa barat,3210,kab. majalengka,Kacang Tanah,911,ton
+jawa barat,3210,kab. majalengka,Kedelai,2625,ton
+jawa barat,3211,kab. sumedang,Kacang Hijau,468,ton
+jawa barat,3211,kab. sumedang,Kacang Tanah,4259,ton
+jawa barat,3211,kab. sumedang,Kedelai,3101,ton
+jawa barat,3212,kab. indramayu,Kacang Hijau,94,ton
+jawa barat,3212,kab. indramayu,Kacang Tanah,109,ton
+jawa barat,3212,kab. indramayu,Kedelai,37754,ton
+jawa barat,3213,kab. subang,Kacang Hijau,35,ton
+jawa barat,3213,kab. subang,Kacang Tanah,1349,ton
+jawa barat,3213,kab. subang,Kedelai,77,ton
+jawa barat,3214,kab. purwakarta,Kacang Hijau,133,ton
+jawa barat,3214,kab. purwakarta,Kacang Tanah,754,ton
+jawa barat,3214,kab. purwakarta,Kedelai,345,ton
+jawa barat,3215,kab. karawang,Kacang Hijau,519,ton
+jawa barat,3215,kab. karawang,Kacang Tanah,529,ton
+jawa barat,3215,kab. karawang,Kedelai,459,ton
+jawa barat,3216,kab. bekasi,Kacang Hijau,4,ton
+jawa barat,3216,kab. bekasi,Kacang Tanah,201,ton
+jawa barat,3216,kab. bekasi,Kedelai,0,ton
+jawa barat,3217,kab. bandung barat,Kacang Hijau,39,ton
+jawa barat,3217,kab. bandung barat,Kacang Tanah,285,ton
+jawa barat,3217,kab. bandung barat,Kedelai,2563,ton
+jawa barat,3218,kab. pangandaran,Kacang Hijau,0,ton
+jawa barat,3218,kab. pangandaran,Kacang Tanah,343,ton
+jawa barat,3218,kab. pangandaran,Kedelai,468,ton
+jawa barat,3271,kota bogor,Kacang Hijau,0,ton
+jawa barat,3271,kota bogor,Kacang Tanah,60,ton
+jawa barat,3271,kota bogor,Kedelai,0,ton
+jawa barat,3272,kota sukabumi,Kacang Hijau,0,ton
+jawa barat,3272,kota sukabumi,Kacang Tanah,6,ton
+jawa barat,3272,kota sukabumi,Kedelai,0,ton
+jawa barat,3273,kota bandung,Kacang Hijau,0,ton
+jawa barat,3273,kota bandung,Kacang Tanah,17,ton
+jawa barat,3273,kota bandung,Kedelai,0,ton
+jawa barat,3274,kota cirebon,Kacang Hijau,3,ton
+jawa barat,3274,kota cirebon,Kacang Tanah,3,ton
+jawa barat,3274,kota cirebon,Kedelai,0,ton
+jawa barat,3275,kota bekasi,Kacang Hijau,0,ton
+jawa barat,3275,kota bekasi,Kacang Tanah,23,ton
+jawa barat,3275,kota bekasi,Kedelai,0,ton
+jawa barat,3276,kota depok,Kacang Hijau,0,ton
+jawa barat,3276,kota depok,Kacang Tanah,42,ton
+jawa barat,3276,kota depok,Kedelai,0,ton
+jawa barat,3277,kota cimahi,Kacang Hijau,0,ton
+jawa barat,3277,kota cimahi,Kacang Tanah,8,ton
+jawa barat,3277,kota cimahi,Kedelai,0,ton
+jawa barat,3278,kota tasikmalaya,Kacang Hijau,0,ton
+jawa barat,3278,kota tasikmalaya,Kacang Tanah,59,ton
+jawa barat,3278,kota tasikmalaya,Kedelai,614,ton
+jawa barat,3279,kota banjar,Kacang Hijau,31,ton
+jawa barat,3279,kota banjar,Kacang Tanah,110,ton
+jawa barat,3279,kota banjar,Kedelai,232,ton

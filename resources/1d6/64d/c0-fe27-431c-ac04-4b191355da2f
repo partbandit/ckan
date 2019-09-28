@@ -1,0 +1,7 @@
+provinsi ,kode_kabupaten_kota ,nama_kabupaten_kota ,kategori_kegiatan ,luas_tanaman,satuan
+Jawa Barat,3210,KAB. MAJALENGKA,Tanam,2278.85,Ha
+Jawa Barat,3210,KAB. MAJALENGKA,Panen,2278.85,Ha
+Jawa Barat,3212,KAB. INDRAMAYU,Tanam,3257.74,Ha
+Jawa Barat,3212,KAB. INDRAMAYU,Panen,3257.74,Ha
+Jawa Barat,3213,KAB. SUBANG,Tanam,4692.887,Ha
+,3213,KAB. SUBANG,Panen,4692.887,Ha

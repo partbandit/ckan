@@ -1,0 +1,79 @@
+provinsi,kode_kota_kabupaten,nama_kota_kabupaten,jenis_komoditi,jumlah_produksi,satuan
+jawa barat,3201,kab. bogor,Kacang Hijau,25,ton
+jawa barat,3201,kab. bogor,Kacang Tanah,2926,ton
+jawa barat,3201,kab. bogor,Kedelai,34,ton
+jawa barat,3202,kab. sukabumi,Kacang Hijau,1180,ton
+jawa barat,3202,kab. sukabumi,Kacang Tanah,9562,ton
+jawa barat,3202,kab. sukabumi,Kedelai,9243,ton
+jawa barat,3203,kab. cianjur,Kacang Hijau,1255,ton
+jawa barat,3203,kab. cianjur,Kacang Tanah,19864,ton
+jawa barat,3203,kab. cianjur,Kedelai,2312,ton
+jawa barat,3204,kab. bandung,Kacang Hijau,11,ton
+jawa barat,3204,kab. bandung,Kacang Tanah,1762,ton
+jawa barat,3204,kab. bandung,Kedelai,139,ton
+jawa barat,3205,kab. garut,Kacang Hijau,2142,ton
+jawa barat,3205,kab. garut,Kacang Tanah,36996,ton
+jawa barat,3205,kab. garut,Kedelai,19235,ton
+jawa barat,3206,kab. tasikmalaya,Kacang Hijau,184,ton
+jawa barat,3206,kab. tasikmalaya,Kacang Tanah,5627,ton
+jawa barat,3206,kab. tasikmalaya,Kedelai,2909,ton
+jawa barat,3207,kab. ciamis,Kacang Hijau,484,ton
+jawa barat,3207,kab. ciamis,Kacang Tanah,2725,ton
+jawa barat,3207,kab. ciamis,Kedelai,1275,ton
+jawa barat,3208,kab. kuningan,Kacang Hijau,181,ton
+jawa barat,3208,kab. kuningan,Kacang Tanah,1276,ton
+jawa barat,3208,kab. kuningan,Kedelai,534,ton
+jawa barat,3209,kab. cirebon,Kacang Hijau,1969,ton
+jawa barat,3209,kab. cirebon,Kacang Tanah,184,ton
+jawa barat,3209,kab. cirebon,Kedelai,833,ton
+jawa barat,3210,kab. majalengka,Kacang Hijau,868,ton
+jawa barat,3210,kab. majalengka,Kacang Tanah,875,ton
+jawa barat,3210,kab. majalengka,Kedelai,573,ton
+jawa barat,3211,kab. sumedang,Kacang Hijau,964,ton
+jawa barat,3211,kab. sumedang,Kacang Tanah,5770,ton
+jawa barat,3211,kab. sumedang,Kedelai,2099,ton
+jawa barat,3212,kab. indramayu,Kacang Hijau,421,ton
+jawa barat,3212,kab. indramayu,Kacang Tanah,114,ton
+jawa barat,3212,kab. indramayu,Kedelai,9759,ton
+jawa barat,3213,kab. subang,Kacang Hijau,12,ton
+jawa barat,3213,kab. subang,Kacang Tanah,1097,ton
+jawa barat,3213,kab. subang,Kedelai,685,ton
+jawa barat,3214,kab. purwakarta,Kacang Hijau,269,ton
+jawa barat,3214,kab. purwakarta,Kacang Tanah,1248,ton
+jawa barat,3214,kab. purwakarta,Kedelai,166,ton
+jawa barat,3215,kab. karawang,Kacang Hijau,943,ton
+jawa barat,3215,kab. karawang,Kacang Tanah,344,ton
+jawa barat,3215,kab. karawang,Kedelai,491,ton
+jawa barat,3216,kab. bekasi,Kacang Hijau,9,ton
+jawa barat,3216,kab. bekasi,Kacang Tanah,101,ton
+jawa barat,3216,kab. bekasi,Kedelai,0,ton
+jawa barat,3217,kab. bandung barat,Kacang Hijau,57,ton
+jawa barat,3217,kab. bandung barat,Kacang Tanah,617,ton
+jawa barat,3217,kab. bandung barat,Kedelai,840,ton
+jawa barat,3271,kota bogor,Kacang Hijau,0,ton
+jawa barat,3271,kota bogor,Kacang Tanah,34,ton
+jawa barat,3271,kota bogor,Kedelai,0,ton
+jawa barat,3272,kota sukabumi,Kacang Hijau,0,ton
+jawa barat,3272,kota sukabumi,Kacang Tanah,21,ton
+jawa barat,3272,kota sukabumi,Kedelai,6,ton
+jawa barat,3273,kota bandung,Kacang Hijau,0,ton
+jawa barat,3273,kota bandung,Kacang Tanah,17,ton
+jawa barat,3273,kota bandung,Kedelai,0,ton
+jawa barat,3274,kota cirebon,Kacang Hijau,8,ton
+jawa barat,3274,kota cirebon,Kacang Tanah,8,ton
+jawa barat,3274,kota cirebon,Kedelai,0,ton
+jawa barat,3275,kota bekasi,Kacang Hijau,0,ton
+jawa barat,3275,kota bekasi,Kacang Tanah,15,ton
+jawa barat,3275,kota bekasi,Kedelai,0,ton
+jawa barat,3276,kota depok,Kacang Hijau,0,ton
+jawa barat,3276,kota depok,Kacang Tanah,87,ton
+jawa barat,3276,kota depok,Kedelai,0,ton
+jawa barat,3277,kota cimahi,Kacang Hijau,0,ton
+jawa barat,3277,kota cimahi,Kacang Tanah,33,ton
+jawa barat,3277,kota cimahi,Kedelai,0,ton
+jawa barat,3278,kota tasikmalaya,Kacang Hijau,0,ton
+jawa barat,3278,kota tasikmalaya,Kacang Tanah,54,ton
+jawa barat,3278,kota tasikmalaya,Kedelai,1,ton
+jawa barat,3279,kota banjar,Kacang Hijau,20,ton
+jawa barat,3279,kota banjar,Kacang Tanah,216,ton
+jawa barat,3279,kota banjar,Kedelai,38,ton

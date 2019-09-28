@@ -1,0 +1,79 @@
+provinsi,kode_kota_kabupaten,nama_kota_kabupaten,jenis_komoditi,luas_panen,satuan
+jawa barat,3204,kab. bandung,Kacang Hijau,6,hektar
+jawa barat,3204,kab. bandung,Kacang Tanah,1652,hektar
+jawa barat,3204,kab. bandung,Kedelai,99,hektar
+jawa barat,3217,kab. bandung barat,Kacang Hijau,49,hektar
+jawa barat,3217,kab. bandung barat,Kacang Tanah,423,hektar
+jawa barat,3217,kab. bandung barat,Kedelai,570,hektar
+jawa barat,3216,kab. bekasi,Kacang Hijau,6,hektar
+jawa barat,3216,kab. bekasi,Kacang Tanah,88,hektar
+jawa barat,3216,kab. bekasi,Kedelai,0,hektar
+jawa barat,3201,kab. bogor,Kacang Hijau,23,hektar
+jawa barat,3201,kab. bogor,Kacang Tanah,1145,hektar
+jawa barat,3201,kab. bogor,Kedelai,29,hektar
+jawa barat,3207,kab. ciamis,Kacang Hijau,405,hektar
+jawa barat,3207,kab. ciamis,Kacang Tanah,1682,hektar
+jawa barat,3207,kab. ciamis,Kedelai,1208,hektar
+jawa barat,3203,kab. cianjur,Kacang Hijau,1217,hektar
+jawa barat,3203,kab. cianjur,Kacang Tanah,12483,hektar
+jawa barat,3203,kab. cianjur,Kedelai,2743,hektar
+jawa barat,3209,kab. cirebon,Kacang Hijau,1201,hektar
+jawa barat,3209,kab. cirebon,Kacang Tanah,100,hektar
+jawa barat,3209,kab. cirebon,Kedelai,565,hektar
+jawa barat,3205,kab. garut,Kacang Hijau,1966,hektar
+jawa barat,3205,kab. garut,Kacang Tanah,19022,hektar
+jawa barat,3205,kab. garut,Kedelai,12814,hektar
+jawa barat,3212,kab. indramayu,Kacang Hijau,413,hektar
+jawa barat,3212,kab. indramayu,Kacang Tanah,95,hektar
+jawa barat,3212,kab. indramayu,Kedelai,4700,hektar
+jawa barat,3215,kab. karawang,Kacang Hijau,755,hektar
+jawa barat,3215,kab. karawang,Kacang Tanah,329,hektar
+jawa barat,3215,kab. karawang,Kedelai,284,hektar
+jawa barat,3208,kab. kuningan,Kacang Hijau,159,hektar
+jawa barat,3208,kab. kuningan,Kacang Tanah,858,hektar
+jawa barat,3208,kab. kuningan,Kedelai,388,hektar
+jawa barat,3210,kab. majalengka,Kacang Hijau,811,hektar
+jawa barat,3210,kab. majalengka,Kacang Tanah,679,hektar
+jawa barat,3210,kab. majalengka,Kedelai,507,hektar
+jawa barat,3214,kab. purwakarta,Kacang Hijau,231,hektar
+jawa barat,3214,kab. purwakarta,Kacang Tanah,848,hektar
+jawa barat,3214,kab. purwakarta,Kedelai,110,hektar
+jawa barat,3213,kab. subang,Kacang Hijau,11,hektar
+jawa barat,3213,kab. subang,Kacang Tanah,977,hektar
+jawa barat,3213,kab. subang,Kedelai,559,hektar
+jawa barat,3202,kab. sukabumi,Kacang Hijau,764,hektar
+jawa barat,3202,kab. sukabumi,Kacang Tanah,4554,hektar
+jawa barat,3202,kab. sukabumi,Kedelai,7386,hektar
+jawa barat,3211,kab. sumedang,Kacang Hijau,919,hektar
+jawa barat,3211,kab. sumedang,Kacang Tanah,4744,hektar
+jawa barat,3211,kab. sumedang,Kedelai,1270,hektar
+jawa barat,3206,kab. tasikmalaya,Kacang Hijau,161,hektar
+jawa barat,3206,kab. tasikmalaya,Kacang Tanah,4291,hektar
+jawa barat,3206,kab. tasikmalaya,Kedelai,2416,hektar
+jawa barat,3273,kota bandung,Kacang Hijau,0,hektar
+jawa barat,3273,kota bandung,Kacang Tanah,27,hektar
+jawa barat,3273,kota bandung,Kedelai,0,hektar
+jawa barat,3279,kota banjar,Kacang Hijau,16,hektar
+jawa barat,3279,kota banjar,Kacang Tanah,99,hektar
+jawa barat,3279,kota banjar,Kedelai,26,hektar
+jawa barat,3275,kota bekasi,Kacang Hijau,0,hektar
+jawa barat,3275,kota bekasi,Kacang Tanah,10,hektar
+jawa barat,3275,kota bekasi,Kedelai,0,hektar
+jawa barat,3271,kota bogor,Kacang Hijau,0,hektar
+jawa barat,3271,kota bogor,Kacang Tanah,40,hektar
+jawa barat,3271,kota bogor,Kedelai,0,hektar
+jawa barat,3277,kota cimahi,Kacang Hijau,0,hektar
+jawa barat,3277,kota cimahi,Kacang Tanah,28,hektar
+jawa barat,3277,kota cimahi,Kedelai,0,hektar
+jawa barat,3274,kota cirebon,Kacang Hijau,8,hektar
+jawa barat,3274,kota cirebon,Kacang Tanah,8,hektar
+jawa barat,3274,kota cirebon,Kedelai,0,hektar
+jawa barat,3276,kota depok,Kacang Hijau,0,hektar
+jawa barat,3276,kota depok,Kacang Tanah,88,hektar
+jawa barat,3276,kota depok,Kedelai,0,hektar
+jawa barat,3272,kota sukabumi,Kacang Hijau,0,hektar
+jawa barat,3272,kota sukabumi,Kacang Tanah,20,hektar
+jawa barat,3272,kota sukabumi,Kedelai,5,hektar
+jawa barat,3278,kota tasik,Kacang Hijau,0,hektar
+jawa barat,3278,kota tasik,Kacang Tanah,56,hektar
+jawa barat,3278,kota tasik,Kedelai,1,hektar

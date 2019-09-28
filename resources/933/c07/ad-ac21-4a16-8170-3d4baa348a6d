@@ -1,0 +1,702 @@
+provinsi,kode_kota_kabupaten,nama_kota_kabupaten,jenis_komoditi,jumlah_produksi,satuan
+jawa barat,3201,kab. bogor,Belimbing,8588,Kuintal
+jawa barat,3201,kab. bogor,Dukuh Langsat,7431,Kuintal
+jawa barat,3201,kab. bogor,Anggur,0,Kuintal
+jawa barat,3201,kab. bogor,Jambu Air,7318,Kuintal
+jawa barat,3201,kab. bogor,Jambu Biji,39489,Kuintal
+jawa barat,3201,kab. bogor,jengkol,4791,Kuintal
+jawa barat,3201,kab. bogor,Melinjo,10856,Kuintal
+jawa barat,3201,kab. bogor,Nangka Campedak,59592,Kuintal
+jawa barat,3201,kab. bogor,Petai,22717,Kuintal
+jawa barat,3201,kab. bogor,Pisang,456136,Kuintal
+jawa barat,3201,kab. bogor,Sirsak,1813,Kuintal
+jawa barat,3201,kab. bogor,Alpukat,14874,Kuintal
+jawa barat,3201,kab. bogor,Apel,0,Kuintal
+jawa barat,3201,kab. bogor,Durian,42846,Kuintal
+jawa barat,3201,kab. bogor,Jeruk Besar,720,Kuintal
+jawa barat,3201,kab. bogor,Jeruk Siam,1000,Kuintal
+jawa barat,3201,kab. bogor,Jeruk,1720,Kuintal
+jawa barat,3201,kab. bogor,Mangga,10798,Kuintal
+jawa barat,3201,kab. bogor,Manggis,30053,Kuintal
+jawa barat,3201,kab. bogor,Markisa Konyal,9,Kuintal
+jawa barat,3201,kab. bogor, Nenas,14963,Kuintal
+jawa barat,3201,kab. bogor,Pepaya,66115,Kuintal
+jawa barat,3201,kab. bogor,Rambutan,59271,Kuintal
+jawa barat,3201,kab. bogor,Salak,3357,Kuintal
+jawa barat,3201,kab. bogor,Sawo,2371,Kuintal
+jawa barat,3201,kab. bogor,Sukun,7810,Kuintal
+jawa barat,3202,kab. sukabumi,Belimbing,2439,Kuintal
+jawa barat,3202,kab. sukabumi,Dukuh Langsat,1562,Kuintal
+jawa barat,3202,kab. sukabumi,Anggur,0,Kuintal
+jawa barat,3202,kab. sukabumi,Jambu Air,5320,Kuintal
+jawa barat,3202,kab. sukabumi,Jambu Biji,50878,Kuintal
+jawa barat,3202,kab. sukabumi,jengkol,2209,Kuintal
+jawa barat,3202,kab. sukabumi,Melinjo,1572,Kuintal
+jawa barat,3202,kab. sukabumi,Nangka Campedak,31338,Kuintal
+jawa barat,3202,kab. sukabumi,Petai,10724,Kuintal
+jawa barat,3202,kab. sukabumi,Pisang,1653190,Kuintal
+jawa barat,3202,kab. sukabumi,Sirsak,7061,Kuintal
+jawa barat,3202,kab. sukabumi,Alpukat,16062,Kuintal
+jawa barat,3202,kab. sukabumi,Apel,0,Kuintal
+jawa barat,3202,kab. sukabumi,Durian,47044,Kuintal
+jawa barat,3202,kab. sukabumi,Jeruk Besar,2356,Kuintal
+jawa barat,3202,kab. sukabumi,Jeruk Siam,3696,Kuintal
+jawa barat,3202,kab. sukabumi,Jeruk,6052,Kuintal
+jawa barat,3202,kab. sukabumi,Mangga,62789,Kuintal
+jawa barat,3202,kab. sukabumi,Manggis,23502,Kuintal
+jawa barat,3202,kab. sukabumi,Markisa Konyal,27,Kuintal
+jawa barat,3202,kab. sukabumi, Nenas,1321,Kuintal
+jawa barat,3202,kab. sukabumi,Pepaya,224970,Kuintal
+jawa barat,3202,kab. sukabumi,Rambutan,19726,Kuintal
+jawa barat,3202,kab. sukabumi,Salak,809,Kuintal
+jawa barat,3202,kab. sukabumi,Sawo,10366,Kuintal
+jawa barat,3202,kab. sukabumi,Sukun,3129,Kuintal
+jawa barat,3203,kab. cianjur,Belimbing,3367,Kuintal
+jawa barat,3203,kab. cianjur,Dukuh Langsat,4673,Kuintal
+jawa barat,3203,kab. cianjur,Anggur,0,Kuintal
+jawa barat,3203,kab. cianjur,Jambu Air,19324,Kuintal
+jawa barat,3203,kab. cianjur,Jambu Biji,38228,Kuintal
+jawa barat,3203,kab. cianjur,jengkol,3057,Kuintal
+jawa barat,3203,kab. cianjur,Melinjo,13458,Kuintal
+jawa barat,3203,kab. cianjur,Nangka Campedak,64508,Kuintal
+jawa barat,3203,kab. cianjur,Petai,41445,Kuintal
+jawa barat,3203,kab. cianjur,Pisang,1915607,Kuintal
+jawa barat,3203,kab. cianjur,Sirsak,18110,Kuintal
+jawa barat,3203,kab. cianjur,Alpukat,47183,Kuintal
+jawa barat,3203,kab. cianjur,Apel,0,Kuintal
+jawa barat,3203,kab. cianjur,Durian,73687,Kuintal
+jawa barat,3203,kab. cianjur,Jeruk Besar,3263,Kuintal
+jawa barat,3203,kab. cianjur,Jeruk Siam,8954,Kuintal
+jawa barat,3203,kab. cianjur,Jeruk,12217,Kuintal
+jawa barat,3203,kab. cianjur,Mangga,84780,Kuintal
+jawa barat,3203,kab. cianjur,Manggis,12795,Kuintal
+jawa barat,3203,kab. cianjur,Markisa Konyal,0,Kuintal
+jawa barat,3203,kab. cianjur, Nenas,2627,Kuintal
+jawa barat,3203,kab. cianjur,Pepaya,34002,Kuintal
+jawa barat,3203,kab. cianjur,Rambutan,48876,Kuintal
+jawa barat,3203,kab. cianjur,Salak,6366,Kuintal
+jawa barat,3203,kab. cianjur,Sawo,10617,Kuintal
+jawa barat,3203,kab. cianjur,Sukun,13901,Kuintal
+jawa barat,3204,kab. bandung,Belimbing,2663,Kuintal
+jawa barat,3204,kab. bandung,Dukuh Langsat,404,Kuintal
+jawa barat,3204,kab. bandung,Anggur,0,Kuintal
+jawa barat,3204,kab. bandung,Jambu Air,11395,Kuintal
+jawa barat,3204,kab. bandung,Jambu Biji,20641,Kuintal
+jawa barat,3204,kab. bandung,jengkol,1629,Kuintal
+jawa barat,3204,kab. bandung,Melinjo,4650,Kuintal
+jawa barat,3204,kab. bandung,Nangka Campedak,26792,Kuintal
+jawa barat,3204,kab. bandung,Petai,12996,Kuintal
+jawa barat,3204,kab. bandung,Pisang,51785,Kuintal
+jawa barat,3204,kab. bandung,Sirsak,2759,Kuintal
+jawa barat,3204,kab. bandung,Alpukat,69153,Kuintal
+jawa barat,3204,kab. bandung,Apel,0,Kuintal
+jawa barat,3204,kab. bandung,Durian,7994,Kuintal
+jawa barat,3204,kab. bandung,Jeruk Besar,3813,Kuintal
+jawa barat,3204,kab. bandung,Jeruk Siam,6130,Kuintal
+jawa barat,3204,kab. bandung,Jeruk,9943,Kuintal
+jawa barat,3204,kab. bandung,Mangga,19535,Kuintal
+jawa barat,3204,kab. bandung,Manggis,1510,Kuintal
+jawa barat,3204,kab. bandung,Markisa Konyal,431,Kuintal
+jawa barat,3204,kab. bandung, Nenas,153,Kuintal
+jawa barat,3204,kab. bandung,Pepaya,4149,Kuintal
+jawa barat,3204,kab. bandung,Rambutan,5663,Kuintal
+jawa barat,3204,kab. bandung,Salak,135,Kuintal
+jawa barat,3204,kab. bandung,Sawo,8247,Kuintal
+jawa barat,3204,kab. bandung,Sukun,18965,Kuintal
+jawa barat,3205,kab. garut,Belimbing,1880,Kuintal
+jawa barat,3205,kab. garut,Dukuh Langsat,5804,Kuintal
+jawa barat,3205,kab. garut,Anggur,0,Kuintal
+jawa barat,3205,kab. garut,Jambu Air,1366,Kuintal
+jawa barat,3205,kab. garut,Jambu Biji,17009,Kuintal
+jawa barat,3205,kab. garut,jengkol,2796,Kuintal
+jawa barat,3205,kab. garut,Melinjo,1557,Kuintal
+jawa barat,3205,kab. garut,Nangka Campedak,20877,Kuintal
+jawa barat,3205,kab. garut,Petai,24955,Kuintal
+jawa barat,3205,kab. garut,Pisang,1203228,Kuintal
+jawa barat,3205,kab. garut,Sirsak,17845,Kuintal
+jawa barat,3205,kab. garut,Alpukat,178742,Kuintal
+jawa barat,3205,kab. garut,Apel,0,Kuintal
+jawa barat,3205,kab. garut,Durian,29367,Kuintal
+jawa barat,3205,kab. garut,Jeruk Besar,1611,Kuintal
+jawa barat,3205,kab. garut,Jeruk Siam,81705,Kuintal
+jawa barat,3205,kab. garut,Jeruk,83316,Kuintal
+jawa barat,3205,kab. garut,Mangga,92443,Kuintal
+jawa barat,3205,kab. garut,Manggis,9124,Kuintal
+jawa barat,3205,kab. garut,Markisa Konyal,241,Kuintal
+jawa barat,3205,kab. garut, Nenas,254,Kuintal
+jawa barat,3205,kab. garut,Pepaya,32306,Kuintal
+jawa barat,3205,kab. garut,Rambutan,6400,Kuintal
+jawa barat,3205,kab. garut,Salak,300,Kuintal
+jawa barat,3205,kab. garut,Sawo,6108,Kuintal
+jawa barat,3205,kab. garut,Sukun,4603,Kuintal
+jawa barat,3206,kab. tasikmalaya,Belimbing,3284,Kuintal
+jawa barat,3206,kab. tasikmalaya,Dukuh Langsat,8288,Kuintal
+jawa barat,3206,kab. tasikmalaya,Anggur,0,Kuintal
+jawa barat,3206,kab. tasikmalaya,Jambu Air,5783,Kuintal
+jawa barat,3206,kab. tasikmalaya,Jambu Biji,15532,Kuintal
+jawa barat,3206,kab. tasikmalaya,jengkol,8296,Kuintal
+jawa barat,3206,kab. tasikmalaya,Melinjo,4725,Kuintal
+jawa barat,3206,kab. tasikmalaya,Nangka Campedak,20159,Kuintal
+jawa barat,3206,kab. tasikmalaya,Petai,21637,Kuintal
+jawa barat,3206,kab. tasikmalaya,Pisang,1212546,Kuintal
+jawa barat,3206,kab. tasikmalaya,Sirsak,24808,Kuintal
+jawa barat,3206,kab. tasikmalaya,Alpukat,19255,Kuintal
+jawa barat,3206,kab. tasikmalaya,Apel,0,Kuintal
+jawa barat,3206,kab. tasikmalaya,Durian,38022,Kuintal
+jawa barat,3206,kab. tasikmalaya,Jeruk Besar,2490,Kuintal
+jawa barat,3206,kab. tasikmalaya,Jeruk Siam,4830,Kuintal
+jawa barat,3206,kab. tasikmalaya,Jeruk,7320,Kuintal
+jawa barat,3206,kab. tasikmalaya,Mangga,12610,Kuintal
+jawa barat,3206,kab. tasikmalaya,Manggis,284565,Kuintal
+jawa barat,3206,kab. tasikmalaya,Markisa Konyal,0,Kuintal
+jawa barat,3206,kab. tasikmalaya, Nenas,1514,Kuintal
+jawa barat,3206,kab. tasikmalaya,Pepaya,69227,Kuintal
+jawa barat,3206,kab. tasikmalaya,Rambutan,44710,Kuintal
+jawa barat,3206,kab. tasikmalaya,Salak,105321,Kuintal
+jawa barat,3206,kab. tasikmalaya,Sawo,23878,Kuintal
+jawa barat,3206,kab. tasikmalaya,Sukun,16492,Kuintal
+jawa barat,3207,kab. ciamis,Belimbing,746,Kuintal
+jawa barat,3207,kab. ciamis,Dukuh Langsat,8731,Kuintal
+jawa barat,3207,kab. ciamis,Anggur,0,Kuintal
+jawa barat,3207,kab. ciamis,Jambu Air,4923,Kuintal
+jawa barat,3207,kab. ciamis,Jambu Biji,10510,Kuintal
+jawa barat,3207,kab. ciamis,jengkol,6390,Kuintal
+jawa barat,3207,kab. ciamis,Melinjo,4057,Kuintal
+jawa barat,3207,kab. ciamis,Nangka Campedak,27486,Kuintal
+jawa barat,3207,kab. ciamis,Petai,14454,Kuintal
+jawa barat,3207,kab. ciamis,Pisang,2139705,Kuintal
+jawa barat,3207,kab. ciamis,Sirsak,4552,Kuintal
+jawa barat,3207,kab. ciamis,Alpukat,34238,Kuintal
+jawa barat,3207,kab. ciamis,Apel,0,Kuintal
+jawa barat,3207,kab. ciamis,Durian,33561,Kuintal
+jawa barat,3207,kab. ciamis,Jeruk Besar,2891,Kuintal
+jawa barat,3207,kab. ciamis,Jeruk Siam,7711,Kuintal
+jawa barat,3207,kab. ciamis,Jeruk,10602,Kuintal
+jawa barat,3207,kab. ciamis,Mangga,19356,Kuintal
+jawa barat,3207,kab. ciamis,Manggis,16012,Kuintal
+jawa barat,3207,kab. ciamis,Markisa Konyal,60,Kuintal
+jawa barat,3207,kab. ciamis, Nenas,1471,Kuintal
+jawa barat,3207,kab. ciamis,Pepaya,107286,Kuintal
+jawa barat,3207,kab. ciamis,Rambutan,51595,Kuintal
+jawa barat,3207,kab. ciamis,Salak,7775,Kuintal
+jawa barat,3207,kab. ciamis,Sawo,11417,Kuintal
+jawa barat,3207,kab. ciamis,Sukun,6210,Kuintal
+jawa barat,3208,kab. kuningan,Belimbing,544,Kuintal
+jawa barat,3208,kab. kuningan,Dukuh Langsat,1400,Kuintal
+jawa barat,3208,kab. kuningan,Anggur,0,Kuintal
+jawa barat,3208,kab. kuningan,Jambu Air,553,Kuintal
+jawa barat,3208,kab. kuningan,Jambu Biji,15437,Kuintal
+jawa barat,3208,kab. kuningan,jengkol,3416,Kuintal
+jawa barat,3208,kab. kuningan,Melinjo,39954,Kuintal
+jawa barat,3208,kab. kuningan,Nangka Campedak,32723,Kuintal
+jawa barat,3208,kab. kuningan,Petai,30961,Kuintal
+jawa barat,3208,kab. kuningan,Pisang,187017,Kuintal
+jawa barat,3208,kab. kuningan,Sirsak,1450,Kuintal
+jawa barat,3208,kab. kuningan,Alpukat,7562,Kuintal
+jawa barat,3208,kab. kuningan,Apel,0,Kuintal
+jawa barat,3208,kab. kuningan,Durian,21273,Kuintal
+jawa barat,3208,kab. kuningan,Jeruk Besar,470,Kuintal
+jawa barat,3208,kab. kuningan,Jeruk Siam,941,Kuintal
+jawa barat,3208,kab. kuningan,Jeruk,1411,Kuintal
+jawa barat,3208,kab. kuningan,Mangga,129195,Kuintal
+jawa barat,3208,kab. kuningan,Manggis,240,Kuintal
+jawa barat,3208,kab. kuningan,Markisa Konyal,0,Kuintal
+jawa barat,3208,kab. kuningan, Nenas,50,Kuintal
+jawa barat,3208,kab. kuningan,Pepaya,13516,Kuintal
+jawa barat,3208,kab. kuningan,Rambutan,37450,Kuintal
+jawa barat,3208,kab. kuningan,Salak,6008,Kuintal
+jawa barat,3208,kab. kuningan,Sawo,447,Kuintal
+jawa barat,3208,kab. kuningan,Sukun,10851,Kuintal
+jawa barat,3209,kab. cirebon,Belimbing,2093,Kuintal
+jawa barat,3209,kab. cirebon,Dukuh Langsat,1278,Kuintal
+jawa barat,3209,kab. cirebon,Anggur,0,Kuintal
+jawa barat,3209,kab. cirebon,Jambu Air,9671,Kuintal
+jawa barat,3209,kab. cirebon,Jambu Biji,15685,Kuintal
+jawa barat,3209,kab. cirebon,jengkol,138,Kuintal
+jawa barat,3209,kab. cirebon,Melinjo,16860,Kuintal
+jawa barat,3209,kab. cirebon,Nangka Campedak,26020,Kuintal
+jawa barat,3209,kab. cirebon,Petai,7380,Kuintal
+jawa barat,3209,kab. cirebon,Pisang,100764,Kuintal
+jawa barat,3209,kab. cirebon,Sirsak,1851,Kuintal
+jawa barat,3209,kab. cirebon,Alpukat,1400,Kuintal
+jawa barat,3209,kab. cirebon,Apel,0,Kuintal
+jawa barat,3209,kab. cirebon,Durian,15199,Kuintal
+jawa barat,3209,kab. cirebon,Jeruk Besar,90,Kuintal
+jawa barat,3209,kab. cirebon,Jeruk Siam,245,Kuintal
+jawa barat,3209,kab. cirebon,Jeruk,335,Kuintal
+jawa barat,3209,kab. cirebon,Mangga,310862,Kuintal
+jawa barat,3209,kab. cirebon,Manggis,0,Kuintal
+jawa barat,3209,kab. cirebon,Markisa Konyal,0,Kuintal
+jawa barat,3209,kab. cirebon, Nenas,0,Kuintal
+jawa barat,3209,kab. cirebon,Pepaya,24659,Kuintal
+jawa barat,3209,kab. cirebon,Rambutan,9713,Kuintal
+jawa barat,3209,kab. cirebon,Salak,1828,Kuintal
+jawa barat,3209,kab. cirebon,Sawo,5349,Kuintal
+jawa barat,3209,kab. cirebon,Sukun,4853,Kuintal
+jawa barat,3210,kab. majalengka,Belimbing,2171,Kuintal
+jawa barat,3210,kab. majalengka,Dukuh Langsat,362,Kuintal
+jawa barat,3210,kab. majalengka,Anggur,0,Kuintal
+jawa barat,3210,kab. majalengka,Jambu Air,5865,Kuintal
+jawa barat,3210,kab. majalengka,Jambu Biji,52684,Kuintal
+jawa barat,3210,kab. majalengka,jengkol,3480,Kuintal
+jawa barat,3210,kab. majalengka,Melinjo,142571,Kuintal
+jawa barat,3210,kab. majalengka,Nangka Campedak,75946,Kuintal
+jawa barat,3210,kab. majalengka,Petai,107746,Kuintal
+jawa barat,3210,kab. majalengka,Pisang,389453,Kuintal
+jawa barat,3210,kab. majalengka,Sirsak,2304,Kuintal
+jawa barat,3210,kab. majalengka,Alpukat,94404,Kuintal
+jawa barat,3210,kab. majalengka,Apel,0,Kuintal
+jawa barat,3210,kab. majalengka,Durian,62661,Kuintal
+jawa barat,3210,kab. majalengka,Jeruk Besar,408,Kuintal
+jawa barat,3210,kab. majalengka,Jeruk Siam,20960,Kuintal
+jawa barat,3210,kab. majalengka,Jeruk,21368,Kuintal
+jawa barat,3210,kab. majalengka,Mangga,375293,Kuintal
+jawa barat,3210,kab. majalengka,Manggis,2943,Kuintal
+jawa barat,3210,kab. majalengka,Markisa Konyal,0,Kuintal
+jawa barat,3210,kab. majalengka, Nenas,414,Kuintal
+jawa barat,3210,kab. majalengka,Pepaya,16830,Kuintal
+jawa barat,3210,kab. majalengka,Rambutan,27298,Kuintal
+jawa barat,3210,kab. majalengka,Salak,2954,Kuintal
+jawa barat,3210,kab. majalengka,Sawo,4013,Kuintal
+jawa barat,3210,kab. majalengka,Sukun,11049,Kuintal
+jawa barat,3211,kab. sumedang,Belimbing,400,Kuintal
+jawa barat,3211,kab. sumedang,Dukuh Langsat,460,Kuintal
+jawa barat,3211,kab. sumedang,Anggur,0,Kuintal
+jawa barat,3211,kab. sumedang,Jambu Air,1523,Kuintal
+jawa barat,3211,kab. sumedang,Jambu Biji,7406,Kuintal
+jawa barat,3211,kab. sumedang,jengkol,2334,Kuintal
+jawa barat,3211,kab. sumedang,Melinjo,9674,Kuintal
+jawa barat,3211,kab. sumedang,Nangka Campedak,59582,Kuintal
+jawa barat,3211,kab. sumedang,Petai,15995,Kuintal
+jawa barat,3211,kab. sumedang,Pisang,607115,Kuintal
+jawa barat,3211,kab. sumedang,Sirsak,368,Kuintal
+jawa barat,3211,kab. sumedang,Alpukat,28907,Kuintal
+jawa barat,3211,kab. sumedang,Apel,0,Kuintal
+jawa barat,3211,kab. sumedang,Durian,13662,Kuintal
+jawa barat,3211,kab. sumedang,Jeruk Besar,4251,Kuintal
+jawa barat,3211,kab. sumedang,Jeruk Siam,3254,Kuintal
+jawa barat,3211,kab. sumedang,Jeruk,7505,Kuintal
+jawa barat,3211,kab. sumedang,Mangga,234025,Kuintal
+jawa barat,3211,kab. sumedang,Manggis,2236,Kuintal
+jawa barat,3211,kab. sumedang,Markisa Konyal,0,Kuintal
+jawa barat,3211,kab. sumedang, Nenas,378,Kuintal
+jawa barat,3211,kab. sumedang,Pepaya,16960,Kuintal
+jawa barat,3211,kab. sumedang,Rambutan,37989,Kuintal
+jawa barat,3211,kab. sumedang,Salak,10732,Kuintal
+jawa barat,3211,kab. sumedang,Sawo,23412,Kuintal
+jawa barat,3211,kab. sumedang,Sukun,5523,Kuintal
+jawa barat,3212,kab. indramayu,Belimbing,2424,Kuintal
+jawa barat,3212,kab. indramayu,Dukuh Langsat,0,Kuintal
+jawa barat,3212,kab. indramayu,Anggur,0,Kuintal
+jawa barat,3212,kab. indramayu,Jambu Air,14425,Kuintal
+jawa barat,3212,kab. indramayu,Jambu Biji,17767,Kuintal
+jawa barat,3212,kab. indramayu,jengkol,138,Kuintal
+jawa barat,3212,kab. indramayu,Melinjo,32117,Kuintal
+jawa barat,3212,kab. indramayu,Nangka Campedak,16195,Kuintal
+jawa barat,3212,kab. indramayu,Petai,10933,Kuintal
+jawa barat,3212,kab. indramayu,Pisang,137691,Kuintal
+jawa barat,3212,kab. indramayu,Sirsak,2381,Kuintal
+jawa barat,3212,kab. indramayu,Alpukat,22,Kuintal
+jawa barat,3212,kab. indramayu,Apel,0,Kuintal
+jawa barat,3212,kab. indramayu,Durian,138,Kuintal
+jawa barat,3212,kab. indramayu,Jeruk Besar,1,Kuintal
+jawa barat,3212,kab. indramayu,Jeruk Siam,2103,Kuintal
+jawa barat,3212,kab. indramayu,Jeruk,2104,Kuintal
+jawa barat,3212,kab. indramayu,Mangga,906435,Kuintal
+jawa barat,3212,kab. indramayu,Manggis,0,Kuintal
+jawa barat,3212,kab. indramayu,Markisa Konyal,21,Kuintal
+jawa barat,3212,kab. indramayu, Nenas,0,Kuintal
+jawa barat,3212,kab. indramayu,Pepaya,11831,Kuintal
+jawa barat,3212,kab. indramayu,Rambutan,949,Kuintal
+jawa barat,3212,kab. indramayu,Salak,0,Kuintal
+jawa barat,3212,kab. indramayu,Sawo,4395,Kuintal
+jawa barat,3212,kab. indramayu,Sukun,20296,Kuintal
+jawa barat,3213,kab. subang,Belimbing,1784,Kuintal
+jawa barat,3213,kab. subang,Dukuh Langsat,998,Kuintal
+jawa barat,3213,kab. subang,Anggur,0,Kuintal
+jawa barat,3213,kab. subang,Jambu Air,935,Kuintal
+jawa barat,3213,kab. subang,Jambu Biji,7871,Kuintal
+jawa barat,3213,kab. subang,jengkol,6018,Kuintal
+jawa barat,3213,kab. subang,Melinjo,2086,Kuintal
+jawa barat,3213,kab. subang,Nangka Campedak,8576,Kuintal
+jawa barat,3213,kab. subang,Petai,6894,Kuintal
+jawa barat,3213,kab. subang,Pisang,522911,Kuintal
+jawa barat,3213,kab. subang,Sirsak,1294,Kuintal
+jawa barat,3213,kab. subang,Alpukat,6643,Kuintal
+jawa barat,3213,kab. subang,Apel,0,Kuintal
+jawa barat,3213,kab. subang,Durian,5819,Kuintal
+jawa barat,3213,kab. subang,Jeruk Besar,367,Kuintal
+jawa barat,3213,kab. subang,Jeruk Siam,8449,Kuintal
+jawa barat,3213,kab. subang,Jeruk,8816,Kuintal
+jawa barat,3213,kab. subang,Mangga,71905,Kuintal
+jawa barat,3213,kab. subang,Manggis,16815,Kuintal
+jawa barat,3213,kab. subang,Markisa Konyal,0,Kuintal
+jawa barat,3213,kab. subang, Nenas,2068157,Kuintal
+jawa barat,3213,kab. subang,Pepaya,18219,Kuintal
+jawa barat,3213,kab. subang,Rambutan,28582,Kuintal
+jawa barat,3213,kab. subang,Salak,932,Kuintal
+jawa barat,3213,kab. subang,Sawo,850,Kuintal
+jawa barat,3213,kab. subang,Sukun,2545,Kuintal
+jawa barat,3214,kab. purwakarta,Belimbing,1436,Kuintal
+jawa barat,3214,kab. purwakarta,Dukuh Langsat,1371,Kuintal
+jawa barat,3214,kab. purwakarta,Anggur,0,Kuintal
+jawa barat,3214,kab. purwakarta,Jambu Air,4917,Kuintal
+jawa barat,3214,kab. purwakarta,Jambu Biji,10292,Kuintal
+jawa barat,3214,kab. purwakarta,jengkol,6104,Kuintal
+jawa barat,3214,kab. purwakarta,Melinjo,12260,Kuintal
+jawa barat,3214,kab. purwakarta,Nangka Campedak,12015,Kuintal
+jawa barat,3214,kab. purwakarta,Petai,38615,Kuintal
+jawa barat,3214,kab. purwakarta,Pisang,923086,Kuintal
+jawa barat,3214,kab. purwakarta,Sirsak,3798,Kuintal
+jawa barat,3214,kab. purwakarta,Alpukat,7194,Kuintal
+jawa barat,3214,kab. purwakarta,Apel,0,Kuintal
+jawa barat,3214,kab. purwakarta,Durian,23433,Kuintal
+jawa barat,3214,kab. purwakarta,Jeruk Besar,752,Kuintal
+jawa barat,3214,kab. purwakarta,Jeruk Siam,3294,Kuintal
+jawa barat,3214,kab. purwakarta,Jeruk,4046,Kuintal
+jawa barat,3214,kab. purwakarta,Mangga,20380,Kuintal
+jawa barat,3214,kab. purwakarta,Manggis,52569,Kuintal
+jawa barat,3214,kab. purwakarta,Markisa Konyal,88,Kuintal
+jawa barat,3214,kab. purwakarta, Nenas,1106,Kuintal
+jawa barat,3214,kab. purwakarta,Pepaya,8824,Kuintal
+jawa barat,3214,kab. purwakarta,Rambutan,104719,Kuintal
+jawa barat,3214,kab. purwakarta,Salak,629,Kuintal
+jawa barat,3214,kab. purwakarta,Sawo,2783,Kuintal
+jawa barat,3214,kab. purwakarta,Sukun,6690,Kuintal
+jawa barat,3215,kab. karawang,Belimbing,3918,Kuintal
+jawa barat,3215,kab. karawang,Dukuh Langsat,0,Kuintal
+jawa barat,3215,kab. karawang,Anggur,0,Kuintal
+jawa barat,3215,kab. karawang,Jambu Air,14943,Kuintal
+jawa barat,3215,kab. karawang,Jambu Biji,30027,Kuintal
+jawa barat,3215,kab. karawang,jengkol,30276,Kuintal
+jawa barat,3215,kab. karawang,Melinjo,11711,Kuintal
+jawa barat,3215,kab. karawang,Nangka Campedak,36784,Kuintal
+jawa barat,3215,kab. karawang,Petai,37436,Kuintal
+jawa barat,3215,kab. karawang,Pisang,89104,Kuintal
+jawa barat,3215,kab. karawang,Sirsak,2352,Kuintal
+jawa barat,3215,kab. karawang,Alpukat,194,Kuintal
+jawa barat,3215,kab. karawang,Apel,0,Kuintal
+jawa barat,3215,kab. karawang,Durian,78610,Kuintal
+jawa barat,3215,kab. karawang,Jeruk Besar,78,Kuintal
+jawa barat,3215,kab. karawang,Jeruk Siam,55611,Kuintal
+jawa barat,3215,kab. karawang,Jeruk,55689,Kuintal
+jawa barat,3215,kab. karawang,Mangga,195269,Kuintal
+jawa barat,3215,kab. karawang,Manggis,0,Kuintal
+jawa barat,3215,kab. karawang,Markisa Konyal,0,Kuintal
+jawa barat,3215,kab. karawang, Nenas,165,Kuintal
+jawa barat,3215,kab. karawang,Pepaya,41261,Kuintal
+jawa barat,3215,kab. karawang,Rambutan,123337,Kuintal
+jawa barat,3215,kab. karawang,Salak,3,Kuintal
+jawa barat,3215,kab. karawang,Sawo,2119,Kuintal
+jawa barat,3215,kab. karawang,Sukun,11171,Kuintal
+jawa barat,3216,kab. bekasi,Belimbing,145,Kuintal
+jawa barat,3216,kab. bekasi,Dukuh Langsat,0,Kuintal
+jawa barat,3216,kab. bekasi,Anggur,0,Kuintal
+jawa barat,3216,kab. bekasi,Jambu Air,1408,Kuintal
+jawa barat,3216,kab. bekasi,Jambu Biji,982,Kuintal
+jawa barat,3216,kab. bekasi,jengkol,14,Kuintal
+jawa barat,3216,kab. bekasi,Melinjo,1380,Kuintal
+jawa barat,3216,kab. bekasi,Nangka Campedak,1879,Kuintal
+jawa barat,3216,kab. bekasi,Petai,180,Kuintal
+jawa barat,3216,kab. bekasi,Pisang,15186,Kuintal
+jawa barat,3216,kab. bekasi,Sirsak,55,Kuintal
+jawa barat,3216,kab. bekasi,Alpukat,0,Kuintal
+jawa barat,3216,kab. bekasi,Apel,0,Kuintal
+jawa barat,3216,kab. bekasi,Durian,0,Kuintal
+jawa barat,3216,kab. bekasi,Jeruk Besar,2,Kuintal
+jawa barat,3216,kab. bekasi,Jeruk Siam,0,Kuintal
+jawa barat,3216,kab. bekasi,Jeruk,2,Kuintal
+jawa barat,3216,kab. bekasi,Mangga,7171,Kuintal
+jawa barat,3216,kab. bekasi,Manggis,0,Kuintal
+jawa barat,3216,kab. bekasi,Markisa Konyal,0,Kuintal
+jawa barat,3216,kab. bekasi, Nenas,0,Kuintal
+jawa barat,3216,kab. bekasi,Pepaya,704,Kuintal
+jawa barat,3216,kab. bekasi,Rambutan,0,Kuintal
+jawa barat,3216,kab. bekasi,Salak,1300,Kuintal
+jawa barat,3216,kab. bekasi,Sawo,165,Kuintal
+jawa barat,3216,kab. bekasi,Sukun,1636,Kuintal
+jawa barat,3217,kab. bandung barat,Belimbing,2100,Kuintal
+jawa barat,3217,kab. bandung barat,Dukuh Langsat,1493,Kuintal
+jawa barat,3217,kab. bandung barat,Anggur,0,Kuintal
+jawa barat,3217,kab. bandung barat,Jambu Air,1808,Kuintal
+jawa barat,3217,kab. bandung barat,Jambu Biji,39371,Kuintal
+jawa barat,3217,kab. bandung barat,jengkol,870,Kuintal
+jawa barat,3217,kab. bandung barat,Melinjo,17676,Kuintal
+jawa barat,3217,kab. bandung barat,Nangka Campedak,44583,Kuintal
+jawa barat,3217,kab. bandung barat,Petai,5621,Kuintal
+jawa barat,3217,kab. bandung barat,Pisang,193454,Kuintal
+jawa barat,3217,kab. bandung barat,Sirsak,1684,Kuintal
+jawa barat,3217,kab. bandung barat,Alpukat,100681,Kuintal
+jawa barat,3217,kab. bandung barat,Apel,0,Kuintal
+jawa barat,3217,kab. bandung barat,Durian,11998,Kuintal
+jawa barat,3217,kab. bandung barat,Jeruk Besar,3562,Kuintal
+jawa barat,3217,kab. bandung barat,Jeruk Siam,57569,Kuintal
+jawa barat,3217,kab. bandung barat,Jeruk,61131,Kuintal
+jawa barat,3217,kab. bandung barat,Mangga,16858,Kuintal
+jawa barat,3217,kab. bandung barat,Manggis,24003,Kuintal
+jawa barat,3217,kab. bandung barat,Markisa Konyal,145,Kuintal
+jawa barat,3217,kab. bandung barat, Nenas,421,Kuintal
+jawa barat,3217,kab. bandung barat,Pepaya,30992,Kuintal
+jawa barat,3217,kab. bandung barat,Rambutan,31941,Kuintal
+jawa barat,3217,kab. bandung barat,Salak,11250,Kuintal
+jawa barat,3217,kab. bandung barat,Sawo,6013,Kuintal
+jawa barat,3217,kab. bandung barat,Sukun,4221,Kuintal
+jawa barat,3218,kab. pangandaran,Belimbing,72,Kuintal
+jawa barat,3218,kab. pangandaran,Dukuh Langsat,1613,Kuintal
+jawa barat,3218,kab. pangandaran,Anggur,0,Kuintal
+jawa barat,3218,kab. pangandaran,Jambu Air,1395,Kuintal
+jawa barat,3218,kab. pangandaran,Jambu Biji,1513,Kuintal
+jawa barat,3218,kab. pangandaran,jengkol,1470,Kuintal
+jawa barat,3218,kab. pangandaran,Melinjo,122,Kuintal
+jawa barat,3218,kab. pangandaran,Nangka Campedak,2206,Kuintal
+jawa barat,3218,kab. pangandaran,Petai,4901,Kuintal
+jawa barat,3218,kab. pangandaran,Pisang,66807,Kuintal
+jawa barat,3218,kab. pangandaran,Sirsak,275,Kuintal
+jawa barat,3218,kab. pangandaran,Alpukat,1786,Kuintal
+jawa barat,3218,kab. pangandaran,Apel,0,Kuintal
+jawa barat,3218,kab. pangandaran,Durian,39760,Kuintal
+jawa barat,3218,kab. pangandaran,Jeruk Besar,84,Kuintal
+jawa barat,3218,kab. pangandaran,Jeruk Siam,3877,Kuintal
+jawa barat,3218,kab. pangandaran,Mangga,4699,Kuintal
+jawa barat,3218,kab. pangandaran,Manggis,11899,Kuintal
+jawa barat,3218,kab. pangandaran,Markisa Konyal,0,Kuintal
+jawa barat,3218,kab. pangandaran, Nenas,421,Kuintal
+jawa barat,3218,kab. pangandaran,Pepaya,6794,Kuintal
+jawa barat,3218,kab. pangandaran,Rambutan,1924,Kuintal
+jawa barat,3218,kab. pangandaran,Salak,64,Kuintal
+jawa barat,3218,kab. pangandaran,Sawo,97674,Kuintal
+jawa barat,3218,kab. pangandaran,Sukun,1101,Kuintal
+jawa barat,3271,kota bogor,Belimbing,557,Kuintal
+jawa barat,3271,kota bogor,Dukuh Langsat,1036,Kuintal
+jawa barat,3271,kota bogor,Anggur,0,Kuintal
+jawa barat,3271,kota bogor,Jambu Air,8498,Kuintal
+jawa barat,3271,kota bogor,Jambu Biji,16478,Kuintal
+jawa barat,3271,kota bogor,jengkol,724,Kuintal
+jawa barat,3271,kota bogor,Melinjo,273,Kuintal
+jawa barat,3271,kota bogor,Nangka Campedak,7649,Kuintal
+jawa barat,3271,kota bogor,Petai,1422,Kuintal
+jawa barat,3271,kota bogor,Pisang,5944,Kuintal
+jawa barat,3271,kota bogor,Sirsak,1316,Kuintal
+jawa barat,3271,kota bogor,Alpukat,4884,Kuintal
+jawa barat,3271,kota bogor,Apel,0,Kuintal
+jawa barat,3271,kota bogor,Durian,13825,Kuintal
+jawa barat,3271,kota bogor,Jeruk Besar,1171,Kuintal
+jawa barat,3271,kota bogor,Jeruk Siam,568,Kuintal
+jawa barat,3271,kota bogor,Jeruk,1739,Kuintal
+jawa barat,3271,kota bogor,Mangga,8222,Kuintal
+jawa barat,3271,kota bogor,Manggis,2021,Kuintal
+jawa barat,3271,kota bogor,Markisa Konyal,0,Kuintal
+jawa barat,3271,kota bogor, Nenas,43,Kuintal
+jawa barat,3271,kota bogor,Pepaya,7901,Kuintal
+jawa barat,3271,kota bogor,Rambutan,9927,Kuintal
+jawa barat,3271,kota bogor,Salak,61,Kuintal
+jawa barat,3271,kota bogor,Sawo,298,Kuintal
+jawa barat,3271,kota bogor,Sukun,3174,Kuintal
+jawa barat,3272,kota sukabumi,Belimbing,14,Kuintal
+jawa barat,3272,kota sukabumi,Dukuh Langsat,0,Kuintal
+jawa barat,3272,kota sukabumi,Anggur,0,Kuintal
+jawa barat,3272,kota sukabumi,Jambu Air,38,Kuintal
+jawa barat,3272,kota sukabumi,Jambu Biji,28,Kuintal
+jawa barat,3272,kota sukabumi,jengkol,0,Kuintal
+jawa barat,3272,kota sukabumi,Melinjo,73,Kuintal
+jawa barat,3272,kota sukabumi,Nangka Campedak,2382,Kuintal
+jawa barat,3272,kota sukabumi,Petai,58,Kuintal
+jawa barat,3272,kota sukabumi,Pisang,27,Kuintal
+jawa barat,3272,kota sukabumi,Sirsak,3,Kuintal
+jawa barat,3272,kota sukabumi,Alpukat,339,Kuintal
+jawa barat,3272,kota sukabumi,Apel,0,Kuintal
+jawa barat,3272,kota sukabumi,Durian,510,Kuintal
+jawa barat,3272,kota sukabumi,Jeruk Besar,0,Kuintal
+jawa barat,3272,kota sukabumi,Jeruk Siam,158,Kuintal
+jawa barat,3272,kota sukabumi,Jeruk,158,Kuintal
+jawa barat,3272,kota sukabumi,Mangga,283,Kuintal
+jawa barat,3272,kota sukabumi,Manggis,58,Kuintal
+jawa barat,3272,kota sukabumi,Markisa Konyal,1,Kuintal
+jawa barat,3272,kota sukabumi, Nenas,0,Kuintal
+jawa barat,3272,kota sukabumi,Pepaya,1795,Kuintal
+jawa barat,3272,kota sukabumi,Rambutan,57,Kuintal
+jawa barat,3272,kota sukabumi,Salak,0,Kuintal
+jawa barat,3272,kota sukabumi,Sawo,5,Kuintal
+jawa barat,3272,kota sukabumi,Sukun,73,Kuintal
+jawa barat,3273,kota bandung,Belimbing,0,Kuintal
+jawa barat,3273,kota bandung,Dukuh Langsat,0,Kuintal
+jawa barat,3273,kota bandung,Anggur,0,Kuintal
+jawa barat,3273,kota bandung,Jambu Air,10,Kuintal
+jawa barat,3273,kota bandung,Jambu Biji,0,Kuintal
+jawa barat,3273,kota bandung,jengkol,0,Kuintal
+jawa barat,3273,kota bandung,Melinjo,0,Kuintal
+jawa barat,3273,kota bandung,Nangka Campedak,2,Kuintal
+jawa barat,3273,kota bandung,Petai,0,Kuintal
+jawa barat,3273,kota bandung,Pisang,460,Kuintal
+jawa barat,3273,kota bandung,Sirsak,0,Kuintal
+jawa barat,3273,kota bandung,Alpukat,10,Kuintal
+jawa barat,3273,kota bandung,Apel,0,Kuintal
+jawa barat,3273,kota bandung,Durian,0,Kuintal
+jawa barat,3273,kota bandung,Jeruk Besar,0,Kuintal
+jawa barat,3273,kota bandung,Jeruk Siam,0,Kuintal
+jawa barat,3273,kota bandung,Jeruk,0,Kuintal
+jawa barat,3273,kota bandung,Mangga,126,Kuintal
+jawa barat,3273,kota bandung,Manggis,0,Kuintal
+jawa barat,3273,kota bandung,Markisa Konyal,0,Kuintal
+jawa barat,3273,kota bandung, Nenas,0,Kuintal
+jawa barat,3273,kota bandung,Pepaya,0,Kuintal
+jawa barat,3273,kota bandung,Rambutan,2,Kuintal
+jawa barat,3273,kota bandung,Salak,0,Kuintal
+jawa barat,3273,kota bandung,Sawo,0,Kuintal
+jawa barat,3273,kota bandung,Sukun,155,Kuintal
+jawa barat,3274,kota cirebon,Belimbing,57,Kuintal
+jawa barat,3274,kota cirebon,Dukuh Langsat,0,Kuintal
+jawa barat,3274,kota cirebon,Anggur,4,Kuintal
+jawa barat,3274,kota cirebon,Jambu Air,45,Kuintal
+jawa barat,3274,kota cirebon,Jambu Biji,163,Kuintal
+jawa barat,3274,kota cirebon,jengkol,4,Kuintal
+jawa barat,3274,kota cirebon,Melinjo,46,Kuintal
+jawa barat,3274,kota cirebon,Nangka Campedak,90,Kuintal
+jawa barat,3274,kota cirebon,Petai,14,Kuintal
+jawa barat,3274,kota cirebon,Pisang,645,Kuintal
+jawa barat,3274,kota cirebon,Sirsak,10,Kuintal
+jawa barat,3274,kota cirebon,Alpukat,0,Kuintal
+jawa barat,3274,kota cirebon,Apel,0,Kuintal
+jawa barat,3274,kota cirebon,Durian,0,Kuintal
+jawa barat,3274,kota cirebon,Jeruk Besar,0,Kuintal
+jawa barat,3274,kota cirebon,Jeruk Siam,27,Kuintal
+jawa barat,3274,kota cirebon,Jeruk,27,Kuintal
+jawa barat,3274,kota cirebon,Mangga,6962,Kuintal
+jawa barat,3274,kota cirebon,Manggis,0,Kuintal
+jawa barat,3274,kota cirebon,Markisa Konyal,0,Kuintal
+jawa barat,3274,kota cirebon, Nenas,0,Kuintal
+jawa barat,3274,kota cirebon,Pepaya,559,Kuintal
+jawa barat,3274,kota cirebon,Rambutan,16,Kuintal
+jawa barat,3274,kota cirebon,Salak,0,Kuintal
+jawa barat,3274,kota cirebon,Sawo,16,Kuintal
+jawa barat,3274,kota cirebon,Sukun,32,Kuintal
+jawa barat,3275,kota bekasi,Belimbing,4351,Kuintal
+jawa barat,3275,kota bekasi,Dukuh Langsat,931,Kuintal
+jawa barat,3275,kota bekasi,Anggur,0,Kuintal
+jawa barat,3275,kota bekasi,Jambu Air,6188,Kuintal
+jawa barat,3275,kota bekasi,Jambu Biji,8754,Kuintal
+jawa barat,3275,kota bekasi,jengkol,34,Kuintal
+jawa barat,3275,kota bekasi,Melinjo,4964,Kuintal
+jawa barat,3275,kota bekasi,Nangka Campedak,5556,Kuintal
+jawa barat,3275,kota bekasi,Petai,895,Kuintal
+jawa barat,3275,kota bekasi,Pisang,12066,Kuintal
+jawa barat,3275,kota bekasi,Sirsak,535,Kuintal
+jawa barat,3275,kota bekasi,Alpukat,626,Kuintal
+jawa barat,3275,kota bekasi,Apel,0,Kuintal
+jawa barat,3275,kota bekasi,Durian,3028,Kuintal
+jawa barat,3275,kota bekasi,Jeruk Besar,150,Kuintal
+jawa barat,3275,kota bekasi,Jeruk Siam,210,Kuintal
+jawa barat,3275,kota bekasi,Jeruk,360,Kuintal
+jawa barat,3275,kota bekasi,Mangga,8550,Kuintal
+jawa barat,3275,kota bekasi,Manggis,0,Kuintal
+jawa barat,3275,kota bekasi,Markisa Konyal,0,Kuintal
+jawa barat,3275,kota bekasi, Nenas,0,Kuintal
+jawa barat,3275,kota bekasi,Pepaya,13387,Kuintal
+jawa barat,3275,kota bekasi,Rambutan,7129,Kuintal
+jawa barat,3275,kota bekasi,Salak,0,Kuintal
+jawa barat,3275,kota bekasi,Sawo,1324,Kuintal
+jawa barat,3275,kota bekasi,Sukun,878,Kuintal
+jawa barat,3276,kota depok,Belimbing,25176,Kuintal
+jawa barat,3276,kota depok,Dukuh Langsat,315,Kuintal
+jawa barat,3276,kota depok,Anggur,0,Kuintal
+jawa barat,3276,kota depok,Jambu Air,57,Kuintal
+jawa barat,3276,kota depok,Jambu Biji,7203,Kuintal
+jawa barat,3276,kota depok,jengkol,0,Kuintal
+jawa barat,3276,kota depok,Melinjo,785,Kuintal
+jawa barat,3276,kota depok,Nangka Campedak,1792,Kuintal
+jawa barat,3276,kota depok,Petai,1,Kuintal
+jawa barat,3276,kota depok,Pisang,3612,Kuintal
+jawa barat,3276,kota depok,Sirsak,65,Kuintal
+jawa barat,3276,kota depok,Alpukat,377,Kuintal
+jawa barat,3276,kota depok,Apel,0,Kuintal
+jawa barat,3276,kota depok,Durian,1455,Kuintal
+jawa barat,3276,kota depok,Jeruk Besar,0,Kuintal
+jawa barat,3276,kota depok,Jeruk Siam,0,Kuintal
+jawa barat,3276,kota depok,Jeruk,0,Kuintal
+jawa barat,3276,kota depok,Mangga,793,Kuintal
+jawa barat,3276,kota depok,Manggis,1,Kuintal
+jawa barat,3276,kota depok,Markisa Konyal,0,Kuintal
+jawa barat,3276,kota depok, Nenas,0,Kuintal
+jawa barat,3276,kota depok,Pepaya,2028,Kuintal
+jawa barat,3276,kota depok,Rambutan,2285,Kuintal
+jawa barat,3276,kota depok,Salak,0,Kuintal
+jawa barat,3276,kota depok,Sawo,204,Kuintal
+jawa barat,3276,kota depok,Sukun,9,Kuintal
+jawa barat,3277,kota cimahi,Belimbing,66,Kuintal
+jawa barat,3277,kota cimahi,Dukuh Langsat,0,Kuintal
+jawa barat,3277,kota cimahi,Anggur,0,Kuintal
+jawa barat,3277,kota cimahi,Jambu Air,239,Kuintal
+jawa barat,3277,kota cimahi,Jambu Biji,445,Kuintal
+jawa barat,3277,kota cimahi,jengkol,0,Kuintal
+jawa barat,3277,kota cimahi,Melinjo,10,Kuintal
+jawa barat,3277,kota cimahi,Nangka Campedak,0,Kuintal
+jawa barat,3277,kota cimahi,Petai,1220,Kuintal
+jawa barat,3277,kota cimahi,Pisang,983,Kuintal
+jawa barat,3277,kota cimahi,Sirsak,6,Kuintal
+jawa barat,3277,kota cimahi,Alpukat,146,Kuintal
+jawa barat,3277,kota cimahi,Apel,0,Kuintal
+jawa barat,3277,kota cimahi,Durian,279,Kuintal
+jawa barat,3277,kota cimahi,Jeruk Besar,4,Kuintal
+jawa barat,3277,kota cimahi,Jeruk Siam,3,Kuintal
+jawa barat,3277,kota cimahi,Jeruk,7,Kuintal
+jawa barat,3277,kota cimahi,Mangga,74,Kuintal
+jawa barat,3277,kota cimahi,Manggis,7,Kuintal
+jawa barat,3277,kota cimahi,Markisa Konyal,0,Kuintal
+jawa barat,3277,kota cimahi, Nenas,0,Kuintal
+jawa barat,3277,kota cimahi,Pepaya,253,Kuintal
+jawa barat,3277,kota cimahi,Rambutan,150,Kuintal
+jawa barat,3277,kota cimahi,Salak,0,Kuintal
+jawa barat,3277,kota cimahi,Sawo,8,Kuintal
+jawa barat,3277,kota cimahi,Sukun,637,Kuintal
+jawa barat,3278,kota tasikmalaya,Belimbing,83,Kuintal
+jawa barat,3278,kota tasikmalaya,Dukuh Langsat,115,Kuintal
+jawa barat,3278,kota tasikmalaya,Anggur,0,Kuintal
+jawa barat,3278,kota tasikmalaya,Jambu Air,53,Kuintal
+jawa barat,3278,kota tasikmalaya,Jambu Biji,236,Kuintal
+jawa barat,3278,kota tasikmalaya,jengkol,11,Kuintal
+jawa barat,3278,kota tasikmalaya,Melinjo,16,Kuintal
+jawa barat,3278,kota tasikmalaya,Nangka Campedak,609,Kuintal
+jawa barat,3278,kota tasikmalaya,Petai,287,Kuintal
+jawa barat,3278,kota tasikmalaya,Pisang,5608,Kuintal
+jawa barat,3278,kota tasikmalaya,Sirsak,97,Kuintal
+jawa barat,3278,kota tasikmalaya,Alpukat,272,Kuintal
+jawa barat,3278,kota tasikmalaya,Apel,0,Kuintal
+jawa barat,3278,kota tasikmalaya,Durian,285,Kuintal
+jawa barat,3278,kota tasikmalaya,Jeruk Besar,0,Kuintal
+jawa barat,3278,kota tasikmalaya,Jeruk Siam,19,Kuintal
+jawa barat,3278,kota tasikmalaya,Jeruk,19,Kuintal
+jawa barat,3278,kota tasikmalaya,Mangga,1000,Kuintal
+jawa barat,3278,kota tasikmalaya,Manggis,378,Kuintal
+jawa barat,3278,kota tasikmalaya,Markisa Konyal,0,Kuintal
+jawa barat,3278,kota tasikmalaya, Nenas,7,Kuintal
+jawa barat,3278,kota tasikmalaya,Pepaya,1242,Kuintal
+jawa barat,3278,kota tasikmalaya,Rambutan,2590,Kuintal
+jawa barat,3278,kota tasikmalaya,Salak,10174,Kuintal
+jawa barat,3278,kota tasikmalaya,Sawo,56,Kuintal
+jawa barat,3278,kota tasikmalaya,Sukun,87,Kuintal
+jawa barat,3279,kota banjar,Belimbing,110,Kuintal
+jawa barat,3279,kota banjar,Dukuh Langsat,666,Kuintal
+jawa barat,3279,kota banjar,Anggur,0,Kuintal
+jawa barat,3279,kota banjar,Jambu Air,806,Kuintal
+jawa barat,3279,kota banjar,Jambu Biji,918,Kuintal
+jawa barat,3279,kota banjar,jengkol,69,Kuintal
+jawa barat,3279,kota banjar,Melinjo,141,Kuintal
+jawa barat,3279,kota banjar,Nangka Campedak,2323,Kuintal
+jawa barat,3279,kota banjar,Petai,110,Kuintal
+jawa barat,3279,kota banjar,Pisang,146700,Kuintal
+jawa barat,3279,kota banjar,Sirsak,185,Kuintal
+jawa barat,3279,kota banjar,Alpukat,144,Kuintal
+jawa barat,3279,kota banjar,Apel,0,Kuintal
+jawa barat,3279,kota banjar,Durian,2163,Kuintal
+jawa barat,3279,kota banjar,Jeruk Besar,327,Kuintal
+jawa barat,3279,kota banjar,Jeruk Siam,291,Kuintal
+jawa barat,3279,kota banjar,Jeruk,618,Kuintal
+jawa barat,3279,kota banjar,Mangga,651,Kuintal
+jawa barat,3279,kota banjar,Manggis,60,Kuintal
+jawa barat,3279,kota banjar,Markisa Konyal,0,Kuintal
+jawa barat,3279,kota banjar, Nenas,5,Kuintal
+jawa barat,3279,kota banjar,Pepaya,109949,Kuintal
+jawa barat,3279,kota banjar,Rambutan,34396,Kuintal
+jawa barat,3279,kota banjar,Salak,65,Kuintal
+jawa barat,3279,kota banjar,Sawo,278,Kuintal
+jawa barat,3279,kota banjar,Sukun,423,Kuintal

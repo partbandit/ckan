@@ -1,0 +1,625 @@
+provinsi,kode_kota_kabupaten,nama_kota_kabupaten,jenis_komoditi,jumlah_produksi,satuan
+jawa barat,3201,kab. bogor,Jagung,2415,ton
+jawa barat,3201,kab. bogor,Bawang Putih,0,ton
+jawa barat,3201,kab. bogor,Melon,0,ton
+jawa barat,3201,kab. bogor,Lobak,0,ton
+jawa barat,3201,kab. bogor,Kubis,527,ton
+jawa barat,3201,kab. bogor,Wortel,2849,ton
+jawa barat,3201,kab. bogor,Bawang Merah,10,ton
+jawa barat,3201,kab. bogor,Blewah,0,ton
+jawa barat,3201,kab. bogor,Cabe Besar,2232,ton
+jawa barat,3201,kab. bogor,Labu Siam,826,ton
+jawa barat,3201,kab. bogor,Petsai Sawi,3396,ton
+jawa barat,3201,kab. bogor,Tomat,4131,ton
+jawa barat,3201,kab. bogor,Bayam,11429,ton
+jawa barat,3201,kab. bogor,Buncis,5756,ton
+jawa barat,3201,kab. bogor,Bawang Daun,3245,ton
+jawa barat,3201,kab. bogor,Cabe Rawir,963,ton
+jawa barat,3201,kab. bogor,Kacang Merah,308,ton
+jawa barat,3201,kab. bogor,Kacang Panjang,10548,ton
+jawa barat,3201,kab. bogor,Kangkung,17087,ton
+jawa barat,3201,kab. bogor,Kembang Kol,174,ton
+jawa barat,3201,kab. bogor,Ketimun,9174,ton
+jawa barat,3201,kab. bogor,Paprika,0,ton
+jawa barat,3201,kab. bogor,Stroberi,0,ton
+jawa barat,3201,kab. bogor,Terung,7947,ton
+jawa barat,3202,kab. sukabumi,Jagung,45966,ton
+jawa barat,3202,kab. sukabumi,Bawang Putih,0,ton
+jawa barat,3202,kab. sukabumi,Melon,20,ton
+jawa barat,3202,kab. sukabumi,Lobak,12,ton
+jawa barat,3202,kab. sukabumi,Kubis,5277,ton
+jawa barat,3202,kab. sukabumi,Wortel,1367,ton
+jawa barat,3202,kab. sukabumi,Bawang Merah,285,ton
+jawa barat,3202,kab. sukabumi,Blewah,0,ton
+jawa barat,3202,kab. sukabumi,Cabe Besar,10011,ton
+jawa barat,3202,kab. sukabumi,Labu Siam,7490,ton
+jawa barat,3202,kab. sukabumi,Petsai Sawi,17950,ton
+jawa barat,3202,kab. sukabumi,Tomat,19677,ton
+jawa barat,3202,kab. sukabumi,Bayam,67,ton
+jawa barat,3202,kab. sukabumi,Buncis,11664,ton
+jawa barat,3202,kab. sukabumi,Bawang Daun,4159,ton
+jawa barat,3202,kab. sukabumi,Cabe Rawir,5730,ton
+jawa barat,3202,kab. sukabumi,Kacang Merah,1463,ton
+jawa barat,3202,kab. sukabumi,Kacang Panjang,15921,ton
+jawa barat,3202,kab. sukabumi,Kangkung,295,ton
+jawa barat,3202,kab. sukabumi,Kembang Kol,217,ton
+jawa barat,3202,kab. sukabumi,Ketimun,21180,ton
+jawa barat,3202,kab. sukabumi,Paprika,0,ton
+jawa barat,3202,kab. sukabumi,Stroberi,0,ton
+jawa barat,3202,kab. sukabumi,Terung,12063,ton
+jawa barat,3203,kab. cianjur,Jagung,34454,ton
+jawa barat,3203,kab. cianjur,Bawang Putih,0,ton
+jawa barat,3203,kab. cianjur,Melon,0,ton
+jawa barat,3203,kab. cianjur,Lobak,4249,ton
+jawa barat,3203,kab. cianjur,Kubis,23185,ton
+jawa barat,3203,kab. cianjur,Wortel,37677,ton
+jawa barat,3203,kab. cianjur,Bawang Merah,183,ton
+jawa barat,3203,kab. cianjur,Blewah,0,ton
+jawa barat,3203,kab. cianjur,Cabe Besar,59280,ton
+jawa barat,3203,kab. cianjur,Labu Siam,3282,ton
+jawa barat,3203,kab. cianjur,Petsai Sawi,49826,ton
+jawa barat,3203,kab. cianjur,Tomat,93383,ton
+jawa barat,3203,kab. cianjur,Bayam,204,ton
+jawa barat,3203,kab. cianjur,Buncis,24912,ton
+jawa barat,3203,kab. cianjur,Bawang Daun,35188,ton
+jawa barat,3203,kab. cianjur,Cabe Rawir,37918,ton
+jawa barat,3203,kab. cianjur,Kacang Merah,4662,ton
+jawa barat,3203,kab. cianjur,Kacang Panjang,14354,ton
+jawa barat,3203,kab. cianjur,Kangkung,1205,ton
+jawa barat,3203,kab. cianjur,Kembang Kol,5872,ton
+jawa barat,3203,kab. cianjur,Ketimun,14267,ton
+jawa barat,3203,kab. cianjur,Paprika,56,ton
+jawa barat,3203,kab. cianjur,Stroberi,0,ton
+jawa barat,3203,kab. cianjur,Terung,14819,ton
+jawa barat,3204,kab. bandung,Jagung,90403,ton
+jawa barat,3204,kab. bandung,Bawang Putih,1775,ton
+jawa barat,3204,kab. bandung,Melon,0,ton
+jawa barat,3204,kab. bandung,Lobak,10964,ton
+jawa barat,3204,kab. bandung,Kubis,96700,ton
+jawa barat,3204,kab. bandung,Wortel,42496,ton
+jawa barat,3204,kab. bandung,Bawang Merah,31682,ton
+jawa barat,3204,kab. bandung,Blewah,24,ton
+jawa barat,3204,kab. bandung,Cabe Besar,17524,ton
+jawa barat,3204,kab. bandung,Labu Siam,59991,ton
+jawa barat,3204,kab. bandung,Petsai Sawi,70785,ton
+jawa barat,3204,kab. bandung,Tomat,64103,ton
+jawa barat,3204,kab. bandung,Bayam,1751,ton
+jawa barat,3204,kab. bandung,Buncis,17988,ton
+jawa barat,3204,kab. bandung,Bawang Daun,59050,ton
+jawa barat,3204,kab. bandung,Cabe Rawir,8184,ton
+jawa barat,3204,kab. bandung,Kacang Merah,16179,ton
+jawa barat,3204,kab. bandung,Kacang Panjang,3487,ton
+jawa barat,3204,kab. bandung,Kangkung,8676,ton
+jawa barat,3204,kab. bandung,Kembang Kol,9773,ton
+jawa barat,3204,kab. bandung,Ketimun,16187,ton
+jawa barat,3204,kab. bandung,Paprika,167,ton
+jawa barat,3204,kab. bandung,Stroberi,84348,ton
+jawa barat,3204,kab. bandung,Terung,4366,ton
+jawa barat,3205,kab. garut,Jagung,602368,ton
+jawa barat,3205,kab. garut,Bawang Putih,0,ton
+jawa barat,3205,kab. garut,Melon,0,ton
+jawa barat,3205,kab. garut,Lobak,0,ton
+jawa barat,3205,kab. garut,Kubis,155701,ton
+jawa barat,3205,kab. garut,Wortel,37924,ton
+jawa barat,3205,kab. garut,Bawang Merah,19728,ton
+jawa barat,3205,kab. garut,Blewah,0,ton
+jawa barat,3205,kab. garut,Cabe Besar,93142,ton
+jawa barat,3205,kab. garut,Labu Siam,13324,ton
+jawa barat,3205,kab. garut,Petsai Sawi,55861,ton
+jawa barat,3205,kab. garut,Tomat,125302,ton
+jawa barat,3205,kab. garut,Bayam,1781,ton
+jawa barat,3205,kab. garut,Buncis,21631,ton
+jawa barat,3205,kab. garut,Bawang Daun,45900,ton
+jawa barat,3205,kab. garut,Cabe Rawir,38427,ton
+jawa barat,3205,kab. garut,Kacang Merah,41824,ton
+jawa barat,3205,kab. garut,Kacang Panjang,17801,ton
+jawa barat,3205,kab. garut,Kangkung,6403,ton
+jawa barat,3205,kab. garut,Kembang Kol,2258,ton
+jawa barat,3205,kab. garut,Ketimun,19506,ton
+jawa barat,3205,kab. garut,Paprika,108,ton
+jawa barat,3205,kab. garut,Stroberi,1483,ton
+jawa barat,3205,kab. garut,Terung,22389,ton
+jawa barat,3206,kab. tasikmalaya,Jagung,47364,ton
+jawa barat,3206,kab. tasikmalaya,Bawang Putih,0,ton
+jawa barat,3206,kab. tasikmalaya,Melon,0,ton
+jawa barat,3206,kab. tasikmalaya,Lobak,0,ton
+jawa barat,3206,kab. tasikmalaya,Kubis,1638,ton
+jawa barat,3206,kab. tasikmalaya,Wortel,88,ton
+jawa barat,3206,kab. tasikmalaya,Bawang Merah,90,ton
+jawa barat,3206,kab. tasikmalaya,Blewah,0,ton
+jawa barat,3206,kab. tasikmalaya,Cabe Besar,23476,ton
+jawa barat,3206,kab. tasikmalaya,Labu Siam,895,ton
+jawa barat,3206,kab. tasikmalaya,Petsai Sawi,2075,ton
+jawa barat,3206,kab. tasikmalaya,Tomat,4518,ton
+jawa barat,3206,kab. tasikmalaya,Bayam,655,ton
+jawa barat,3206,kab. tasikmalaya,Buncis,4251,ton
+jawa barat,3206,kab. tasikmalaya,Bawang Daun,2598,ton
+jawa barat,3206,kab. tasikmalaya,Cabe Rawir,2898,ton
+jawa barat,3206,kab. tasikmalaya,Kacang Merah,782,ton
+jawa barat,3206,kab. tasikmalaya,Kacang Panjang,6488,ton
+jawa barat,3206,kab. tasikmalaya,Kangkung,1361,ton
+jawa barat,3206,kab. tasikmalaya,Kembang Kol,246,ton
+jawa barat,3206,kab. tasikmalaya,Ketimun,8014,ton
+jawa barat,3206,kab. tasikmalaya,Paprika,0,ton
+jawa barat,3206,kab. tasikmalaya,Stroberi,812,ton
+jawa barat,3206,kab. tasikmalaya,Terung,2439,ton
+jawa barat,3207,kab. ciamis,Jagung,31460,ton
+jawa barat,3207,kab. ciamis,Bawang Putih,0,ton
+jawa barat,3207,kab. ciamis,Melon,0,ton
+jawa barat,3207,kab. ciamis,Lobak,54,ton
+jawa barat,3207,kab. ciamis,Kubis,785,ton
+jawa barat,3207,kab. ciamis,Wortel,159,ton
+jawa barat,3207,kab. ciamis,Bawang Merah,0,ton
+jawa barat,3207,kab. ciamis,Blewah,0,ton
+jawa barat,3207,kab. ciamis,Cabe Besar,5937,ton
+jawa barat,3207,kab. ciamis,Labu Siam,226,ton
+jawa barat,3207,kab. ciamis,Petsai Sawi,1113,ton
+jawa barat,3207,kab. ciamis,Tomat,2437,ton
+jawa barat,3207,kab. ciamis,Bayam,586,ton
+jawa barat,3207,kab. ciamis,Buncis,1601,ton
+jawa barat,3207,kab. ciamis,Bawang Daun,2784,ton
+jawa barat,3207,kab. ciamis,Cabe Rawir,1350,ton
+jawa barat,3207,kab. ciamis,Kacang Merah,261,ton
+jawa barat,3207,kab. ciamis,Kacang Panjang,1902,ton
+jawa barat,3207,kab. ciamis,Kangkung,1897,ton
+jawa barat,3207,kab. ciamis,Kembang Kol,310,ton
+jawa barat,3207,kab. ciamis,Ketimun,2595,ton
+jawa barat,3207,kab. ciamis,Paprika,0,ton
+jawa barat,3207,kab. ciamis,Stroberi,0,ton
+jawa barat,3207,kab. ciamis,Terung,1429,ton
+jawa barat,3208,kab. kuningan,Jagung,18026,ton
+jawa barat,3208,kab. kuningan,Bawang Putih,0,ton
+jawa barat,3208,kab. kuningan,Melon,0,ton
+jawa barat,3208,kab. kuningan,Lobak,70,ton
+jawa barat,3208,kab. kuningan,Kubis,3045,ton
+jawa barat,3208,kab. kuningan,Wortel,1159,ton
+jawa barat,3208,kab. kuningan,Bawang Merah,2218,ton
+jawa barat,3208,kab. kuningan,Blewah,0,ton
+jawa barat,3208,kab. kuningan,Cabe Besar,402,ton
+jawa barat,3208,kab. kuningan,Labu Siam,130,ton
+jawa barat,3208,kab. kuningan,Petsai Sawi,6589,ton
+jawa barat,3208,kab. kuningan,Tomat,3032,ton
+jawa barat,3208,kab. kuningan,Bayam,0,ton
+jawa barat,3208,kab. kuningan,Buncis,492,ton
+jawa barat,3208,kab. kuningan,Bawang Daun,23499,ton
+jawa barat,3208,kab. kuningan,Cabe Rawir,3383,ton
+jawa barat,3208,kab. kuningan,Kacang Merah,8,ton
+jawa barat,3208,kab. kuningan,Kacang Panjang,141,ton
+jawa barat,3208,kab. kuningan,Kangkung,60,ton
+jawa barat,3208,kab. kuningan,Kembang Kol,60,ton
+jawa barat,3208,kab. kuningan,Ketimun,1036,ton
+jawa barat,3208,kab. kuningan,Paprika,0,ton
+jawa barat,3208,kab. kuningan,Stroberi,0,ton
+jawa barat,3208,kab. kuningan,Terung,92,ton
+jawa barat,3209,kab. cirebon,Jagung,1298,ton
+jawa barat,3209,kab. cirebon,Bawang Putih,0,ton
+jawa barat,3209,kab. cirebon,Melon,30,ton
+jawa barat,3209,kab. cirebon,Lobak,0,ton
+jawa barat,3209,kab. cirebon,Kubis,0,ton
+jawa barat,3209,kab. cirebon,Wortel,0,ton
+jawa barat,3209,kab. cirebon,Bawang Merah,36449,ton
+jawa barat,3209,kab. cirebon,Blewah,0,ton
+jawa barat,3209,kab. cirebon,Cabe Besar,3834,ton
+jawa barat,3209,kab. cirebon,Labu Siam,0,ton
+jawa barat,3209,kab. cirebon,Petsai Sawi,0,ton
+jawa barat,3209,kab. cirebon,Tomat,6,ton
+jawa barat,3209,kab. cirebon,Bayam,27,ton
+jawa barat,3209,kab. cirebon,Buncis,22,ton
+jawa barat,3209,kab. cirebon,Bawang Daun,0,ton
+jawa barat,3209,kab. cirebon,Cabe Rawir,0,ton
+jawa barat,3209,kab. cirebon,Kacang Merah,0,ton
+jawa barat,3209,kab. cirebon,Kacang Panjang,549,ton
+jawa barat,3209,kab. cirebon,Kangkung,329,ton
+jawa barat,3209,kab. cirebon,Kembang Kol,0,ton
+jawa barat,3209,kab. cirebon,Ketimun,1060,ton
+jawa barat,3209,kab. cirebon,Paprika,0,ton
+jawa barat,3209,kab. cirebon,Stroberi,0,ton
+jawa barat,3209,kab. cirebon,Terung,1118,ton
+jawa barat,3210,kab. majalengka,Jagung,122734,ton
+jawa barat,3210,kab. majalengka,Bawang Putih,0,ton
+jawa barat,3210,kab. majalengka,Melon,0,ton
+jawa barat,3210,kab. majalengka,Lobak,0,ton
+jawa barat,3210,kab. majalengka,Kubis,18341,ton
+jawa barat,3210,kab. majalengka,Wortel,219,ton
+jawa barat,3210,kab. majalengka,Bawang Merah,23683,ton
+jawa barat,3210,kab. majalengka,Blewah,0,ton
+jawa barat,3210,kab. majalengka,Cabe Besar,11144,ton
+jawa barat,3210,kab. majalengka,Labu Siam,255,ton
+jawa barat,3210,kab. majalengka,Petsai Sawi,5094,ton
+jawa barat,3210,kab. majalengka,Tomat,5409,ton
+jawa barat,3210,kab. majalengka,Bayam,0,ton
+jawa barat,3210,kab. majalengka,Buncis,928,ton
+jawa barat,3210,kab. majalengka,Bawang Daun,7911,ton
+jawa barat,3210,kab. majalengka,Cabe Rawir,5264,ton
+jawa barat,3210,kab. majalengka,Kacang Merah,850,ton
+jawa barat,3210,kab. majalengka,Kacang Panjang,1164,ton
+jawa barat,3210,kab. majalengka,Kangkung,53,ton
+jawa barat,3210,kab. majalengka,Kembang Kol,46,ton
+jawa barat,3210,kab. majalengka,Ketimun,6132,ton
+jawa barat,3210,kab. majalengka,Paprika,0,ton
+jawa barat,3210,kab. majalengka,Stroberi,0,ton
+jawa barat,3210,kab. majalengka,Terung,848,ton
+jawa barat,3211,kab. sumedang,Jagung,67922,ton
+jawa barat,3211,kab. sumedang,Bawang Putih,0,ton
+jawa barat,3211,kab. sumedang,Melon,0,ton
+jawa barat,3211,kab. sumedang,Lobak,0,ton
+jawa barat,3211,kab. sumedang,Kubis,7461,ton
+jawa barat,3211,kab. sumedang,Wortel,69,ton
+jawa barat,3211,kab. sumedang,Bawang Merah,204,ton
+jawa barat,3211,kab. sumedang,Blewah,0,ton
+jawa barat,3211,kab. sumedang,Cabe Besar,4157,ton
+jawa barat,3211,kab. sumedang,Labu Siam,794,ton
+jawa barat,3211,kab. sumedang,Petsai Sawi,1834,ton
+jawa barat,3211,kab. sumedang,Tomat,3282,ton
+jawa barat,3211,kab. sumedang,Bayam,18,ton
+jawa barat,3211,kab. sumedang,Buncis,645,ton
+jawa barat,3211,kab. sumedang,Bawang Daun,1641,ton
+jawa barat,3211,kab. sumedang,Cabe Rawir,3374,ton
+jawa barat,3211,kab. sumedang,Kacang Merah,9904,ton
+jawa barat,3211,kab. sumedang,Kacang Panjang,3119,ton
+jawa barat,3211,kab. sumedang,Kangkung,484,ton
+jawa barat,3211,kab. sumedang,Kembang Kol,122,ton
+jawa barat,3211,kab. sumedang,Ketimun,5844,ton
+jawa barat,3211,kab. sumedang,Paprika,0,ton
+jawa barat,3211,kab. sumedang,Stroberi,0,ton
+jawa barat,3211,kab. sumedang,Terung,1140,ton
+jawa barat,3212,kab. indramayu,Jagung,888,ton
+jawa barat,3212,kab. indramayu,Bawang Putih,0,ton
+jawa barat,3212,kab. indramayu,Melon,24,ton
+jawa barat,3212,kab. indramayu,Lobak,0,ton
+jawa barat,3212,kab. indramayu,Kubis,0,ton
+jawa barat,3212,kab. indramayu,Wortel,0,ton
+jawa barat,3212,kab. indramayu,Bawang Merah,950,ton
+jawa barat,3212,kab. indramayu,Blewah,4909,ton
+jawa barat,3212,kab. indramayu,Cabe Besar,1036,ton
+jawa barat,3212,kab. indramayu,Labu Siam,0,ton
+jawa barat,3212,kab. indramayu,Petsai Sawi,226,ton
+jawa barat,3212,kab. indramayu,Tomat,430,ton
+jawa barat,3212,kab. indramayu,Bayam,19,ton
+jawa barat,3212,kab. indramayu,Buncis,0,ton
+jawa barat,3212,kab. indramayu,Bawang Daun,0,ton
+jawa barat,3212,kab. indramayu,Cabe Rawir,899,ton
+jawa barat,3212,kab. indramayu,Kacang Merah,0,ton
+jawa barat,3212,kab. indramayu,Kacang Panjang,6648,ton
+jawa barat,3212,kab. indramayu,Kangkung,1249,ton
+jawa barat,3212,kab. indramayu,Kembang Kol,100,ton
+jawa barat,3212,kab. indramayu,Ketimun,4531,ton
+jawa barat,3212,kab. indramayu,Paprika,0,ton
+jawa barat,3212,kab. indramayu,Stroberi,0,ton
+jawa barat,3212,kab. indramayu,Terung,3555,ton
+jawa barat,3213,kab. subang,Jagung,816,ton
+jawa barat,3213,kab. subang,Bawang Putih,0,ton
+jawa barat,3213,kab. subang,Melon,0,ton
+jawa barat,3213,kab. subang,Lobak,0,ton
+jawa barat,3213,kab. subang,Kubis,315,ton
+jawa barat,3213,kab. subang,Wortel,102,ton
+jawa barat,3213,kab. subang,Bawang Merah,0,ton
+jawa barat,3213,kab. subang,Blewah,0,ton
+jawa barat,3213,kab. subang,Cabe Besar,4175,ton
+jawa barat,3213,kab. subang,Labu Siam,5436,ton
+jawa barat,3213,kab. subang,Petsai Sawi,825,ton
+jawa barat,3213,kab. subang,Tomat,6563,ton
+jawa barat,3213,kab. subang,Bayam,105,ton
+jawa barat,3213,kab. subang,Buncis,2216,ton
+jawa barat,3213,kab. subang,Bawang Daun,427,ton
+jawa barat,3213,kab. subang,Cabe Rawir,1729,ton
+jawa barat,3213,kab. subang,Kacang Merah,0,ton
+jawa barat,3213,kab. subang,Kacang Panjang,8361,ton
+jawa barat,3213,kab. subang,Kangkung,358,ton
+jawa barat,3213,kab. subang,Kembang Kol,513,ton
+jawa barat,3213,kab. subang,Ketimun,6492,ton
+jawa barat,3213,kab. subang,Paprika,0,ton
+jawa barat,3213,kab. subang,Stroberi,0,ton
+jawa barat,3213,kab. subang,Terung,2389,ton
+jawa barat,3214,kab. purwakarta,Jagung,7212,ton
+jawa barat,3214,kab. purwakarta,Bawang Putih,0,ton
+jawa barat,3214,kab. purwakarta,Melon,62,ton
+jawa barat,3214,kab. purwakarta,Lobak,5,ton
+jawa barat,3214,kab. purwakarta,Kubis,43,ton
+jawa barat,3214,kab. purwakarta,Wortel,93,ton
+jawa barat,3214,kab. purwakarta,Bawang Merah,0,ton
+jawa barat,3214,kab. purwakarta,Blewah,23,ton
+jawa barat,3214,kab. purwakarta,Cabe Besar,4615,ton
+jawa barat,3214,kab. purwakarta,Labu Siam,960,ton
+jawa barat,3214,kab. purwakarta,Petsai Sawi,1154,ton
+jawa barat,3214,kab. purwakarta,Tomat,4274,ton
+jawa barat,3214,kab. purwakarta,Bayam,1442,ton
+jawa barat,3214,kab. purwakarta,Buncis,2566,ton
+jawa barat,3214,kab. purwakarta,Bawang Daun,1763,ton
+jawa barat,3214,kab. purwakarta,Cabe Rawir,5756,ton
+jawa barat,3214,kab. purwakarta,Kacang Merah,30,ton
+jawa barat,3214,kab. purwakarta,Kacang Panjang,10602,ton
+jawa barat,3214,kab. purwakarta,Kangkung,2784,ton
+jawa barat,3214,kab. purwakarta,Kembang Kol,147,ton
+jawa barat,3214,kab. purwakarta,Ketimun,8746,ton
+jawa barat,3214,kab. purwakarta,Paprika,0,ton
+jawa barat,3214,kab. purwakarta,Stroberi,0,ton
+jawa barat,3214,kab. purwakarta,Terung,3750,ton
+jawa barat,3215,kab. karawang,Jagung,921,ton
+jawa barat,3215,kab. karawang,Bawang Putih,0,ton
+jawa barat,3215,kab. karawang,Melon,0,ton
+jawa barat,3215,kab. karawang,Lobak,0,ton
+jawa barat,3215,kab. karawang,Kubis,0,ton
+jawa barat,3215,kab. karawang,Wortel,0,ton
+jawa barat,3215,kab. karawang,Bawang Merah,0,ton
+jawa barat,3215,kab. karawang,Blewah,1,ton
+jawa barat,3215,kab. karawang,Cabe Besar,66,ton
+jawa barat,3215,kab. karawang,Labu Siam,0,ton
+jawa barat,3215,kab. karawang,Petsai Sawi,819,ton
+jawa barat,3215,kab. karawang,Tomat,0,ton
+jawa barat,3215,kab. karawang,Bayam,68,ton
+jawa barat,3215,kab. karawang,Buncis,0,ton
+jawa barat,3215,kab. karawang,Bawang Daun,0,ton
+jawa barat,3215,kab. karawang,Cabe Rawir,657,ton
+jawa barat,3215,kab. karawang,Kacang Merah,0,ton
+jawa barat,3215,kab. karawang,Kacang Panjang,9521,ton
+jawa barat,3215,kab. karawang,Kangkung,661,ton
+jawa barat,3215,kab. karawang,Kembang Kol,278,ton
+jawa barat,3215,kab. karawang,Ketimun,9703,ton
+jawa barat,3215,kab. karawang,Paprika,0,ton
+jawa barat,3215,kab. karawang,Stroberi,0,ton
+jawa barat,3215,kab. karawang,Terung,1935,ton
+jawa barat,3216,kab. bekasi,Jagung,7,ton
+jawa barat,3216,kab. bekasi,Bawang Putih,0,ton
+jawa barat,3216,kab. bekasi,Melon,0,ton
+jawa barat,3216,kab. bekasi,Lobak,4900,ton
+jawa barat,3216,kab. bekasi,Kubis,0,ton
+jawa barat,3216,kab. bekasi,Wortel,0,ton
+jawa barat,3216,kab. bekasi,Bawang Merah,21,ton
+jawa barat,3216,kab. bekasi,Blewah,0,ton
+jawa barat,3216,kab. bekasi,Cabe Besar,86,ton
+jawa barat,3216,kab. bekasi,Labu Siam,28,ton
+jawa barat,3216,kab. bekasi,Petsai Sawi,7174,ton
+jawa barat,3216,kab. bekasi,Tomat,0,ton
+jawa barat,3216,kab. bekasi,Bayam,5530,ton
+jawa barat,3216,kab. bekasi,Buncis,0,ton
+jawa barat,3216,kab. bekasi,Bawang Daun,0,ton
+jawa barat,3216,kab. bekasi,Cabe Rawir,4,ton
+jawa barat,3216,kab. bekasi,Kacang Merah,0,ton
+jawa barat,3216,kab. bekasi,Kacang Panjang,2536,ton
+jawa barat,3216,kab. bekasi,Kangkung,10783,ton
+jawa barat,3216,kab. bekasi,Kembang Kol,0,ton
+jawa barat,3216,kab. bekasi,Ketimun,7153,ton
+jawa barat,3216,kab. bekasi,Paprika,0,ton
+jawa barat,3216,kab. bekasi,Stroberi,0,ton
+jawa barat,3216,kab. bekasi,Terung,801,ton
+jawa barat,3217,kab. bandung barat,Jagung,26241,ton
+jawa barat,3217,kab. bandung barat,Bawang Putih,0,ton
+jawa barat,3217,kab. bandung barat,Melon,0,ton
+jawa barat,3217,kab. bandung barat,Lobak,556,ton
+jawa barat,3217,kab. bandung barat,Kubis,6720,ton
+jawa barat,3217,kab. bandung barat,Wortel,842,ton
+jawa barat,3217,kab. bandung barat,Bawang Merah,83,ton
+jawa barat,3217,kab. bandung barat,Blewah,0,ton
+jawa barat,3217,kab. bandung barat,Cabe Besar,8832,ton
+jawa barat,3217,kab. bandung barat,Labu Siam,38128,ton
+jawa barat,3217,kab. bandung barat,Petsai Sawi,2659,ton
+jawa barat,3217,kab. bandung barat,Tomat,15600,ton
+jawa barat,3217,kab. bandung barat,Bayam,658,ton
+jawa barat,3217,kab. bandung barat,Buncis,6773,ton
+jawa barat,3217,kab. bandung barat,Bawang Daun,2838,ton
+jawa barat,3217,kab. bandung barat,Cabe Rawir,6680,ton
+jawa barat,3217,kab. bandung barat,Kacang Merah,686,ton
+jawa barat,3217,kab. bandung barat,Kacang Panjang,4622,ton
+jawa barat,3217,kab. bandung barat,Kangkung,11161,ton
+jawa barat,3217,kab. bandung barat,Kembang Kol,2771,ton
+jawa barat,3217,kab. bandung barat,Ketimun,10564,ton
+jawa barat,3217,kab. bandung barat,Paprika,5056,ton
+jawa barat,3217,kab. bandung barat,Stroberi,206,ton
+jawa barat,3217,kab. bandung barat,Terung,4041,ton
+jawa barat,3271,kota bogor,Jagung,0,ton
+jawa barat,3271,kota bogor,Bawang Putih,0,ton
+jawa barat,3271,kota bogor,Melon,0,ton
+jawa barat,3271,kota bogor,Lobak,0,ton
+jawa barat,3271,kota bogor,Kubis,0,ton
+jawa barat,3271,kota bogor,Wortel,0,ton
+jawa barat,3271,kota bogor,Bawang Merah,0,ton
+jawa barat,3271,kota bogor,Blewah,0,ton
+jawa barat,3271,kota bogor,Cabe Besar,356,ton
+jawa barat,3271,kota bogor,Labu Siam,0,ton
+jawa barat,3271,kota bogor,Petsai Sawi,432,ton
+jawa barat,3271,kota bogor,Tomat,684,ton
+jawa barat,3271,kota bogor,Bayam,175,ton
+jawa barat,3271,kota bogor,Buncis,389,ton
+jawa barat,3271,kota bogor,Bawang Daun,45,ton
+jawa barat,3271,kota bogor,Cabe Rawir,391,ton
+jawa barat,3271,kota bogor,Kacang Merah,27,ton
+jawa barat,3271,kota bogor,Kacang Panjang,536,ton
+jawa barat,3271,kota bogor,Kangkung,605,ton
+jawa barat,3271,kota bogor,Kembang Kol,0,ton
+jawa barat,3271,kota bogor,Ketimun,832,ton
+jawa barat,3271,kota bogor,Paprika,0,ton
+jawa barat,3271,kota bogor,Stroberi,0,ton
+jawa barat,3271,kota bogor,Terung,807,ton
+jawa barat,3272,kota sukabumi,Jagung,171,ton
+jawa barat,3272,kota sukabumi,Bawang Putih,0,ton
+jawa barat,3272,kota sukabumi,Melon,0,ton
+jawa barat,3272,kota sukabumi,Lobak,0,ton
+jawa barat,3272,kota sukabumi,Kubis,0,ton
+jawa barat,3272,kota sukabumi,Wortel,0,ton
+jawa barat,3272,kota sukabumi,Bawang Merah,0,ton
+jawa barat,3272,kota sukabumi,Blewah,0,ton
+jawa barat,3272,kota sukabumi,Cabe Besar,68,ton
+jawa barat,3272,kota sukabumi,Labu Siam,0,ton
+jawa barat,3272,kota sukabumi,Petsai Sawi,1692,ton
+jawa barat,3272,kota sukabumi,Tomat,277,ton
+jawa barat,3272,kota sukabumi,Bayam,0,ton
+jawa barat,3272,kota sukabumi,Buncis,227,ton
+jawa barat,3272,kota sukabumi,Bawang Daun,0,ton
+jawa barat,3272,kota sukabumi,Cabe Rawir,0,ton
+jawa barat,3272,kota sukabumi,Kacang Merah,0,ton
+jawa barat,3272,kota sukabumi,Kacang Panjang,1059,ton
+jawa barat,3272,kota sukabumi,Kangkung,3619,ton
+jawa barat,3272,kota sukabumi,Kembang Kol,0,ton
+jawa barat,3272,kota sukabumi,Ketimun,1100,ton
+jawa barat,3272,kota sukabumi,Paprika,0,ton
+jawa barat,3272,kota sukabumi,Stroberi,0,ton
+jawa barat,3272,kota sukabumi,Terung,163,ton
+jawa barat,3273,kota bandung,Jagung,322,ton
+jawa barat,3273,kota bandung,Bawang Putih,0,ton
+jawa barat,3273,kota bandung,Melon,0,ton
+jawa barat,3273,kota bandung,Lobak,10,ton
+jawa barat,3273,kota bandung,Kubis,54,ton
+jawa barat,3273,kota bandung,Wortel,0,ton
+jawa barat,3273,kota bandung,Bawang Merah,0,ton
+jawa barat,3273,kota bandung,Blewah,0,ton
+jawa barat,3273,kota bandung,Cabe Besar,6,ton
+jawa barat,3273,kota bandung,Labu Siam,5,ton
+jawa barat,3273,kota bandung,Petsai Sawi,29,ton
+jawa barat,3273,kota bandung,Tomat,27,ton
+jawa barat,3273,kota bandung,Bayam,14,ton
+jawa barat,3273,kota bandung,Buncis,2,ton
+jawa barat,3273,kota bandung,Bawang Daun,10,ton
+jawa barat,3273,kota bandung,Cabe Rawir,8,ton
+jawa barat,3273,kota bandung,Kacang Merah,0,ton
+jawa barat,3273,kota bandung,Kacang Panjang,6,ton
+jawa barat,3273,kota bandung,Kangkung,160,ton
+jawa barat,3273,kota bandung,Kembang Kol,36,ton
+jawa barat,3273,kota bandung,Ketimun,5,ton
+jawa barat,3273,kota bandung,Paprika,0,ton
+jawa barat,3273,kota bandung,Stroberi,0,ton
+jawa barat,3273,kota bandung,Terung,0,ton
+jawa barat,3274,kota cirebon,Jagung,18,ton
+jawa barat,3274,kota cirebon,Bawang Putih,0,ton
+jawa barat,3274,kota cirebon,Melon,0,ton
+jawa barat,3274,kota cirebon,Lobak,0,ton
+jawa barat,3274,kota cirebon,Kubis,0,ton
+jawa barat,3274,kota cirebon,Wortel,0,ton
+jawa barat,3274,kota cirebon,Bawang Merah,0,ton
+jawa barat,3274,kota cirebon,Blewah,0,ton
+jawa barat,3274,kota cirebon,Cabe Besar,17,ton
+jawa barat,3274,kota cirebon,Labu Siam,0,ton
+jawa barat,3274,kota cirebon,Petsai Sawi,0,ton
+jawa barat,3274,kota cirebon,Tomat,0,ton
+jawa barat,3274,kota cirebon,Bayam,53,ton
+jawa barat,3274,kota cirebon,Buncis,0,ton
+jawa barat,3274,kota cirebon,Bawang Daun,0,ton
+jawa barat,3274,kota cirebon,Cabe Rawir,7,ton
+jawa barat,3274,kota cirebon,Kacang Merah,0,ton
+jawa barat,3274,kota cirebon,Kacang Panjang,22,ton
+jawa barat,3274,kota cirebon,Kangkung,59,ton
+jawa barat,3274,kota cirebon,Kembang Kol,0,ton
+jawa barat,3274,kota cirebon,Ketimun,23,ton
+jawa barat,3274,kota cirebon,Paprika,0,ton
+jawa barat,3274,kota cirebon,Stroberi,0,ton
+jawa barat,3274,kota cirebon,Terung,7,ton
+jawa barat,3275,kota bekasi,Jagung,162,ton
+jawa barat,3275,kota bekasi,Bawang Putih,0,ton
+jawa barat,3275,kota bekasi,Melon,0,ton
+jawa barat,3275,kota bekasi,Lobak,0,ton
+jawa barat,3275,kota bekasi,Kubis,0,ton
+jawa barat,3275,kota bekasi,Wortel,0,ton
+jawa barat,3275,kota bekasi,Bawang Merah,0,ton
+jawa barat,3275,kota bekasi,Blewah,1,ton
+jawa barat,3275,kota bekasi,Cabe Besar,3,ton
+jawa barat,3275,kota bekasi,Labu Siam,0,ton
+jawa barat,3275,kota bekasi,Petsai Sawi,2762,ton
+jawa barat,3275,kota bekasi,Tomat,1,ton
+jawa barat,3275,kota bekasi,Bayam,2414,ton
+jawa barat,3275,kota bekasi,Buncis,0,ton
+jawa barat,3275,kota bekasi,Bawang Daun,0,ton
+jawa barat,3275,kota bekasi,Cabe Rawir,14,ton
+jawa barat,3275,kota bekasi,Kacang Merah,0,ton
+jawa barat,3275,kota bekasi,Kacang Panjang,206,ton
+jawa barat,3275,kota bekasi,Kangkung,3425,ton
+jawa barat,3275,kota bekasi,Kembang Kol,0,ton
+jawa barat,3275,kota bekasi,Ketimun,15,ton
+jawa barat,3275,kota bekasi,Paprika,0,ton
+jawa barat,3275,kota bekasi,Stroberi,0,ton
+jawa barat,3275,kota bekasi,Terung,92,ton
+jawa barat,3276,kota depok,Jagung,180,ton
+jawa barat,3276,kota depok,Bawang Putih,0,ton
+jawa barat,3276,kota depok,Melon,0,ton
+jawa barat,3276,kota depok,Lobak,0,ton
+jawa barat,3276,kota depok,Kubis,0,ton
+jawa barat,3276,kota depok,Wortel,0,ton
+jawa barat,3276,kota depok,Bawang Merah,0,ton
+jawa barat,3276,kota depok,Blewah,0,ton
+jawa barat,3276,kota depok,Cabe Besar,0,ton
+jawa barat,3276,kota depok,Labu Siam,0,ton
+jawa barat,3276,kota depok,Petsai Sawi,0,ton
+jawa barat,3276,kota depok,Tomat,0,ton
+jawa barat,3276,kota depok,Bayam,746,ton
+jawa barat,3276,kota depok,Buncis,0,ton
+jawa barat,3276,kota depok,Bawang Daun,0,ton
+jawa barat,3276,kota depok,Cabe Rawir,0,ton
+jawa barat,3276,kota depok,Kacang Merah,0,ton
+jawa barat,3276,kota depok,Kacang Panjang,542,ton
+jawa barat,3276,kota depok,Kangkung,2368,ton
+jawa barat,3276,kota depok,Kembang Kol,0,ton
+jawa barat,3276,kota depok,Ketimun,659,ton
+jawa barat,3276,kota depok,Paprika,0,ton
+jawa barat,3276,kota depok,Stroberi,0,ton
+jawa barat,3276,kota depok,Terung,1340,ton
+jawa barat,3277,kota cimahi,Jagung,0,ton
+jawa barat,3277,kota cimahi,Bawang Putih,0,ton
+jawa barat,3277,kota cimahi,Melon,0,ton
+jawa barat,3277,kota cimahi,Lobak,0,ton
+jawa barat,3277,kota cimahi,Kubis,0,ton
+jawa barat,3277,kota cimahi,Wortel,0,ton
+jawa barat,3277,kota cimahi,Bawang Merah,0,ton
+jawa barat,3277,kota cimahi,Blewah,0,ton
+jawa barat,3277,kota cimahi,Cabe Besar,14,ton
+jawa barat,3277,kota cimahi,Labu Siam,67,ton
+jawa barat,3277,kota cimahi,Petsai Sawi,469,ton
+jawa barat,3277,kota cimahi,Tomat,22,ton
+jawa barat,3277,kota cimahi,Bayam,87,ton
+jawa barat,3277,kota cimahi,Buncis,14,ton
+jawa barat,3277,kota cimahi,Bawang Daun,256,ton
+jawa barat,3277,kota cimahi,Cabe Rawir,11,ton
+jawa barat,3277,kota cimahi,Kacang Merah,0,ton
+jawa barat,3277,kota cimahi,Kacang Panjang,16,ton
+jawa barat,3277,kota cimahi,Kangkung,172,ton
+jawa barat,3277,kota cimahi,Kembang Kol,0,ton
+jawa barat,3277,kota cimahi,Ketimun,4,ton
+jawa barat,3277,kota cimahi,Paprika,0,ton
+jawa barat,3277,kota cimahi,Stroberi,0,ton
+jawa barat,3277,kota cimahi,Terung,24,ton
+jawa barat,3278,kota tasikmalaya,Jagung,185,ton
+jawa barat,3278,kota tasikmalaya,Bawang Putih,0,ton
+jawa barat,3278,kota tasikmalaya,Melon,0,ton
+jawa barat,3278,kota tasikmalaya,Lobak,0,ton
+jawa barat,3278,kota tasikmalaya,Kubis,0,ton
+jawa barat,3278,kota tasikmalaya,Wortel,0,ton
+jawa barat,3278,kota tasikmalaya,Bawang Merah,0,ton
+jawa barat,3278,kota tasikmalaya,Blewah,0,ton
+jawa barat,3278,kota tasikmalaya,Cabe Besar,487,ton
+jawa barat,3278,kota tasikmalaya,Labu Siam,0,ton
+jawa barat,3278,kota tasikmalaya,Petsai Sawi,48,ton
+jawa barat,3278,kota tasikmalaya,Tomat,96,ton
+jawa barat,3278,kota tasikmalaya,Bayam,38,ton
+jawa barat,3278,kota tasikmalaya,Buncis,31,ton
+jawa barat,3278,kota tasikmalaya,Bawang Daun,0,ton
+jawa barat,3278,kota tasikmalaya,Cabe Rawir,51,ton
+jawa barat,3278,kota tasikmalaya,Kacang Merah,0,ton
+jawa barat,3278,kota tasikmalaya,Kacang Panjang,107,ton
+jawa barat,3278,kota tasikmalaya,Kangkung,76,ton
+jawa barat,3278,kota tasikmalaya,Kembang Kol,0,ton
+jawa barat,3278,kota tasikmalaya,Ketimun,359,ton
+jawa barat,3278,kota tasikmalaya,Paprika,0,ton
+jawa barat,3278,kota tasikmalaya,Stroberi,0,ton
+jawa barat,3278,kota tasikmalaya,Terung,50,ton
+jawa barat,3279,kota banjar,Jagung,465,ton
+jawa barat,3279,kota banjar,Bawang Putih,0,ton
+jawa barat,3279,kota banjar,Melon,0,ton
+jawa barat,3279,kota banjar,Lobak,0,ton
+jawa barat,3279,kota banjar,Kubis,0,ton
+jawa barat,3279,kota banjar,Wortel,0,ton
+jawa barat,3279,kota banjar,Bawang Merah,0,ton
+jawa barat,3279,kota banjar,Blewah,0,ton
+jawa barat,3279,kota banjar,Cabe Besar,14,ton
+jawa barat,3279,kota banjar,Labu Siam,11,ton
+jawa barat,3279,kota banjar,Petsai Sawi,218,ton
+jawa barat,3279,kota banjar,Tomat,86,ton
+jawa barat,3279,kota banjar,Bayam,66,ton
+jawa barat,3279,kota banjar,Buncis,0,ton
+jawa barat,3279,kota banjar,Bawang Daun,31,ton
+jawa barat,3279,kota banjar,Cabe Rawir,58,ton
+jawa barat,3279,kota banjar,Kacang Merah,0,ton
+jawa barat,3279,kota banjar,Kacang Panjang,135,ton
+jawa barat,3279,kota banjar,Kangkung,89,ton
+jawa barat,3279,kota banjar,Kembang Kol,0,ton
+jawa barat,3279,kota banjar,Ketimun,169,ton
+jawa barat,3279,kota banjar,Paprika,0,ton
+jawa barat,3279,kota banjar,Stroberi,0,ton
+jawa barat,3279,kota banjar,Terung,78,ton

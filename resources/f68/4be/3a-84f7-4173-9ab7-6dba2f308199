@@ -1,0 +1,21 @@
+channel ,kategori_aduan ,jumlah ,satuan
+Whats App,Aduan Masuk,232,aduan
+Whats App,Tidak Memenuhi Syarat,0,aduan
+Whats App,Aduan Terklarifikasi,147,aduan
+Whats App,Belum Terklarifikasi,85,aduan
+Facebook,Aduan Masuk,45,aduan
+Facebook,Tidak Memenuhi Syarat,9,aduan
+Facebook,Aduan Terklarifikasi,27,aduan
+Facebook,Belum Terklarifikasi,9,aduan
+Twitter,Aduan Masuk,78,aduan
+Twitter,Tidak Memenuhi Syarat,29,aduan
+Twitter,Aduan Terklarifikasi,24,aduan
+Twitter,Belum Terklarifikasi,25,aduan
+Instagram,Aduan Masuk,188,aduan
+Instagram,Tidak Memenuhi Syarat,27,aduan
+Instagram,Aduan Terklarifikasi,70,aduan
+Instagram,Belum Terklarifikasi,91,aduan
+Line,Aduan Masuk,50,aduan
+Line,Tidak Memenuhi Syarat,10,aduan
+Line,Aduan Terklarifikasi,22,aduan
+Line,Belum Terklarifikasi,18,aduan

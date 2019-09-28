@@ -1,0 +1,33 @@
+umur,jenis_kelamin,jumlah_penduduk,satuan
+00-04,laki-laki,1706168,jiwa
+00-04,perempuan,1590464,jiwa
+05-09,laki-laki,2007404,jiwa
+05-09,perempuan,1879990,jiwa
+10-14,laki-laki,1963340,jiwa
+10-14,perempuan,1846979,jiwa
+15-19,laki-laki,1845461,jiwa
+15-19,perempuan,1780281,jiwa
+20-24,laki-laki,1945340,jiwa
+20-24,perempuan,1855226,jiwa
+25-29,laki-laki,1869146,jiwa
+25-29,perempuan,1809921,jiwa
+30-34,laki-laki,1784200,jiwa
+30-34,perempuan,1760401,jiwa
+35-39,laki-laki,1914501,jiwa
+35-39,perempuan,1943918,jiwa
+40-44,laki-laki,1716638,jiwa
+40-44,perempuan,1769193,jiwa
+45-49,laki-laki,1624594,jiwa
+45-49,perempuan,1605071,jiwa
+50-54,laki-laki,1310094,jiwa
+50-54,perempuan,1311424,jiwa
+55-59,laki-laki,1084252,jiwa
+55-59,perempuan,1061610,jiwa
+60-64,laki-laki,823626,jiwa
+60-64,perempuan,775805,jiwa
+65-69,laki-laki,579744,jiwa
+65-69,perempuan,521774,jiwa
+70-74,laki-laki,329859,jiwa
+70-74,perempuan,338045,jiwa
+> 75,laki-laki,411619,jiwa
+> 75,perempuan,395237,jiwa

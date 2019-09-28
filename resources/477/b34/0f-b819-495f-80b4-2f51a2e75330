@@ -1,0 +1,82 @@
+provinsi,kode_kota_kabupaten,nama_kota_kabupaten,jenis_komoditi,luas_panen,satuan
+jawa barat,3204,kab. bandung,Kacang Hijau,0,hekter
+jawa barat,3204,kab. bandung,Kacang Tanah,437,hekter
+jawa barat,3204,kab. bandung,Kedelai,850,hekter
+jawa barat,3217,kab. bandung barat,Kacang Hijau,29,hekter
+jawa barat,3217,kab. bandung barat,Kacang Tanah,210,hekter
+jawa barat,3217,kab. bandung barat,Kedelai,550,hekter
+jawa barat,3216,kab. bekasi,Kacang Hijau,4,hekter
+jawa barat,3216,kab. bekasi,Kacang Tanah,91,hekter
+jawa barat,3216,kab. bekasi,Kedelai,0,hekter
+jawa barat,3201,kab. bogor,Kacang Hijau,202,hekter
+jawa barat,3201,kab. bogor,Kacang Tanah,838,hekter
+jawa barat,3201,kab. bogor,Kedelai,255,hekter
+jawa barat,3207,kab. ciamis,Kacang Hijau,963,hekter
+jawa barat,3207,kab. ciamis,Kacang Tanah,859,hekter
+jawa barat,3207,kab. ciamis,Kedelai,1066,hekter
+jawa barat,3203,kab. cianjur,Kacang Hijau,176,hekter
+jawa barat,3203,kab. cianjur,Kacang Tanah,4249,hekter
+jawa barat,3203,kab. cianjur,Kedelai,2821,hekter
+jawa barat,3209,kab. cirebon,Kacang Hijau,1850,hekter
+jawa barat,3209,kab. cirebon,Kacang Tanah,58,hekter
+jawa barat,3209,kab. cirebon,Kedelai,163,hekter
+jawa barat,3205,kab. garut,Kacang Hijau,1113,hekter
+jawa barat,3205,kab. garut,Kacang Tanah,13467,hekter
+jawa barat,3205,kab. garut,Kedelai,6163,hekter
+jawa barat,3212,kab. indramayu,Kacang Hijau,786,hekter
+jawa barat,3212,kab. indramayu,Kacang Tanah,41,hekter
+jawa barat,3212,kab. indramayu,Kedelai,5189,hekter
+jawa barat,3215,kab. karawang,Kacang Hijau,301,hekter
+jawa barat,3215,kab. karawang,Kacang Tanah,45,hekter
+jawa barat,3215,kab. karawang,Kedelai,1495,hekter
+jawa barat,3208,kab. kuningan,Kacang Hijau,25,hekter
+jawa barat,3208,kab. kuningan,Kacang Tanah,438,hekter
+jawa barat,3208,kab. kuningan,Kedelai,191,hekter
+jawa barat,3210,kab. majalengka,Kacang Hijau,1631,hekter
+jawa barat,3210,kab. majalengka,Kacang Tanah,449,hekter
+jawa barat,3210,kab. majalengka,Kedelai,540,hekter
+jawa barat,3218,kab. pangandaran,Kacang Hijau,516,hekter
+jawa barat,3218,kab. pangandaran,Kacang Tanah,226,hekter
+jawa barat,3218,kab. pangandaran,Kedelai,317,hekter
+jawa barat,3214,kab. purwakarta,Kacang Hijau,84,hekter
+jawa barat,3214,kab. purwakarta,Kacang Tanah,190,hekter
+jawa barat,3214,kab. purwakarta,Kedelai,51,hekter
+jawa barat,3213,kab. subang,Kacang Hijau,10,hekter
+jawa barat,3213,kab. subang,Kacang Tanah,135,hekter
+jawa barat,3213,kab. subang,Kedelai,190,hekter
+jawa barat,3202,kab. sukabumi,Kacang Hijau,8,hekter
+jawa barat,3202,kab. sukabumi,Kacang Tanah,1991,hekter
+jawa barat,3202,kab. sukabumi,Kedelai,2447,hekter
+jawa barat,3211,kab. sumedang,Kacang Hijau,128,hekter
+jawa barat,3211,kab. sumedang,Kacang Tanah,3227,hekter
+jawa barat,3211,kab. sumedang,Kedelai,730,hekter
+jawa barat,3206,kab. tasikmalaya,Kacang Hijau,6,hekter
+jawa barat,3206,kab. tasikmalaya,Kacang Tanah,2411,hekter
+jawa barat,3206,kab. tasikmalaya,Kedelai,4534,hekter
+jawa barat,3273,kota bandung,Kacang Hijau,0,hekter
+jawa barat,3273,kota bandung,Kacang Tanah,18,hekter
+jawa barat,3273,kota bandung,Kedelai,0,hekter
+jawa barat,3279,kota banjar,Kacang Hijau,42,hekter
+jawa barat,3279,kota banjar,Kacang Tanah,69,hekter
+jawa barat,3279,kota banjar,Kedelai,161,hekter
+jawa barat,3275,kota bekasi,Kacang Hijau,0,hekter
+jawa barat,3275,kota bekasi,Kacang Tanah,0,hekter
+jawa barat,3275,kota bekasi,Kedelai,1,hekter
+jawa barat,3271,kota bogor,Kacang Hijau,0,hekter
+jawa barat,3271,kota bogor,Kacang Tanah,54,hekter
+jawa barat,3271,kota bogor,Kedelai,0,hekter
+jawa barat,3277,kota cimahi,Kacang Hijau,0,hekter
+jawa barat,3277,kota cimahi,Kacang Tanah,7,hekter
+jawa barat,3277,kota cimahi,Kedelai,0,hekter
+jawa barat,3274,kota cirebon,Kacang Hijau,2,hekter
+jawa barat,3274,kota cirebon,Kacang Tanah,2,hekter
+jawa barat,3274,kota cirebon,Kedelai,0,hekter
+jawa barat,3276,kota depok,Kacang Hijau,0,hekter
+jawa barat,3276,kota depok,Kacang Tanah,21,hekter
+jawa barat,3276,kota depok,Kedelai,0,hekter
+jawa barat,3272,kota sukabumi,Kacang Hijau,0,hekter
+jawa barat,3272,kota sukabumi,Kacang Tanah,3,hekter
+jawa barat,3272,kota sukabumi,Kedelai,0,hekter
+jawa barat,3278,kota tasik,Kacang Hijau,0,hekter
+jawa barat,3278,kota tasik,Kacang Tanah,71,hekter
+jawa barat,3278,kota tasik,Kedelai,310,hekter

@@ -1,0 +1,55 @@
+provinsi,kode_kota_kabupaten,nama_kota_kabupaten,jenis_komoditi,luas_tanam,satuan
+jawa barat,3204,kab. bandung,Padi Sawah,72884,hektar
+provinsi,3204,kab. bandung,Padi Ladang,4521,hektar
+jawa barat,3217,kab. bandung barat,Padi Sawah,37184,hektar
+provinsi,3217,kab. bandung barat,Padi Ladang,5081,hektar
+jawa barat,3216,kab. bekasi,Padi Sawah,94740,hektar
+provinsi,3216,kab. bekasi,Padi Ladang,114,hektar
+jawa barat,3201,kab. bogor,Padi Sawah,86332,hektar
+provinsi,3201,kab. bogor,Padi Ladang,722,hektar
+jawa barat,3207,kab. ciamis,Padi Sawah,86788,hektar
+provinsi,3207,kab. ciamis,Padi Ladang,1795,hektar
+jawa barat,3203,kab. cianjur,Padi Sawah,134170,hektar
+provinsi,3203,kab. cianjur,Padi Ladang,18693,hektar
+jawa barat,3209,kab. cirebon,Padi Sawah,87531,hektar
+provinsi,3209,kab. cirebon,Padi Ladang,169,hektar
+jawa barat,3205,kab. garut,Padi Sawah,130644,hektar
+provinsi,3205,kab. garut,Padi Ladang,31279,hektar
+jawa barat,3212,kab. indramayu,Padi Sawah,241649,hektar
+provinsi,3212,kab. indramayu,Padi Ladang,16347,hektar
+jawa barat,3215,kab. karawang,Padi Sawah,189918,hektar
+provinsi,3215,kab. karawang,Padi Ladang,2659,hektar
+jawa barat,3208,kab. kuningan,Padi Sawah,58082,hektar
+provinsi,3208,kab. kuningan,Padi Ladang,1332,hektar
+jawa barat,3210,kab. majalengka,Padi Sawah,112655,hektar
+provinsi,3210,kab. majalengka,Padi Ladang,2758,hektar
+jawa barat,3218,kab. pangandaran,Padi Sawah,19033,hektar
+provinsi,3218,kab. pangandaran,Padi Ladang,400,hektar
+jawa barat,3214,kab. purwakarta,Padi Sawah,35907,hektar
+provinsi,3214,kab. purwakarta,Padi Ladang,2120,hektar
+jawa barat,3213,kab. subang,Padi Sawah,172896,hektar
+provinsi,3213,kab. subang,Padi Ladang,1087,hektar
+jawa barat,3202,kab. sukabumi,Padi Sawah,129214,hektar
+provinsi,3202,kab. sukabumi,Padi Ladang,25385,hektar
+jawa barat,3211,kab. sumedang,Padi Sawah,72290,hektar
+provinsi,3211,kab. sumedang,Padi Ladang,5798,hektar
+jawa barat,3206,kab. tasikmalaya,Padi Sawah,124520,hektar
+provinsi,3206,kab. tasikmalaya,Padi Ladang,5493,hektar
+jawa barat,3273,kota bandung,Padi Sawah,1790,hektar
+provinsi,3273,kota bandung,Padi Ladang,0,hektar
+jawa barat,3279,kota banjar,Padi Sawah,6350,hektar
+provinsi,3279,kota banjar,Padi Ladang,51,hektar
+jawa barat,3275,kota bekasi,Padi Sawah,746,hektar
+provinsi,3275,kota bekasi,Padi Ladang,2,hektar
+jawa barat,3271,kota bogor,Padi Sawah,513,hektar
+provinsi,3271,kota bogor,Padi Ladang,0,hektar
+jawa barat,3277,kota cimahi,Padi Sawah,421,hektar
+provinsi,3277,kota cimahi,Padi Ladang,40,hektar
+jawa barat,3274,kota cirebon,Padi Sawah,495,hektar
+provinsi,3274,kota cirebon,Padi Ladang,3,hektar
+jawa barat,3276,kota depok,Padi Sawah,364,hektar
+provinsi,3276,kota depok,Padi Ladang,0,hektar
+jawa barat,3272,kota sukabumi,Padi Sawah,3498,hektar
+provinsi,3272,kota sukabumi,Padi Ladang,0,hektar
+jawa barat,3278,kota tasik,Padi Sawah,12877,hektar
+provinsi,3278,kota tasik,Padi Ladang,5,hektar

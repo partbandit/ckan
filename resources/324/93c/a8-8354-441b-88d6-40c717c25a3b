@@ -1,0 +1,156 @@
+channel ,tanggal_aduan,jumlah ,satuan 
+Whats App,2019-01-01,12,aduan
+Whats App,2019-01-02,16,aduan
+Whats App,2019-01-03,16,aduan
+Whats App,2019-01-04,12,aduan
+Whats App,2019-01-05,18,aduan
+Whats App,2019-01-06,8,aduan
+Whats App,2019-01-07,16,aduan
+Whats App,2019-01-08,24,aduan
+Whats App,2019-01-09,24,aduan
+Whats App,2019-01-10,9,aduan
+Whats App,2019-01-11,11,aduan
+Whats App,2019-01-12,3,aduan
+Whats App,2019-01-13,11,aduan
+Whats App,2019-01-14,14,aduan
+Whats App,2019-01-15,4,aduan
+Whats App,2019-01-16,4,aduan
+Whats App,2019-01-17,2,aduan
+Whats App,2019-01-18,5,aduan
+Whats App,2019-01-19,6,aduan
+Whats App,2019-01-20,7,aduan
+Whats App,2019-01-21,5,aduan
+Whats App,2019-01-22,12,aduan
+Whats App,2019-01-23,9,aduan
+Whats App,2019-01-24,11,aduan
+Whats App,2019-01-25,22,aduan
+Whats App,2019-01-26,7,aduan
+Whats App,2019-01-27,13,aduan
+Whats App,2019-01-28,15,aduan
+Whats App,2019-01-29,7,aduan
+Whats App,2019-01-30,13,aduan
+Whats App,2019-01-31,6,aduan
+Facebook,2019-01-01,3,aduan
+Facebook,2019-01-02,0,aduan
+Facebook,2019-01-03,2,aduan
+Facebook,2019-01-04,1,aduan
+Facebook,2019-01-05,1,aduan
+Facebook,2019-01-06,3,aduan
+Facebook,2019-01-07,0,aduan
+Facebook,2019-01-08,0,aduan
+Facebook,2019-01-09,0,aduan
+Facebook,2019-01-10,0,aduan
+Facebook,2019-01-11,0,aduan
+Facebook,2019-01-12,4,aduan
+Facebook,2019-01-13,2,aduan
+Facebook,2019-01-14,2,aduan
+Facebook,2019-01-15,0,aduan
+Facebook,2019-01-16,4,aduan
+Facebook,2019-01-17,4,aduan
+Facebook,2019-01-18,1,aduan
+Facebook,2019-01-19,1,aduan
+Facebook,2019-01-20,4,aduan
+Facebook,2019-01-21,2,aduan
+Facebook,2019-01-22,0,aduan
+Facebook,2019-01-23,1,aduan
+Facebook,2019-01-24,1,aduan
+Facebook,2019-01-25,1,aduan
+Facebook,2019-01-26,2,aduan
+Facebook,2019-01-27,2,aduan
+Facebook,2019-01-28,1,aduan
+Facebook,2019-01-29,3,aduan
+Facebook,2019-01-30,1,aduan
+Facebook,2019-01-31,2,aduan
+Twitter,2019-01-01,0,aduan
+Twitter,2019-01-02,3,aduan
+Twitter,2019-01-03,0,aduan
+Twitter,2019-01-04,1,aduan
+Twitter,2019-01-05,0,aduan
+Twitter,2019-01-06,0,aduan
+Twitter,2019-01-07,0,aduan
+Twitter,2019-01-08,0,aduan
+Twitter,2019-01-09,0,aduan
+Twitter,2019-01-10,0,aduan
+Twitter,2019-01-11,0,aduan
+Twitter,2019-01-12,2,aduan
+Twitter,2019-01-13,0,aduan
+Twitter,2019-01-14,0,aduan
+Twitter,2019-01-15,0,aduan
+Twitter,2019-01-16,1,aduan
+Twitter,2019-01-17,0,aduan
+Twitter,2019-01-18,1,aduan
+Twitter,2019-01-19,0,aduan
+Twitter,2019-01-20,2,aduan
+Twitter,2019-01-21,0,aduan
+Twitter,2019-01-22,0,aduan
+Twitter,2019-01-23,0,aduan
+Twitter,2019-01-24,0,aduan
+Twitter,2019-01-25,0,aduan
+Twitter,2019-01-26,1,aduan
+Twitter,2019-01-27,1,aduan
+Twitter,2019-01-28,3,aduan
+Twitter,2019-01-29,1,aduan
+Twitter,2019-01-30,2,aduan
+Twitter,2019-01-31,1,aduan
+Instagram,2019-01-01,13,aduan
+Instagram,2019-01-02,17,aduan
+Instagram,2019-01-03,8,aduan
+Instagram,2019-01-04,18,aduan
+Instagram,2019-01-05,19,aduan
+Instagram,2019-01-06,3,aduan
+Instagram,2019-01-07,11,aduan
+Instagram,2019-01-08,15,aduan
+Instagram,2019-01-09,4,aduan
+Instagram,2019-01-10,5,aduan
+Instagram,2019-01-11,14,aduan
+Instagram,2019-01-12,6,aduan
+Instagram,2019-01-13,8,aduan
+Instagram,2019-01-14,6,aduan
+Instagram,2019-01-15,3,aduan
+Instagram,2019-01-16,5,aduan
+Instagram,2019-01-17,14,aduan
+Instagram,2019-01-18,5,aduan
+Instagram,2019-01-19,6,aduan
+Instagram,2019-01-20,10,aduan
+Instagram,2019-01-21,9,aduan
+Instagram,2019-01-22,6,aduan
+Instagram,2019-01-23,14,aduan
+Instagram,2019-01-24,6,aduan
+Instagram,2019-01-25,16,aduan
+Instagram,2019-01-26,5,aduan
+Instagram,2019-01-27,4,aduan
+Instagram,2019-01-28,5,aduan
+Instagram,2019-01-29,6,aduan
+Instagram,2019-01-30,7,aduan
+Instagram,2019-01-31,12,aduan
+Line,2019-01-01,0,aduan
+Line,2019-01-02,0,aduan
+Line,2019-01-03,1,aduan
+Line,2019-01-04,0,aduan
+Line,2019-01-05,2,aduan
+Line,2019-01-06,3,aduan
+Line,2019-01-07,2,aduan
+Line,2019-01-08,2,aduan
+Line,2019-01-09,0,aduan
+Line,2019-01-10,0,aduan
+Line,2019-01-11,0,aduan
+Line,2019-01-12,0,aduan
+Line,2019-01-13,0,aduan
+Line,2019-01-14,0,aduan
+Line,2019-01-15,0,aduan
+Line,2019-01-16,0,aduan
+Line,2019-01-17,0,aduan
+Line,2019-01-18,1,aduan
+Line,2019-01-19,0,aduan
+Line,2019-01-20,0,aduan
+Line,2019-01-21,2,aduan
+Line,2019-01-22,1,aduan
+Line,2019-01-23,1,aduan
+Line,2019-01-24,1,aduan
+Line,2019-01-25,0,aduan
+Line,2019-01-26,0,aduan
+Line,2019-01-27,1,aduan
+Line,2019-01-28,0,aduan
+Line,2019-01-29,0,aduan
+Line,2019-01-30,0,aduan
+Line,2019-01-31,1,aduan

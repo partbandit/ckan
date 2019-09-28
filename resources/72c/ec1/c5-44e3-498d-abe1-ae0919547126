@@ -1,0 +1,19 @@
+﻿provinsi,daerah_irigasi,sumber_air,kode_kota_kabupaten,lokasi_kota_kabupaten,kecamatan,luas_per_kecamatan,satuan
+Jawa Barat,Angke V,S. Angke,3201,Kab. Bogor,Sawangan,0,Ha
+Jawa Barat,Angke V,S. Angke,3276,Kota Depok,Sawangan,252,Ha
+Jawa Barat,Bantarjati,S. Ciliwung,3201,Kab. Bogor,"Sukaraja, Bogor Utara",20,Ha
+Jawa Barat,Bantarjati,S. Ciliwung,3271,Kota Bogor,"Sukaraja, Bogor Utara",4,Ha
+Jawa Barat,Cibalok,S. Ciliwung,3201,Kab. Bogor,Ciawi,79,Ha
+Jawa Barat,Cibalok,S. Ciliwung,3271,Kota Bogor,Bogor Timur / Selatan,5,Ha
+Jawa Barat,Cibanon,S. Ciliwung,3201,Kab. Bogor,Sukaraja,473,Ha
+Jawa Barat,Cibanon,S. Ciliwung,3271,Kota Bogor,Bogor Timur,37,Ha
+Jawa Barat,Ciliwung Katulampa,S. Ciliwung,3201,Kab. Bogor,"Cibinong, Sukaraja ",122,Ha
+Jawa Barat,Ciliwung Katulampa,S. Ciliwung,3271,Kota Bogor,Bogor Barat / Utara,139,Ha
+Jawa Barat,Ciliwung Katulampa,S. Ciliwung,3276,Kota Depok,"Pancoran Mas, Limo",72,Ha
+Jawa Barat,Cisadane Empang,S. Cisadane,3201,Kab. Bogor,"Kemang, Rancabungur, BojongGede",789,Ha
+Jawa Barat,Cisadane Empang,S. Cisadane,3271,Kota Bogor,Bogor Barat,4,Ha
+Jawa Barat,Cisadane Empang,S. Cisadane,3276,Kota Depok,"Pancoran Mas, Limo",256,Ha
+Jawa Barat,Kranji,S. Ciluar,3201,Kab. Bogor,"Cibinong, Cimanggis",53,Ha
+Jawa Barat,Kranji,S. Ciluar,3276,Kota Depok,"Cibinong, Cimanggis",98,Ha
+Jawa Barat,Parakanjati,S. Pasanggrahan,3201,Kab. Bogor,"Bojong gede, Sawangan",49,Ha
+Jawa Barat,Parakanjati,S. Pasanggrahan,3276,Kota Depok,"Bojong gede, Sawangan",70,Ha
