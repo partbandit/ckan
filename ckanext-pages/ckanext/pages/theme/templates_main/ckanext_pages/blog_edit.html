@@ -1,0 +1,16 @@
+{% extends 'ckanext_pages/edit_base_infographic.html' %}
+
+{% block subtitle %}{{ _('Edit Infografis')}} {% endblock %}
+
+{% block primary_content_inner %} 
+  {% snippet form_snippet, page=page, data=data, errors=errors, type='blog' %}
+{% endblock %}
+
+
+{% block main_content %}
+   {{ self.flash() }}
+   <!-- {{ self.toolbar() }} -->
+   <div class="no-nav">
+     {{ self.primary_content() }}
+   </div>
+{% endblock %}

@@ -1,0 +1,42 @@
+{% extends 'page.html' %}
+
+{% block styles %}
+  {{ super() }}
+  {% resource 'pages-theme/styles/pages.css' %}
+{% endblock %}
+
+{% block page_header %}
+
+<div class="toolbar"> 
+  <ol class="breadcrumb"> 
+    <li class="home"><a href="/"><i class="fa fa-home"></i><span> Beranda</span></a></li> 
+    <li class="active"><a class=" active" href="/visualization">Visualisasi</a></li>
+  </ol> 
+</div>
+
+
+<aside class="secondary col-sm-3"> 
+    <div class="module module-narrow module-shallow">
+      <h2 class="module-heading">
+        <i class="fa fa-info-circle"></i>
+        Apa itu visualisasi?
+      </h2>
+      <div class="module-content">
+        <p>
+          Visualisasi pada Open Data Jawa Barat merupakan hasil analisis data yang bersumber dari Open Data Jawa Barat dan divisualisasikan menjadi grafik-grafik yang menarik serta mudah dibaca. 
+        </p>
+      </div>
+    </div> 
+</aside>
+
+<div class="primary col-sm-9 col-xs-12"> 
+		<!-- <article class="module">  -->
+			<!-- <div class="module-content">  -->
+				<!-- <div class="page_primary_action">  -->
+					<!-- <a class="btn btn-primary" href="/organization/new"><i class="fa fa-plus-square"></i> Tambah Organisasi</a> -->
+					<!-- <a class="btn btn-primary" href="/organization/new"><i class="fa fa-plus-square"></i> Tambah Organisasi</a>  -->
+				<!-- </div>  -->
+        
+
+{% endblock %}
+ 

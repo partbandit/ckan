@@ -1,0 +1,83 @@
+{% set pages_total = pages|length %}
+{% set action = '{0}_show'.format(type) %}
+
+{#
+{% if type == 'blog' %}
+  <h2>{{ _('1 blog article') if pages_total == 1 else _('{0} blog articles').format(pages_total) }}</h2>
+{% else %}
+  <h2>{{ _('1 page') if pages_total == 1 else _('{0} pages').format(pages_total) }}</h2>
+{% endif %}
+#}
+
+{% if type == 'blog' %}
+  <!-- <h2>Infografis</h2> -->
+{% else %}
+ <!-- <h2>Visualisasi</h2> -->
+{% endif %}
+
+{% if pages %}
+  {% set editor = h.get_wysiwyg_editor() %}
+
+    {% for page in pages %}  
+        {% set url = h.url_for(controller='ckanext.pages.controller:PagesController', action='pages_show', page='/' + page.name) %}
+       
+      <li class="dataset-item" style="list-style: none;">
+      <div class="row page-list-item dataset-item" style="margin-left: 0px; margin-right: 0px;">
+      {% if page.image %}
+        <div class="col-sm-3 col-xs-3 image">
+            <a style="background-image:url({{ page.image }})" href="{{ url }}"></a>
+        </div>
+        <div class="col-sm-8 col-xs-8"> 
+            <h3 class="dataset-heading">
+              <a href="{{ url }}" style="font-size: 24px;">{{ page.title }}</a>
+              {% if page.publish_date %}
+                <small class="date"> {{ h.render_datetime(page.publish_date) }} </small>
+              {% endif %}
+            </h3>  
+          {% if page.content %} 
+            {% if editor %}
+            <div>
+              <!-- {{page.content|striptags|truncate}} -->
+              {{h.html_extract(page.content)}}
+            </div>
+            {% else %}
+              {{ h.markdown_extract(page.content) }}
+            {% endif %}
+          {% else %}
+            <p class="empty">{{ _('Tidak ada konten') }}</p>
+          {% endif %}
+        </div>
+      {% else %} 
+        <div class="col-sm-12 col-xs-12">
+          <h3 class="dataset-heading">
+            <a href="{{ url }}" >{{ page.title }}</a>
+            {% if page.publish_date %}
+               <small class="date"> {{ h.render_datetime(page.publish_date) }} </small>
+            {% endif %}
+          </h3>
+        </div> 
+        <div class="col-sm-12 col-xs-12">
+          {% if page.content %}
+            {% if editor %}
+            <div style="margin-left: 20px;">
+              {{page.content|striptags|truncate}}
+            </div>
+            {% else %}
+              {{ h.markdown_extract(page.content) }}
+            {% endif %}
+          {% else %}
+            <p class="empty"  style="margin-left: 20px;">{{ _('Tidak ada konten') }}</p>
+          {% endif %}
+        </div>
+      {% endif %}
+      </div>
+      </li>
+    {% endfor %}
+
+{% else %}
+    {% if type == 'blog' %}
+      <p class="empty">{{ _('Tidak ada konten') }}</p>
+    {% else %}
+      <p class="empty">{{ _('Tidak ada konten') }}</p>
+    {% endif %}
+{% endif %}

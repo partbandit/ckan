@@ -1,0 +1,133 @@
+{% extends 'page.html' %}
+   
+{% block subtitle %}{{ c.page.title }}{% endblock %}
+
+{% block primary %}
+    
+<style>
+.toolbar{
+  display: none;
+}
+
+.toolbar2 {
+  position: relative;
+  margin-bottom: 10px;
+  padding: 5px 0;
+}
+.toolbar2:before,
+.toolbar2:after {
+  content: " ";
+  display: table;
+}
+.toolbar2:after {
+  clear: both;
+}
+.toolbar2:before,
+.toolbar2:after {
+  content: " ";
+  display: table;
+}
+.toolbar2:after {
+  clear: both;
+}
+.page_primary_action {
+  margin-bottom: 20px;
+}
+.toolbar2 .breadcrumb {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  position: relative;
+  float: left;
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: none;
+  font-size: 18px;
+}
+.toolbar2 .breadcrumb:before,
+.toolbar2 .breadcrumb:after {
+  content: " ";
+  display: table;
+}
+.toolbar2 .breadcrumb:after {
+  clear: both;
+}
+.toolbar2 .breadcrumb:before,
+.toolbar2 .breadcrumb:after {
+  content: " ";
+  display: table;
+}
+.toolbar2 .breadcrumb:after {
+  clear: both;
+}
+.toolbar2 .home a {
+  text-decoration: none;
+}
+.toolbar2 .home span {
+  display: none;
+}
+.toolbar2 .breadcrumb a {
+  color: #505050;
+}
+@media (max-width: 767px) {
+  .toolbar2 .breadcrumb {
+    color: #fff;
+    text-shadow: none;
+  }
+  .toolbar2 .breadcrumb a {
+    color: #fff;
+    text-shadow: none;
+  }
+}
+.toolbar2 .breadcrumb .active a,
+.toolbar2 .breadcrumb a.active {
+  font-weight: bold;
+}
+</style>
+<div class="toolbar2"> 
+    <ol class="breadcrumb"> 
+      <li class="home"><a href="/"><i class="fa fa-home"></i><span> Beranda</span></a></li> 
+      <li class="active"><a class=" active" href="/visualization">Visualisasi</a></li>
+    </ol> 
+  </div>
+  
+  
+  <aside class="secondary col-sm-3"> 
+      <div class="module module-narrow module-shallow">
+        <h2 class="module-heading">
+          <i class="fa fa-info-circle"></i>
+          Apa itu visualisasi?
+        </h2>
+        <div class="module-content">
+          <p>
+            Visualisasi pada Open Data Jawa Barat merupakan hasil analisis data yang bersumber dari Open Data Jawa Barat dan divisualisasikan menjadi grafik-grafik yang menarik serta mudah dibaca. 
+          </p>
+        </div>
+      </div> 
+  </aside>
+  
+  <div class="primary col-sm-9 col-xs-12"> 
+
+  <section class="module-content">
+    {% if h.check_access('ckanext_pages_update') %}
+      {% link_for _('Edit'), controller='ckanext.pages.controller:PagesController', action='pages_edit', page='/' + c.page.name, class_='btn btn-primary pull-right', icon='edit' %}
+    {% endif %}
+    <h1 class="page-heading">{{ c.page.title }}</h1>
+    {% if c.page.content %}
+      <div class="ckanext-pages-content" style="font-size: medium;">
+        {% set editor = h.get_wysiwyg_editor() %}
+        {% if editor %}
+          <div>
+              {{c.page.content|safe}}
+          </div>
+        {% else %}
+          {{ h.render_content(c.page.content) }}
+        {% endif %}
+      </div>
+    {% else %}
+      <p class="empty">{{ _('This page currently has no content') }}</p>
+    {% endif %}
+  </section>
+ </div>
+{% endblock %}
+ 
