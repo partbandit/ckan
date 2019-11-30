@@ -2511,18 +2511,23 @@ def get_site_statistics():
         
         query1 = "SELECT COUNT(*) as count FROM public.ckanext_pages WHERE page_type = \'page\'"
         query2 = "SELECT COUNT(*) as count FROM public.ckanext_pages WHERE page_type = \'blog\'"
+        query3 = "SELECT COUNT(id) as count FROM public.resource WHERE state = \'active\'"
 
         cursor1 = connection.cursor()
         cursor2 = connection.cursor()
+        cursor3 = connection.cursor()
 
         cursor1.execute(query1) 
         cursor2.execute(query2) 
+        cursor3.execute(query3) 
 
         result1 = cursor1.fetchone()
         result2 = cursor2.fetchone()
+        result3 = cursor3.fetchone()
 
         stats['visualization_count'] = result1[0]
         stats['infographic_count'] = result2[0]
+        stats['data_count'] = result3[0]
 
     except Exception as e:
         print("something wrong in connection")

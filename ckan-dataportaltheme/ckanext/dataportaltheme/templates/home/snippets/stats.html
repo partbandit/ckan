@@ -1,16 +1,17 @@
 {% set stats = h.get_site_statistics() %}
 <style>
   .card{
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.03);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     background-color: #fff;
     border-radius: 3px;
     border: none;
     position: relative;
-    margin: 10px 10px 10px 10px'
+    /* margin: 10px 10px 10px 10px; */
+    /* max-width: 120px; */
   }
   .card-icon{
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
     margin: 10px;
     border-radius: 3px;
     line-height: 94px;
@@ -47,7 +48,112 @@
   <div class="inner">
     <!-- <h3>{{ _('{0} Statistik').format(g.site_title) }}</h3> -->
     <h3>{{ _('Statistik')}}</h3>
-    <ul class="categories2"> 
+    <div class="row">
+      <div class="col-md-2 col-sm-4 col-xs-6">
+          <a href="/dataset" style="cursor: pointer;">
+            <div class="card">
+              <div class="card-icon" style="background-color: #00b7f0">
+                <i class="fa fa-database fa-2x"></i>
+              </div>
+              <div class="card-wrap">
+                <div class="card-header">
+                  <h4>Total Dataset</h4>
+                </div>
+                <div class="card-body">
+                    {{ h.SI_number_span(stats.dataset_count) }}
+                </div>
+              </div>
+            </div>
+          </a>
+      </div>
+      <div class="col-md-2 col-sm-4 col-xs-6">
+          <a href="/dataset" style="cursor: pointer;">
+            <div class="card">
+              <div class="card-icon" style="background-color: #009c57">
+                <i class="fa fa-file fa-2x"></i>
+              </div>
+              <div class="card-wrap">
+                <div class="card-header">
+                  <h4>Total Data</h4>
+                </div>
+                <div class="card-body">
+                    {{ h.SI_number_span(stats.data_count) }}
+                </div>
+              </div>
+            </div>
+          </a>
+      </div>
+      <div class="col-md-2 col-sm-4 col-xs-6">
+          <a href="/organization" style="cursor: pointer;">
+            <div class="card">
+              <div class="card-icon" style="background-color: #fecb29">
+                <i class="fa fa-bank fa-2x"></i>
+              </div>
+              <div class="card-wrap">
+                <div class="card-header">
+                  <h4>Total Organisasi</h4>
+                </div>
+                <div class="card-body">
+                    {{ h.SI_number_span(stats.organization_count) }}
+                </div>
+              </div>
+            </div>
+          </a>
+      </div>
+      <div class="col-md-2 col-sm-4 col-xs-6">
+          <a href="/group" style="cursor: pointer;">
+            <div class="card">
+              <div class="card-icon" style="background-color: #00b7f0">
+                <i class="fa fa-th fa-2x"></i>
+              </div>
+              <div class="card-wrap">
+                <div class="card-header">
+                  <h4>Total Sektoral</h4>
+                </div>
+                <div class="card-body">
+                    {{ h.SI_number_span(stats.group_count) }}
+                </div>
+              </div>
+          </div>
+      </div>
+      <div class="col-md-2 col-sm-4 col-xs-6">
+          <a href="/visualization" style="cursor: pointer;">
+            <div class="card">
+              <div class="card-icon" style="background-color: #009c57">
+                <i class="fa fa-desktop fa-2x"></i>
+              </div>
+              <div class="card-wrap">
+                <div class="card-header">
+                  <h4>Total Visualisasi</h4>
+                </div>
+                <div class="card-body">
+                    {{ h.SI_number_span(stats.visualization_count) }}
+                </div>
+              </div>
+            </div>
+          </a>
+      </div>
+      <div class="col-md-2 col-sm-4 col-xs-6">
+          <a href="/infographic" style="cursor: pointer;">
+            <div class="card">
+              <div class="card-icon" style="background-color: #fecb29">
+                <i class="fa fa-line-chart fa-2x"></i>
+              </div>
+              <div class="card-wrap">
+                <div class="card-header">
+                  <h4>Total Infografis</h4>
+                </div>
+                <div class="card-body">
+                    {{ h.SI_number_span(stats.infographic_count) }}
+                </div>
+              </div>
+            </div>
+            </a>
+      </div>
+
+    </div>
+
+    <!-- <ul class="categories2"> 
       <li style="">
         <a href="/dataset" style="cursor: pointer;">
         <div class="card">
@@ -60,6 +166,23 @@
             </div>
             <div class="card-body">
                 {{ h.SI_number_span(stats.dataset_count) }}
+            </div>
+          </div>
+        </div>
+        </a>
+      </li>
+      <li style="">
+        <a href="/dataset" style="cursor: pointer;">
+        <div class="card">
+          <div class="card-icon" style="background-color: #00b7f0">
+            <i class="fa fa-file fa-2x"></i>
+          </div>
+          <div class="card-wrap">
+            <div class="card-header">
+              <h4>Total Data</h4>
+            </div>
+            <div class="card-body">
+                {{ h.SI_number_span(stats.data_count) }}
             </div>
           </div>
         </div>
@@ -133,7 +256,7 @@
         </div>
         </a>
       </li> 
-    </ul>
+    </ul> -->
     <br>
     <br>
     <br>
